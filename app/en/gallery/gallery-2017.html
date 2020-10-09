@@ -2,35 +2,36 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=1280">
-    <title>Nature's Best Photography Asia</title>
-    <meta name="description" content="Sample text">
-    <link rel="alternate" href="http://naturesbestphotography.asia/ja/judges.html" hreflang="ja">
-    <link rel="alternate" href="http://naturesbestphotography.asia/en/judges.html" hreflang="en">
-    <meta name="keywords" content="nature,photography,asia,contest,Smithsonian’s National Museum">
-    <meta name="author" content="Nature's Best Photography Asia">
-    <link rel="stylesheet" type="text/css" href="../../../assets/styles/main.css?1454032337" media="all">
-    <!-- Latest compiled and minified CSS -->
-    <script type="text/javascript" src="http://ff.kis.v2.scr.kaspersky-labs.com/073BEE35-6697-EF4F-9558-B14D1FB2C601/main.js" charset="UTF-8"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="../../../assets/styles/gallery.css" media="all">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha3-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="../../../css/main.css"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+   <meta charset="utf-8">
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+   <meta name="viewport" content="width=1280">
+   <title>Nature's Best Photography Asia</title>
+   <meta name="description" content="Sample text">
+   <link rel="alternate" href="http://naturesbestphotography.asia/ja/judges.html" hreflang="ja">
+   <link rel="alternate" href="http://naturesbestphotography.asia/en/judges.html" hreflang="en">
+   <meta name="keywords" content="nature,photography,asia,contest,Smithsonian’s National Museum">
+   <meta name="author" content="Nature's Best Photography Asia">
+   <link rel="stylesheet" type="text/css" href="../../../assets/styles/main.css?1454032337" media="all">
+   <!-- Latest compiled and minified CSS -->
+   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
+   <link rel="stylesheet" type="text/css" href="../../../assets/styles/gallery.css" media="all">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha3-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+   <!-- Latest compiled and minified JavaScript -->
+   <script src="../../../css/main.css"></script>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="../style2.css" media="all">
+   <link rel="stylesheet" type="text/css" href="../style2.css" media="all">
 
-    <link rel="stylesheet" type="text/css" href="../../../assets/styles/style2.css" media="all">
+   <link rel="stylesheet" type="text/css" href="../../../assets/styles/style2.css" media="all">
 
-    <script type="text/javascript" src="../../../assets/styles/jquery_lazy/jquery.lazy.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   <script type="text/javascript" src="../../../assets/styles/jquery_lazy/jquery.lazy.min.js"></script>
+
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 
 
@@ -39,118 +40,96 @@
 </head>
 
 <body data-spy="scroll" data-target=".onpage-navigation" data-offset="150">
-    <!--<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=BKM8I&webforms_id=9131504"></script>-->
+   <!--<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=BKM8I&webforms_id=9131504"></script>-->
 
-    <script>
-        $(function() {
-            $('.lazy').Lazy();
-        });
-    </script>
-    <script>
-        $(function() {
-            $(".footer__top").click(function() {
-                $('body, html').animate({
-                    scrollTop: 0
-                }, 500);
-            });
-            $(".js-langSelector").click(function() {
-                $(".js-langChild").add(this).toggleClass("on");
-            });
-            $(document).click(function(e) {
-                if (!$.contains($(".js-langSelector")[0], e.target)) {
-                    $(".js-langSelector, .js-langChild").removeClass("on");
-                }
-            });
-            $('.hero__slide').slick({
-                autoplay: true,
-                infinite: true,
-                speed: 500,
-                fade: true,
-                cssEase: 'linear'
-            });
-            $('.hero__slide').on(
-                'beforeChange',
-                function(event, slick, currentSlide, nextSlide) {
-                    var $heroText = $('.js-hero_txt_image');
-                    if (nextSlide === 2) {
-                        $heroText.fadeOut('400', function() {
-                            $(this)
-                                .attr('src', '/assets/images/index__hero-text-2.png')
-                                .delay(100)
-                                .fadeIn();
-                        })
-                    }
-                    else if (nextSlide === 0) {
-                        $heroText.fadeOut('400', function() {
-                            $(this)
-                                .attr('src', '/assets/images/index__hero-text.png')
-                                .delay(100)
-                                .fadeIn();
-                        })
-                    }
-                });
-        });
-    </script>
+   <script>
+      $(function () {
+         $('.lazy').Lazy();
+      });
+   </script>
 
-    <div class="gallerywrapper" id="gallerywrapper">
-        <header class="main-header main-bar-header navbar navbar-custom navbar-transparent">
-            <div class="inner-container container bar-header ">
+   <div class="gallerywrapper" id="gallerywrapper">
+      <header class="main-header main-bar-header navbar navbar-custom navbar-transparent">
+         <div class="inner-container container bar-header ">
 
-                <div class="row">
-                    <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
+            <div class="row">
+               <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
 
-                        <img src="../../../assets/images/common__logo.png" srcset="" alt="Nature's Best Photography Asia" class=" pull-right img-responsive headerLogo">
+                  <img src="../../../assets/images/common__logo.png" srcset="" alt="Nature's Best Photography Asia"
+                     class=" pull-right img-responsive headerLogo">
 
 
 
-                    </div>
-                    <div class="col-lg-2 col-md-2 col-sm-2 hidden-xs">
+               </div>
 
-                    </div>
-                </div>
-
-                <span onclick="openNav()" class="hidden-md hidden-lg  hidden-sm top_menu_toggle"><i  onclick="openNav()" class="fa fa-bars" class="top_menu_toggle"></i> </span>
-                <div id="mySidenav" class="sidenav top_toggle_nav_bg">
-                    <!--mob menu-->
-                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-                    <a href="../../en/">HOME</a>
-                    <a href="https://news.naturesbestphotography.asia/news">NEWS</a>
-                    <a href="../../en/contest-details.html">CONTEST DETAILS</a>
-                    <a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a>
-                    <a href="../../en/judges.html">JUDGES</a>
-                    <li class="dropdown">
-                        <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="../gallery/index.html">2019 GAllery</a></li>
-                            <li><a href="../gallery/gallery-2018.html">2018 GAllery</a></li>
-                            <li><a href="../gallery/gallery-2017.html">2017 GAllery</a></li>
-                        </ul>
-                    </li>
-                </div>
-
-
-
-                <div class="row navContainer hidden-xs">
-
-                    <ul class="nav navbar-nav">
-                        <li><a href="../../en/">HOME</a></li>
-                        <li><a href="https://news.naturesbestphotography.asia/news">NEWS</a></li>
-                        <li><a href="../../en/contest-details.html">CONTEST DETAILS</a></li>
-                        <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
-                        <li><a href="../../en/judges.html">JUDGES</a></li>
-                        <li class="dropdown">
-                            <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../gallery/index.html">2019 GAllery</a></li>
-                                <li><a href="../gallery/gallery-2018.html">2018 GAllery</a></li>
-                                <li><a href="../gallery/gallery-2017.html">2017 GAllery</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-
-                </div>
             </div>
-        </header>
+
+            <span onclick="openNav()" class="hidden-md hidden-lg  hidden-sm top_menu_toggle"><i onclick="openNav()"
+                  class="fa fa-bars" class="top_menu_toggle"></i> </span>
+            <div id="mySidenav" class="sidenav top_toggle_nav_bg">
+               <!--mob menu-->
+               <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+               <a href="../">HOME</a>
+               <a href="https://news.naturesbestphotography.asia/news">NEWS</a>
+               <a href="../contest-details.html">CONTEST DETAILS</a>
+               <a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a>
+               <a href="../judges.html">JUDGES</a>
+               <li class="dropdown">
+                  <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="../../en/gallery/index.html">2020 Gallery</a></li>
+                    <li><a href="../../en/gallery/gallery-2019.html">2019 Gallery</a></li>
+                    <li><a href="../../en/gallery/gallery-2018.html">2018 Gallery</a></li>
+                    <li><a href="../../en/gallery/gallery-2017.html">2017 Gallery</a></li>
+                  </ul>
+                </li>
+               <li class="dropdown">
+                  <a data-toggle="dropdown" href="#">Language<span class="caret"></span></a></a>
+                  <ul class="dropdown-menu">
+                     <li><a href="/en/">English</a></li>
+                     <li><a href="/ru/">Russian</a></li>
+                     <li><a href="/ja/">日本語</a></li>
+                     <li><a href="/sc/">中国語 簡体字</a></li>
+                     <li><a href="/tc/">中国語 繁体字</a></li>
+                     <li><a href="/ko/" class="last">韓国語</a></li>
+                  </ul>
+               </li>
+            </div>
+
+
+
+            <div class="row navContainer hidden-xs">
+
+               <ul class="nav navbar-nav">
+                  <li><a href="../">HOME</a></li>
+                  <li><a href="../contest-details.html">CONTEST DETAILS</a></li>
+                  <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
+                  <li><a href="../judges.html">JUDGES</a></li>
+                  <li class="dropdown">
+                     <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
+                     <ul class="dropdown-menu">
+                       <li><a href="../../en/gallery/index.html">2020 Gallery</a></li>
+                       <li><a href="../../en/gallery/gallery-2019.html">2019 Gallery</a></li>
+                       <li><a href="../../en/gallery/gallery-2018.html">2018 Gallery</a></li>
+                       <li><a href="../../en/gallery/gallery-2017.html">2017 Gallery</a></li>
+                     </ul>
+                   </li>
+                  <li class="dropdown">
+                     <a data-toggle="dropdown" href="#">Language<span class="caret"></span></a></a>
+                     <ul class="dropdown-menu">
+                        <li><a href="/en/">English</a></li>
+                        <li><a href="/ru/">Russian</a></li>
+                        <li><a href="/ja/">日本語</a></li>
+                        <li><a href="/sc/">中国語 簡体字</a></li>
+                        <li><a href="/tc/">中国語 繁体字</a></li>
+                        <li><a href="/ko/" class="last">韓国語</a></li>
+                     </ul>
+                  </li>
+               </ul>
+
+            </div>
+         </div>
+      </header>
         <div class="container mainTitle">
             <h3 class="gallery_header">winners gallery 2017</h3>
         </div>
