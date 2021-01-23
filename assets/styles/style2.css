@@ -1861,12 +1861,6 @@ padding:0 ! important;
     overflow-x: hidden;
 }
 
-
-
-
-
-
-
 .overlay {
     position: absolute !important;
     top: 1500px;
@@ -1877,4 +1871,11 @@ padding:0 ! important;
 
 #no-text-transform{
   text-transform: none;
+}
+
+.center-hero {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

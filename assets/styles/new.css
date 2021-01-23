@@ -1,0 +1,30 @@
+  .hero-image {
+    background: url("../../assets/images/hero-top.jpg");
+  }
+
+  .hero-top {    
+    position: relative;    
+    width: 100%;    
+    z-index: 1;  
+
+    }  
+
+    .hero-overlay img {width: 100% }
+
+    .hero-overlay {    
+        position: absolute;    
+        z-index: 1000;    
+        top: 30%;
+        width: 100%;
+        height: 100%;
+        text-align: center; 
+        font-weight: 700;    
+        color: white;
+        /**some fallback value**/    
+        font-size: 16px;  
+        /**responsive size is roughly 3.4%  of the device's viewport width**/    
+        font-size: 3.4vw;  
+        text-shadow: black 2px 2px;
+        }
+
+        

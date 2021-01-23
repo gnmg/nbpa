@@ -12,13 +12,12 @@
   <meta name="keywords" content="nature,photography,asia,contest">
   <meta name="author" content="Nature's Best Photography Asia">
   <link rel="stylesheet" type="text/css" href="../../assets/styles/main.css?1455274908" media="all">
-
-
-
+  <link rel="stylesheet" type="text/css" href="../../assets/styles/new.css" media="all">
+  <link rel="stylesheet" type="text/css" href="../../assets/styles/style2.css" media="all">
+  
   <!--bootstrap cdn-->
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <!-- jQuery library -->
@@ -31,42 +30,10 @@
   <script src="jquery.mb.YTPlayer.js"></script>
   <link href="jquery.mb.YTPlayer.min.css" media="all" rel="stylesheet" type="text/css">
   <script type="text/javascript" src="../../assets/scripts/script.js"></script>
-  <link rel="stylesheet" type="text/css" href="../../assets/styles/style2.css" media="all">
+  
 
   <!-- Colorbox -->
   <link rel="stylesheet" href="https://cdn.rawgit.com/jackmoore/colorbox/master/example1/colorbox.css">
-
-
-  <!-- Facebook Pixel Code -->
-  <script>
-    ! function(f, b, e, v, n, t, s) {
-      if (f.fbq) return;
-      n = f.fbq = function() {
-        n.callMethod ?
-          n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-      };
-      if (!f._fbq) f._fbq = n;
-      n.push = n;
-      n.loaded = !0;
-      n.version = '2.0';
-      n.queue = [];
-      t = b.createElement(e);
-      t.async = !0;
-      t.src = v;
-      s = b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t, s)
-    }(window, document, 'script',
-      'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '1729919350403908');
-    fbq('track', 'PageView');
-  </script>
-  <noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=1729919350403908&ev=PageView&noscript=1"
-/></noscript>
-  <!-- End Facebook Pixel Code -->
-
-
-
 </head>
 
 <body data-spy="scroll" data-target=".onpage-navigation" data-offset="150">
@@ -149,9 +116,23 @@
       </div>
     </header>
 
-    <div class="top-hero">
-      <div id="randomImage"><a href="../en/gallery/index.html"></a></div>
+    <!-- <figure class="overlay">      
+      <img src="../../assets/images/hero-top.jpg" alt="person">
+      <figcaption> Figcaption<br>
+      Description<br> 
+      </figcaption> 
+      </figure> -->
+
+    <div class="hero-top">
+      <img class="img-responsive" src="../../assets/images/hero-top.jpg" alt="">
+      <div class="hero-overlay">Nature's Best Photography Asia 2021</br>Nature Photo Contest<br>Starting Soon</div>
     </div>
+
+    <!-- <div class="top-hero ">
+      <div class="center-hero">hero text in the center</div>
+
+      <img class="img-responsive" src="../../assets/images/hero-top.jpg" alt="">
+    </div> -->
 
     <div class="index__hero">
       <div class="index__hero__intro"><a name="anchor"></a><img src="../../assets/images/index__hero-intro.png" alt="A Photographic Celebration of Earth’s Largest Continent" class="mediamax90"></div>
@@ -195,9 +176,9 @@
 
           <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
             <h2>Awards</h2>
-            <p><b>Grand Prize:</b> USD $1,000, award plaque, photo displayed at the Wonders of Wildlife National Museum, displayed in Nature's Best Photography magazine.</br>
+            <p><b>Grand Prize:</b> USD $1,000, award plaque, photo displayed at the Wonders of Wildlife National Museum and in Nature's Best Photography magazine.</br>
               </br>
-              <b>Category Winners:</b> Award plaque, photo displayed at the Wonders of Wildlife National Museum and displayed in Nature's Best Photography magazine.</br>
+              <b>Category Winners:</b> Photo displayed at the Wonders of Wildlife National Museum and in Nature's Best Photography magazine.</br>
               </br>
               <b>Category Highly Honored:</b> All images and videos will be displayed in winner's gallery on our website. Some images may be chosen to be on display at Wonders of Wildlife National Museum.</br>
               </br>
@@ -357,7 +338,7 @@
   <script>
     var randomImage = {
       paths: [
-        "../../assets/images/english-hero-2020-winners.jpg",
+        "../../assets/images/hero-top.jpg",
       ],
 
       generate: function() {

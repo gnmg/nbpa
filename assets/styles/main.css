@@ -2591,3 +2591,10 @@ header:not(.navbar-transparent) .row.navContainer .nav.navbar-nav a {
 .span4 .img-right {
     float: right;
 }
+
+.center-hero {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  }
