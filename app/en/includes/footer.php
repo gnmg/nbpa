@@ -16,11 +16,11 @@
       <div class="container ">
         <nav>
           <ul>
-            <li><a href="../en/contact-us.html ">Contact Us</a></li>
-            <li><a href="../en/privacy-policy.html ">Privacy Policy</a></li>
-            <li><a href="../en/terms.html ">Terms of Use</a></li>
-            <li><a href="../en/credits.html ">Credits</a></li>
-            <li><a href="../en/partners.html ">Partners</a></li>
+            <li><a href="../en/contact-us.php">Contact Us</a></li>
+            <li><a href="../en/privacy-policy.php">Privacy Policy</a></li>
+            <li><a href="../en/terms.php">Terms of Use</a></li>
+            <li><a href="../en/credits.php">Credits</a></li>
+            <li><a href="../en/partners.php">Partners</a></li>
             <li class="js-langSelector "><a href=" " onclick="return false " class="last ">Language<small>▲</small></a>
               <ul class="js-langChild ">
                 <li><a href="/en/ ">English</a></li>
@@ -129,6 +129,15 @@
     randomImage.generate();
   </script>
 
-</body>
+<script>
+      function openNav() {
+         document.getElementById("mySidenav").style.width = "274px";
+         document.getElementById("gallerywrapper").style.marginLeft = "274px";
+      }
 
-</html>
+      /* Set the width of the side navigation to 0 and the left margin of the page content to 0 */
+      function closeNav() {
+         document.getElementById("mySidenav").style.width = "0";
+         document.getElementById("gallerywrapper").style.marginLeft = "0";
+      }
+   </script>

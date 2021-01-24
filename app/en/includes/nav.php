@@ -13,9 +13,9 @@
           <!--mob menu-->
           <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
           <a href="../en/">HOME</a>
-          <a href="../en/contest-details.html">CONTEST DETAILS</a>
+          <a href="../en/contest-details.php">CONTEST DETAILS</a>
           <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
-          <a href="../en/judges.html">JUDGES</a>
+          <a href="../en/judges.php">JUDGES</a>
 
           <li class="dropdown">
             <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
@@ -45,9 +45,9 @@
 
           <ul class="nav navbar-nav">
             <li><a href="../en/">HOME</a></li>
-            <li><a href="../en/contest-details.html">CONTEST DETAILS</a></li>
+            <li><a href="../en/contest-details.php">CONTEST DETAILS</a></li>
             <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
-            <li><a href="../en/judges.html">JUDGES</a></li>
+            <li><a href="../en/judges.php">JUDGES</a></li>
             <li class="dropdown">
               <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
               <ul class="dropdown-menu">
