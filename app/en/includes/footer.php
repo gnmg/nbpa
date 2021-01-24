@@ -41,7 +41,6 @@
   </footer>
   </div>
   <script type="text/javascript" src="../../assets/scripts/main.min.js"></script>
-  <script src="../../assets/scripts/jquery.mb.YTPlayer.js"></script>
   <script>
     (function(i, s, o, g, r, a, m) {
       i['GoogleAnalyticsObject'] = r;
