@@ -1,43 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-   <meta charset="utf-8">
-   <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <meta name="viewport" content="width=1280">
-   <title>Nature's Best Photography Asia</title>
-   <meta name="description" content="Sample text">
-   <link rel="alternate" href="http://naturesbestphotography.asia/ja/judges.html" hreflang="ja">
-   <link rel="alternate" href="http://naturesbestphotography.asia/en/judges.html" hreflang="en">
-   <meta name="keywords" content="nature,photography,asia,contest,Smithsonian’s National Museum">
-   <meta name="author" content="Nature's Best Photography Asia">
-   <link rel="stylesheet" type="text/css" href="../../../assets/styles/main.css?1454032337" media="all">
-   <!-- Latest compiled and minified CSS -->
-   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
-   <link rel="stylesheet" type="text/css" href="../../../assets/styles/gallery.css" media="all">
-   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-      integrity="sha3-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-   <!-- Latest compiled and minified JavaScript -->
-   <script src="../../../css/main.css"></script>
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-
-   <link rel="stylesheet" type="text/css" href="../style2.css" media="all">
-
-   <link rel="stylesheet" type="text/css" href="../../../assets/styles/style2.css" media="all">
-
-   <script type="text/javascript" src="../../../assets/styles/jquery_lazy/jquery.lazy.min.js"></script>
-
-   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-
-
-
-
-</head>
+   <?php include "../includes/head.php";?>
 
 <body data-spy="scroll" data-target=".onpage-navigation" data-offset="150">
    <!--<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=BKM8I&webforms_id=9131504"></script>-->
@@ -49,87 +13,7 @@
    </script>
 
    <div class="gallerywrapper" id="gallerywrapper">
-      <header class="main-header main-bar-header navbar navbar-custom navbar-transparent">
-         <div class="inner-container container bar-header ">
-
-            <div class="row">
-               <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-
-                  <img src="../../../assets/images/common__logo.png" srcset="" alt="Nature's Best Photography Asia"
-                     class=" pull-right img-responsive headerLogo">
-
-
-
-               </div>
-
-            </div>
-
-            <span onclick="openNav()" class="hidden-md hidden-lg  hidden-sm top_menu_toggle"><i onclick="openNav()"
-                  class="fa fa-bars" class="top_menu_toggle"></i> </span>
-            <div id="mySidenav" class="sidenav top_toggle_nav_bg">
-               <!--mob menu-->
-               <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-               <a href="../">HOME</a>
-               <a href="https://news.naturesbestphotography.asia/news">NEWS</a>
-               <a href="../contest-details.html">CONTEST DETAILS</a>
-               <a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a>
-               <a href="../judges.html">JUDGES</a>
-               <li class="dropdown">
-                  <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="../../en/gallery/index.html">2020 Gallery</a></li>
-                    <li><a href="../../en/gallery/gallery-2019.html">2019 Gallery</a></li>
-                    <li><a href="../../en/gallery/gallery-2018.html">2018 Gallery</a></li>
-                    <li><a href="../../en/gallery/gallery-2017.html">2017 Gallery</a></li>
-                  </ul>
-                </li>
-               <li class="dropdown">
-                  <a data-toggle="dropdown" href="#">Language<span class="caret"></span></a></a>
-                  <ul class="dropdown-menu">
-                     <li><a href="/en/">English</a></li>
-                     <li><a href="/ru/">Russian</a></li>
-                     <li><a href="/ja/">日本語</a></li>
-                     <li><a href="/sc/">中国語 簡体字</a></li>
-                     <li><a href="/tc/">中国語 繁体字</a></li>
-                     <li><a href="/ko/" class="last">韓国語</a></li>
-                  </ul>
-               </li>
-            </div>
-
-
-
-            <div class="row navContainer hidden-xs">
-
-               <ul class="nav navbar-nav">
-                  <li><a href="../">HOME</a></li>
-                  <li><a href="../contest-details.html">CONTEST DETAILS</a></li>
-                  <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
-                  <li><a href="../judges.html">JUDGES</a></li>
-                  <li class="dropdown">
-                     <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
-                     <ul class="dropdown-menu">
-                       <li><a href="../../en/gallery/index.html">2020 Gallery</a></li>
-                       <li><a href="../../en/gallery/gallery-2019.html">2019 Gallery</a></li>
-                       <li><a href="../../en/gallery/gallery-2018.html">2018 Gallery</a></li>
-                       <li><a href="../../en/gallery/gallery-2017.html">2017 Gallery</a></li>
-                     </ul>
-                   </li>
-                  <li class="dropdown">
-                     <a data-toggle="dropdown" href="#">Language<span class="caret"></span></a></a>
-                     <ul class="dropdown-menu">
-                        <li><a href="/en/">English</a></li>
-                        <li><a href="/ru/">Russian</a></li>
-                        <li><a href="/ja/">日本語</a></li>
-                        <li><a href="/sc/">中国語 簡体字</a></li>
-                        <li><a href="/tc/">中国語 繁体字</a></li>
-                        <li><a href="/ko/" class="last">韓国語</a></li>
-                     </ul>
-                  </li>
-               </ul>
-
-            </div>
-         </div>
-      </header>
+      <?php include "../includes/nav-gallery.php";?>
       <div class="container mainTitle">
          <h3 class="gallery_header">winners gallery 2018</h3>
       </div>
@@ -164,7 +48,7 @@
                         <div class="photographer-name">By Xu Yong</div>
                         <div class="photographer-location">Shanghai, China</div>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> There was no sunshine at the time I found a pair of egrets about 100 meters ahead of me on the balcony of a peasant household. The pair of egrets
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> There was no sunshine at the time I found a pair of egrets about 100 meters ahead of me on the balcony of a peasant household. The pair of egrets
                      are staring at each other with deep affection. They often reveal intimate movements. When the egret expresses love, their head and neck cross to form two heart shaped characters which symbolizes the egrets love.
                      </span>
                      <h5 class="sizes">
@@ -199,7 +83,7 @@
                         <div class="photographer-location">Tokyo, Japan</div>
                         <a href="https://www.instagram.com/siiiiiiin" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> In Sri Lanka before the colonial period there were 40,000 Sri Lankan elephants. Due to overhunting during the colonial period that number has been
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> In Sri Lanka before the colonial period there were 40,000 Sri Lankan elephants. Due to overhunting during the colonial period that number has been
                      drastically reduced down to about 5,000. However poaching still continues. The Sri Lankan elephant has a tragic history but on one eve-ning last summer I has able to take this photo of a parent and child in a heard. When I saw this
                      scene I thought, “humans should not disturb them anymore”. This was a lovely scene filled with peace and affection. </span>
                      <h5 class="sizes">
@@ -231,7 +115,7 @@
                         <div class="photographer-name">By Kuanliang Ding</div>
                         <div class="photographer-location">Xi’an, China</div>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> After a heavy rain in the Qinling Mountains, two golden monkeys jumped from the canopy and shook hands on a branch, which is a friendly expression
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> After a heavy rain in the Qinling Mountains, two golden monkeys jumped from the canopy and shook hands on a branch, which is a friendly expression
                      of monkey evolu-tion. Qinling golden monkeys are also known as Sichuan golden monkeys. Their body is full of blond hair, with a pale blue face and a thick mouth. The Sichuan golden snub-nosed monkeys inhabit the deep mountains of
                      China’s Qinling Mountains and Shennongjia Mountains in Hubei Province. The social structure is polygamy. They live mainly in the trees. Their main food is tree buds, leaves, moss, and bark. </span>
                      <h5 class="sizes">
@@ -264,7 +148,7 @@
                         <div class="photographer-name">By Tatsuya Okuda</div>
                         <div class="photographer-location">Tokyo, Japan</div>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> I have visited Son Tra Nature Reserve in Vietnam three times within six months since last September to spend time with red-shanked douc families
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> I have visited Son Tra Nature Reserve in Vietnam three times within six months since last September to spend time with red-shanked douc families
                      because I’ve been enchanted by their expressive facial signals and peaceful behaviors. I’ve become famil-iar with this father and his young one because I’ve identified this young one by its right eye which became cloudy. I suppose
                      that the baby has no sight in his right eye. Whenever I come across them, the father seems to protect his baby in a gentle manner and his young one always follows its beloved father. This time I saw them while they were eating their
                      favorite leaves in the forest. Red-shanked douc is on the IUCN Red List as Endangered (EN). It can only be found in very limited areas in Southeast Asia. This natural habitat is highly critical for the continued existence of this
@@ -297,7 +181,7 @@
                         <div class="photographer-location">Kolhapur, India</div>
                         <a href="http://www.wildlifestories.in" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Hanuman langurs are the best subjects to capture especially when accompanied by baby langurs.I always wanted to capture a mother and baby langur
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Hanuman langurs are the best subjects to capture especially when accompanied by baby langurs.I always wanted to capture a mother and baby langur
                      relationship in the wild. I have always been curious how they behave and I got the opportunity to take this image at Pench National Park while waiting for alarm calls. It is pretty difficult to capture them as they keep on moving
                      and jumping every second. I have made several failed attempts to capture an image of a baby on its mother’s lap. After so many failed attempts when I heard the alarm call of a sambar deer suddenly the baby langur went straight to
                      it’s mothers lap and started suckling. I made no mistake in capturing it in the best possible way. A wait of almost one hour had paid off.Capturing emotion in the eyes of the mother and baby was a very difficult task in such low light
@@ -330,7 +214,7 @@
                         <div class="photographer-location">Hokkaido, Japan</div>
                         <a href="http://yoshihiroabiko.com" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span>The Noge peninsula in Hokkaido is a paradise where various wild animals live. On this day, I was able to capture these two northern foxes. Who won
+                     <span class="text-justify product-description"><span class="story-span">Story:</span>The Noge peninsula in Hokkaido is a paradise where various wild animals live. On this day, I was able to capture these two northern foxes. Who won
                      or lost this fight was deter-mined by comparing the size of their mouths this way they could avoid a real physical conflict. This is an important behavior to keep good relationships between foxes. When the game was over they parted
                      ways. It was a freezing day where the cold of winter still remained but I was lucky to see this heartwarm-ing scene.</span>
                      <h5 class="sizes">
@@ -361,7 +245,7 @@
                         <div class="photographer-location">Singapore</div>
                         <a href="http://jayaprakashbojan.com/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> In August 2017 I was in Tanjung Putting National Park, Kalimantan, Indonesia looking for orangutans and proboscis monkeys for my book on primates
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> In August 2017 I was in Tanjung Putting National Park, Kalimantan, Indonesia looking for orangutans and proboscis monkeys for my book on primates
                      of Southeast Asia. I lived on a small house boat for about a week searching around the river. One morning two days before I had to leave I was talking to my guide and local rangers and one of them happened to mention that he had seen
                      an orangutan cross the river in another location a few months ago, I knew this was rare and a natural history moment if I could get this on camera especially since orangutans hate water. They gave us the location details and we got
                      there early the next morning hoping to find him. After two days of waiting around the same area one morning one of the rangers on night patrol came by and told us that he saw the orangutan on the opposite side of the river about 200
@@ -394,7 +278,7 @@
                         <div class="photographer-location">Raanana, Israel</div>
                         <a href="https://500px.com/rikilevisman" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span>This is a photo of a Mediterranean chameleon on a Paulow-nia fortunei branch on a sun-drenched day at noon. The photo shows its prehensile tail,
+                     <span class="text-justify product-description"><span class="story-span">Story:</span>This is a photo of a Mediterranean chameleon on a Paulow-nia fortunei branch on a sun-drenched day at noon. The photo shows its prehensile tail,
                      which assists it in cling-ing to branches, and one of its cone-shaped eyes. Chameleons can move their eyes separately and look in opposite directions simultaneously, which accords them a unique vision capacity. When a chameleon locates
                      its prey with one eye, it moves its head in the direction of its prey, directs both eyes, and then sees its exact location.
                      </span>
@@ -426,7 +310,7 @@
                         <div class="photographer-location">Dubai, United Arab Emirates</div>
                         <a href="https://www.thomasvijayan.com" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Kamchatka is stunning-ly rich in unexploited natural resources and natural beauty. To me animals always look more graceful in their natu-ral habitat
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Kamchatka is stunning-ly rich in unexploited natural resources and natural beauty. To me animals always look more graceful in their natu-ral habitat
                      than a close up image, I also believe the background is very important for any photo along with a proper level to get a real feel of the scenic beauty. As you can see in this photo the whole habitat compliments each other and hence
                      I call it “In Paradise”.
                      </span>
@@ -461,7 +345,7 @@
                         <div class="photographer-location">Jakarta, Indonesia</div>
                         <a href="https://1x.com/member/gunartosong" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> This photo was taken at Pegadungan Beach, Sumatera, In-donesia an area noted for its exotic and rarely visited beaches. To reach this spot it took
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> This photo was taken at Pegadungan Beach, Sumatera, In-donesia an area noted for its exotic and rarely visited beaches. To reach this spot it took
                      four hours from the city of Bandar Lampung by car, a one hour motorcycle ride traveling over damaged and sometimes dangerous roads then a 15 minute walk. This photo was taken with a single shot. </span>
                      <h5 class="sizes">
                         <span class="camera-span">Camera:Canon EOS 5DS R; Canon EF 11-24mm f/4L USM; 1 sec; ƒ/16; ISO 50.
@@ -491,7 +375,7 @@
                         <div class="photographer-location">Tokyo, Japan</div>
                         <a href="https://www.takashi-artfuji.com" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span>On a sunny winter day while driving through a forest in Yamanashi Prefecture I came upon an open space where I could see Mt. Fuji. Strange shaped
+                     <span class="text-justify product-description"><span class="story-span">Story:</span>On a sunny winter day while driving through a forest in Yamanashi Prefecture I came upon an open space where I could see Mt. Fuji. Strange shaped
                      clouds were gathering and flowing over the summit of Mt. Fuji. It was a very impressive and unusual site. I photographed it by using a long exposure and converted it to black and white. It is a very wonderful and impressive photograph
                      and makes me feel as if I were on another planet. It was an amazing and wonderful scene of nature.
                      </span>
@@ -522,7 +406,7 @@
                         <div class="photographer-location">Sapporo, Japan</div>
                         <a href="http://keisukeiwamoto.pluto.bindcloud.jp" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Yufu River Gorge is a 15 to 60 meter deep canyon that has been eroded by the Yufu River. The face of the canyon walls are smooth rock and the area
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Yufu River Gorge is a 15 to 60 meter deep canyon that has been eroded by the Yufu River. The face of the canyon walls are smooth rock and the area
                      has a total of 40 water-falls creating a unique landscape. The day I took this photo the rain that had started in the morning caused the Yufu River to rise. The usually thin small waterfalls also gained momentum be-cause of the rain
                      and I was blessed with a scene I could probably have never seen. In order to capture the flow of the dark rocky canyon walls and the bright soft waterfalls, I carefully setup my tripod in the middle of the flowing river.</span>
                      <h5 class="sizes">
@@ -552,7 +436,7 @@
                         <div class="photographer-location">Lahad Datu, Malaysia</div>
                         <a href="http://lailyhassan.zenfolio.com/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Lake Baikal is the oldest and deepest lake in the world. During winter especially in February and March, the lake’s surface is frozen solid and
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Lake Baikal is the oldest and deepest lake in the world. During winter especially in February and March, the lake’s surface is frozen solid and
                      becomes the main sighseeing site in the Irkust region. The extraor-dinarily pure and transparent surface of the frozen lake makes it a landscape photographers paradise. For this photo, my friends and I encountered subzero temperatures.
                      Since it was snowing the night before, most of the lake was covered by snow however we managed to find an area with transparent ice on the surface where bubbles of methane gas can be seen below the surface of the frozen lake. I positioned
                      my camera at a low angle and pointed it up toward the rock, I managed to get a few shots as the sun rose above the lake casting its golden light upon the lake.</span>
@@ -583,7 +467,7 @@
                         <div class="photographer-location">Surabaya, Indonesia</div>
                         <a href="https://www.rrdewaphotography.com/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> I happened to be in the area when the alert status was raised to the second highest level. During the sunrise, I saw the color of the smoke changing
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> I happened to be in the area when the alert status was raised to the second highest level. During the sunrise, I saw the color of the smoke changing
                      to be oranger than usual once the sun was shining on it. I immediately took a picture of it outside of a hotel balcony.</span>
                      <h5 class="sizes">
                         <span class="camera-span">Camera: Leica M240; Leica Super Elmar 21mm; 0.7 seconds; f/16; ISO 200.
@@ -613,7 +497,7 @@
                         <div class="photographer-location">Ipoh, Malaysia</div>
                         <a href="https://www.facebook.com/kokleong.wong.3" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span>The Kumtag Desert is located in Xinjiang, China. We set off in the winter to shoot in the desert. The desert surface in the morning was covered with
+                     <span class="text-justify product-description"><span class="story-span">Story:</span>The Kumtag Desert is located in Xinjiang, China. We set off in the winter to shoot in the desert. The desert surface in the morning was covered with
                      a thin layer of frost. The combination of smooth lines is very beautiful. The natural light shines on the desert and presents rich layers. This was a fantastic scene that I shot with a middle telephoto lens, of which I was very happy
                      to have captured.</span>
                      <h5 class="sizes">
@@ -646,7 +530,7 @@
                         <div class="photographer-location">Keelung, Taiwan</div>
                         <a href="http://acewuuwp.com" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Rhinopias is a type of scorpionfish fish that doesn’t move often and stays in place waiting for food. It was hiding under a red sea fan and it looked
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Rhinopias is a type of scorpionfish fish that doesn’t move often and stays in place waiting for food. It was hiding under a red sea fan and it looked
                      like it was on fire. It was very beautiful and gorgeous. I used a snoot on the flash to shoot this photo.</span>
                      <h5 class="sizes">
                         <span class="camera-span">Camera: Canon EOS-1D X Mark II; Canon EF 24-70mm f/4L IS USM; 1/250 sec; f/18; ISO 400; Seacam Seaflash Offshore 150O TTL.
@@ -676,7 +560,7 @@
                         <div class="photographer-location">Shizuoka, Japan</div>
                         <a href="https://keigokawamuraphoto.wixsite.com/gallery" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> I am a diving guide in Izu, Japan. Uni-corn shrimp are usually distributed at depths of between 200 and 300 meters but will lay their eggs at a
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> I am a diving guide in Izu, Japan. Uni-corn shrimp are usually distributed at depths of between 200 and 300 meters but will lay their eggs at a
                      depth of up to 40 meters. The number of shrimp varies from year to year, but it ranges from hundreds to tens of thousands. They do not like bright places so they usually hide in rock shadows, but in years where there are many of them
                      they cover the ocean floor since there is a lack of rock shadows. I cropped this photo to show a beautiful alignment of shrimp.</span>
                      <h5 class="sizes">
@@ -706,7 +590,7 @@
                         <div class="photographer-location">Kumamoto, Japan</div>
                         <a href="https://www.amakusaphoto.com/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> A chrysaora pacifica and small fish. In the early morning of a winter day, while wearing a dry suit and holding the camera as usual, I scuba dived
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> A chrysaora pacifica and small fish. In the early morning of a winter day, while wearing a dry suit and holding the camera as usual, I scuba dived
                      leisurely in the sea. I usually dive with a macro lens attached. The ocean had been very beautiful for the past few days and deep-sea fish and deep-sea creatures appeared due to up-welling so I expected to see something so I went
                      in to the ocean with a wide angle lens. On this day I was able to see many unique creatures that I can not usually see but the encounter with this jellyfish was especially interesting. A lot of small fish were around the jellyfish
                      and I took many photos of it. I was excited to cross paths with another chrysaora pacifica.</span>
@@ -737,7 +621,7 @@
                         <div class="photographer-location">Ogasawara, Japan</div>
                         <a href="http://ManaNomoto.com" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span>It has been 26 years since I first swam with dolphins in the beautiful sea of Bonin Blue. Bonin Blue is a special word used to describe the color
+                     <span class="text-justify product-description"><span class="story-span">Story:</span>It has been 26 years since I first swam with dolphins in the beautiful sea of Bonin Blue. Bonin Blue is a special word used to describe the color
                      of the ocean around Ogasawara. I still swim with dolphins whenever I have the chance. I never get tired of it and I could continue swimming with dolphins for another five or ten years capturing them with my camera. One day in the
                      spring when I was on one of my daily dives I met a pod of baby dolphins. My eyes met with the sweet eyes of a baby dolphin whose body was still white. It was as if its lovely eyes were inviting me into the sea.
                      </span>
@@ -768,7 +652,7 @@
                         <div class="photographer-location">Kanagawa, Japan</div>
                         <a href="http://inusukekun.wixsite.com/d-kurashima-uw-photo" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Baa Atoll in the Mal-dives is a famous place for the hordes of mantas that visit to feed on plankton.On this day I encountered a group of mantas
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Baa Atoll in the Mal-dives is a famous place for the hordes of mantas that visit to feed on plankton.On this day I encountered a group of mantas
                      much larger than I had expected. From the way they were swim-ming, it seems that they were not at all worried about the presence of humans. A group of mantas were spiraling up-ward and I was able to capture the mo-ment the leader
                      of the group reached the surface flipped his body over and dove back down. This photo truly expresses the mantas’ suppleness and strength.
                      </span>
@@ -801,7 +685,7 @@
                         <div class="photographer-location">Taoyuan, Taiwan</div>
                         <a href="https://www.jimandlynn.net/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Dugongs eat algae at the bottom of the sea. Dugongs have nostrils on their snouts. These nostrils have special valves that are closed under the
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Dugongs eat algae at the bottom of the sea. Dugongs have nostrils on their snouts. These nostrils have special valves that are closed under the
                      water surface and open when they return to the water surface to breath. Dugongs may remain under water for around 6 minutes.
                      </span>
                      <h5 class="sizes">
@@ -835,7 +719,7 @@
                         <div class="photographer-location">Markham, Canada</div>
                         <a href="https://www.facebook.com/nick.wei.71" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> This type of red ant is a common insect in Thailand and very tough on any prey no matter how big it is. When I was searching for insects to shoot
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> This type of red ant is a common insect in Thailand and very tough on any prey no matter how big it is. When I was searching for insects to shoot
                      in the grass and bushes, I found this little gecko’s tail being bitten and held tightly by the red ant. The ant was trying to pull the gecko off from the leaf, I quickly focused on it and clicked the shutter to catch this moment,
                      after struggling desperately for a few seconds the gecko was able get rid of the ant and run away.</span>
                      <h5 class="sizes">
@@ -865,7 +749,7 @@
                         <div class="photographer-location">Mohammadi, India</div>
                         <a href="http://www.satpalsinghphotography.com" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Weaver Ants (Oecophylla smaragdina) are known for their hard work and cooperation. These ants exhibit marvelous architecture and intelligence to
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Weaver Ants (Oecophylla smaragdina) are known for their hard work and cooperation. These ants exhibit marvelous architecture and intelligence to
                      build their nest with leaves. When a new nest is required, individual workers scout for suitable clusters of leaves, which they grab with their mandibles and attempt to draw together. When a number of leaves are stretched into position
                      for binding, each held in place by rows of workers joined by another set of workers as is depicted in the picture. As soon as all the leaves are brought together the process of stitching these leaves starts. The mature and experienced
                      workers capture white colored and transparent late instar larvae with quite delicacy in their mandibles and move them to and fro on the edges of the young tender leaves. In response to this movement or tingling feeling, the larvae
@@ -899,7 +783,7 @@
                         <div class="photographer-location">Hyogo, Japan</div>
                         <a href="http://nori-yuasa.com" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> This is a group of Shi-nano Tomoshibi mushrooms; Scientific name: Mycena lux-coeli. These glowing mushroom can only be seen in several places in
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> This is a group of Shi-nano Tomoshibi mushrooms; Scientific name: Mycena lux-coeli. These glowing mushroom can only be seen in several places in
                      Japan and in the entire world. They only grow for a short time around the end of June. Since I wanted to show this bunch of mushrooms like family living in the hollow of a tree I shot this photo in the middle of the night just using
                      the light of the mushrooms. It was raining a little. This group of mushrooms were shining for only a few days and withered the next day. My history of photograph is long and I have taken many photographs of the starry sky. About 8
                      years ago I started taking pictures of natural glowing things such as fireflies and sea fireflies at night.</span>
@@ -931,7 +815,7 @@
                         <div class="photographer-location">Coimbatore, India</div>
                         <a href="https://www.flickr.com/photos/karthik_the_macrographer/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> During a wet morning while I was scouting for some shots of sand wasps, I captured this incredible moment where a sand wasp was carry-ing a paralyzed
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> During a wet morning while I was scouting for some shots of sand wasps, I captured this incredible moment where a sand wasp was carry-ing a paralyzed
                      hover fly to safe guard the food by burying it for it’s to be born little ones. It was very difficult to cap-ture this moment particularly in flight because they fly very fast while entering into its nest and after many missed mo-ment’s
                      finally I captured the shot I was aiming for.</span>
                      <h5 class="sizes">
@@ -961,7 +845,7 @@
                         <div class="photographer-location">Kurunegala, Sri Lanka</div>
                         <a href="http://www.aselakarunaratnephotography.com" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Though I have photo-graphed Dung beetles before, they were shots taken while I was standing above the beetle and they were not creative. Since realizing
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Though I have photo-graphed Dung beetles before, they were shots taken while I was standing above the beetle and they were not creative. Since realizing
                      the value of taking a shot of a little beetle while rolling its dung ball, I have been looking for them whenever I visit places where they can be found. But I had to wait more than five years to see this type of action again. This
                      time it was in Yala National Park. This time I thought it’s time for me to take a low angle shot of it. The beetle was on a dung mountain which was on grass, I took a few shots while lying down on the ground, then he dragged the ball
                      on to the grass, but that was not the shot I was looking for. So while I was waiting on the ground the beetle dragged its dung ball on to a gravel surface.
@@ -994,7 +878,7 @@
                         <div class="photographer-location">Mumbai, India</div>
                         <a href="https://www.instagram.com/ankur_moitra/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> It was late night by the time the rain had stopped, I went to the field and there I found this gecko sitting on top of a rock. After a few clicks
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> It was late night by the time the rain had stopped, I went to the field and there I found this gecko sitting on top of a rock. After a few clicks
                      I finally got a decent shot. Most Geckos can’t blink as they don’t have eyelids. Like snakes, their eyeballs are covered with spectacles and transparent scales that protect the eyes. To keep them clean, many species use their tongues
                      like windshield wipers. They also drink water in a similar way. I clicked this image with the help of 50mm f/1.8 along with attaching a Voking 12mm extension tube.</span>
                      <h5 class="sizes">
@@ -1028,7 +912,7 @@
                         <div class="photographer-location">Kuwait City, Kuwait</div>
                         <a href="https://www.instagram.com/faisalalnomas/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> A baby grey heron is slowly trying to reach his nest after becoming separated from it and starting to feel unsafe. This photo of the baby heron was taken on Bubiyan Island, the largest island in the Kuwaiti coastal island chain situated in the north-western corner of the Arabian Gulf. It is a safe place for both animals and people alike. To reach the island you need to have government permission and has been an environmentally protected area for more than 27 years. When I got to the island I found some nests then lay down and moved around slowly while wearing my camouflage clothing.</span>
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> A baby grey heron is slowly trying to reach his nest after becoming separated from it and starting to feel unsafe. This photo of the baby heron was taken on Bubiyan Island, the largest island in the Kuwaiti coastal island chain situated in the north-western corner of the Arabian Gulf. It is a safe place for both animals and people alike. To reach the island you need to have government permission and has been an environmentally protected area for more than 27 years. When I got to the island I found some nests then lay down and moved around slowly while wearing my camouflage clothing.</span>
                      <h5 class="sizes">
                         <span class="camera-span">Camera: Canon EOS-1D X Mark II; Canon EF 100-400mm f/4.5-5.6L IS II; 1/3200 sec; f/5.6; ISO 800.
                         </span>
@@ -1056,7 +940,7 @@
                         <div class="photographer-name">By Jianhui Liao</div>
                         <div class="photographer-location">Nanchang, China</div>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> A pond heron flies away and is pulled back by his companion.</span>
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> A pond heron flies away and is pulled back by his companion.</span>
                      <h5 class="sizes">
                         <span class="camera-span">Camera: Nikon D4; AF-S NIKKOR 600mm f/4E FL ED VR; 1/1320 sec; f/4.5; ISO 100.
                         </span>
@@ -1084,7 +968,7 @@
                         <div class="photographer-name">By Sunil Warnakulasuriya</div>
                         <div class="photographer-location">Moratuwa, Sri Lanka</div>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> The subject in this photograph is a brown-headed barbet. It is resident in Sri Lanka, Bangladesh and India. Its habitat is gardens and avoids thick
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> The subject in this photograph is a brown-headed barbet. It is resident in Sri Lanka, Bangladesh and India. Its habitat is gardens and avoids thick
                      forests. These birds feed on fruit and occasionally on small insects. They build nests in tree holes by pecking and digging out the tree trunk. A pair will repeatedly communicate with each other in a call that sounds like repeating
                      ‘kutroo’. In this photograph a parent bird is seen about to enter the hole with a beak full of banyan fruit. In this case the nest was built about three meters above the ground. I set up an alumi-num ladder and tied the camera to
                      it yet I could not get close enough without scaring off the bird. The shutter was released from a distance using a remote shutter release. I waited nearly six hours to capture this shot. Weather conditions were fine, though it was
@@ -1118,7 +1002,7 @@
                         <div class="photographer-location">Kuwait</div>
                         <a href="https://www.instagram.com/moe_murad" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> I took a picture of this pharaoh eagle owl chick in the northern Kuwaiti desert, 160 km away from Kuwait City. He was hiding between these yellow
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> I took a picture of this pharaoh eagle owl chick in the northern Kuwaiti desert, 160 km away from Kuwait City. He was hiding between these yellow
                      small bushes while one of his parents was giving an alarm call since I was kind of close to the chick. I parked the car far away and walked slowly to a spot where I lie down and put a  net over me and waited for the parent
                      to catch something and feed the chick. I stayed there for almost three hours and I was sweating all over because of the high temperature - it was about 49 degrees - so I waited and nothing happened then a breeze of air started to
                      hit the yellow grass. Then the chick stood up and started looking around. Because I was on the ground at eye level, this blur effect came out perfect.</span>
@@ -1149,7 +1033,7 @@
                         <div class="photographer-location">Bengaluru, India</div>
                         <a href="http://framesofnature.com/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> This beautiful little bird is a vernal hanging parrot, it is the only parrot in India, all of the other birds in the parrot family are parakeets.
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> This beautiful little bird is a vernal hanging parrot, it is the only parrot in India, all of the other birds in the parrot family are parakeets.
                      It was January, mid winter in Goa. Not that cold in this part of the world. Good season for birding and bird photography though. On one of my visits to this area, I kept observing that these parrots regularly visit the plant of powder-puff
                      flowers, in the morning and afternoon, almost everyday. These birds seem to love powder-puff flowers. So, one afternoon, I found a spot to sit and wait for them to arrive. Didn’t have my tripod with me unfortunately. So, I had to
                      make do hand-holding the big and heavy 500 f/4 lens. After a long wait, they finally showed up. Landing on the plant, they started feeding on the lovely pink flowers giving some opportunities to make a few images. I had to juggle
@@ -1181,7 +1065,7 @@
                         <div class="photographer-name">By Guiyang Zeng</div>
                         <div class="photographer-location">Nanchang, Jiangxi, China</div>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> The mother egret guarded her three children and spread her wings to protect them.
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> The mother egret guarded her three children and spread her wings to protect them.
                      </span>
                      <h5 class="sizes">
                         <span class="camera-span">Camera: Canon EOS-1D X Mark II; Canon EF 800mm f/5.6L IS USM; 1/1600 sec; f/5.6; ISO 250.
@@ -1214,7 +1098,7 @@
                         <div class="photographer-location">Jalandhar, India</div>
                         <a href="http://www.Arshdeep.in" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> I often travel to Kapurthala town with my father for birding. In winter on a Sunday morning I also went with my father once again for bird photography.
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> I often travel to Kapurthala town with my father for birding. In winter on a Sunday morning I also went with my father once again for bird photography.
                      On the way while we were crossing the road I saw a spot-ted owlet flying and he went inside this tube. I asked my dad to stop the car, he stopped the car but didn’t believe me that the owl could go inside this tube. I looked at the
                      tube again for few minutes and I was surprised to see a pair of owlets coming out of the tube. I pointed my dad towards the tube and he was stunned seeing the owls over there. He rolled the car glass down for me and without wasting
                      anytime I got the shot of the owlet duo. They were looking straight into my eyes, I felt like each of the owlets wanted to say “I C U” boy! I was happy to see these beautiful spotted owlets in their urban home and I had to say goodbye
@@ -1247,7 +1131,7 @@
                         <div class="photographer-location">Singapore</div>
                         <a href="http://www.mylensandi.com/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> A school of yellow fusilier fish swam around the camera, encompassing me in a living wave. I had just started taking underwater photos, and I was
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> A school of yellow fusilier fish swam around the camera, encompassing me in a living wave. I had just started taking underwater photos, and I was
                      looking for scenes that cap-ture the essence of diving for me, when I noticed this school of fish swimming with the current a bit further down the reef from me. I positioned myself in their path, and waited for the current to bring
                      them closer. I was hoping that they would swim around me and create a tunnel effect so I could take a photo. When they approached, I angled myself so that I would take up less space and aimed my camera directly into the school. I
                      was absolutely ecstatic when the wave broke into a tunnel, and swam around me. This photo was taken in the Malé atoll in the Maldives, which is one of the countries that is most threatened by rising sea levels (as a result of global
@@ -1281,7 +1165,7 @@
                         <div class="photographer-location">Singapore</div>
                         <a href="http://www.mylensandi.com/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> A green turtle swims by the camera, showing off the unique pattern on the side of his face and shell. I had just started using my underwater camera,
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> A green turtle swims by the camera, showing off the unique pattern on the side of his face and shell. I had just started using my underwater camera,
                      when I began my PADI Sea Turtle Identification specialization course. The course is geared towards the protection and conservation of sea turtles by taking photos of the side of a sea turtle’s face. This pattern is unique to an individual,
                      similar to how each person’s thumbprint is unique to them. By keeping track of all of the turtles in the reef, it is possible to know what turtles are unhealthy or at risk so they can take measures to protect them. During the dive,
                      we were supposed to swim close enough to a turtle to capture the pattern on their face, and record it for later. This photo shows the turtle’s face clearly and the health of the turtle can be assessed from the body. This photo was
@@ -1314,7 +1198,7 @@
                         <div class="photographer-location">Bangalore, India</div>
                         <a href="https://www.facebook.com/dheeraj.m.nanda/photos_all" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> While driving around a small village called Hanle in Ladakh, Jammu and Kashmir, I could see a group of Tibetan wild asses grazing. Three of them
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> While driving around a small village called Hanle in Ladakh, Jammu and Kashmir, I could see a group of Tibetan wild asses grazing. Three of them
                      were away from the group and were trying to catch-up with the main group and in the background was the mighty Himalayan mountains. To my luck, these three were standing according to their ascending height order and for a second all
                      three together looked straight into my camera.
                      </span>
@@ -1345,7 +1229,7 @@
                         <div class="photographer-location">Gunma, Japan</div>
                         <a href="http://instagram.com/kaito_takahashi_" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span>I was waiting to see an eagle on the summit of the mountain for 5 days. Sometimes it would appear but it would soon disappear. Then there was this
+                     <span class="text-justify product-description"><span class="story-span">Story:</span>I was waiting to see an eagle on the summit of the mountain for 5 days. Sometimes it would appear but it would soon disappear. Then there was this
                      deer that appeared on the rocks where the eagle often lands. Small deer are sometimes caught by eagles but this deer has a splendid set of antlers and appeared in a spot where it had no fear of being attacked. The angle of the backlit
                      deer made for a very impressive scene. The deer moved before I could change the settings on my camera, so it came out a bit brighter than what I had intended, but I manipulated the image to match the way I remember seeing it.
                      </span>
@@ -1376,7 +1260,7 @@
                         <div class="photographer-location">Hokkaido, Japan</div>
                         <a href="https://www.instagram.com/koudai_saitou_photography/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Ezomon monga or flying squirrel is a nocturnal animal, except for when it is mating. Because it does not usually come out during the day, I waited
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Ezomon monga or flying squirrel is a nocturnal animal, except for when it is mating. Because it does not usually come out during the day, I waited
                      three months for the mating season and was finally able to take this shot. This was taken in March when the weather is often freezing and causes very cold fingers. The ezomon monga is an important subject and has been a big turning
                      point in my experience as a photographer.
                      </span>
@@ -1411,7 +1295,7 @@
                         <div class="photographer-location">Hokkaido, Japan</div>
                         <a href="http://hickorywind.jp/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Tsurui village is a beautiful village where red-crowned cranes and the indigenous Ainu have lived since long ago. In this area there is a special
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Tsurui village is a beautiful village where red-crowned cranes and the indigenous Ainu have lived since long ago. In this area there is a special
                      word called “Lela”. It has a deep meaning to it but in simple terms it means “wind”. Any movement in nature can be called “Lela”. It is also the word to show this area’s peoples’ respect towards Ainu. People describe “Lela” as a “dance
                      in nature” since the wind creates a beautiful movement in nature such as when the flowers and leaves or even your hair moves when there is a breeze. This is “Lela”. The charming Ezo owl is a precious bird which lives in the village
                      throughout the year. The red-crowned crane, from which the village gets its name, has lived in the village for more than 10,000 years and is called “Sarolunkamui” in Ainu, meaning “god of the marsh.” For the theme of this video, I
@@ -1445,7 +1329,7 @@
                         <div class="photographer-location">Chiba, Japan</div>
                         <a href="http://www.creekcreative.jp/" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Shiretoko Peninsula-Hokkaido. Every year in winter, eagles come across the sea with the ice floes from Siberia. Also crossing the sea from all over
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Shiretoko Peninsula-Hokkaido. Every year in winter, eagles come across the sea with the ice floes from Siberia. Also crossing the sea from all over
                      the world to see such a valiant sight are people. I am one of them. We meet again as if we promised. Whether we can meet again next year, neither them nor myself will know for sure. But surely they will come again. Aging, with feathers
                      urning white the eagle’s lifetime is long, and I want to continue this invisible promise with nature and these animals as my hair turns white as well.
                      </span><h5 class="sizes">
@@ -1478,7 +1362,7 @@
                         <div class="photographer-location">Ogasawara, Japan</div>
                         <a href="http://ManaNomoto.com" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> It has been 26 years since I first swam with dolphins in the beautiful sea of Bonin Blue. I still swim with the dolphins when I have a chance. Out
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> It has been 26 years since I first swam with dolphins in the beautiful sea of Bonin Blue. I still swim with the dolphins when I have a chance. Out
                      of the clear blue ocean dol-phins were appearing on all sides of me. When the dolphins and I would dive down at the same time they would look at me as if they were inviting me to come and play with them. I replied back to them by
                      making eye contact saying OK. They were free and playful. After having plenty of eye contact with them they started circling me. Every time I have the opportunity to swim with them they make me feel happy and fulfilled. This is the
                      reason I keep taking photos of and video taping dolphins. </span>
@@ -1510,7 +1394,7 @@
                         <div class="photographer-location">Kolkata, India</div>
                         <a href="https://www.flickr.com/photos/132878843@N07" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Almost every year the barren beaches of Rushikulya come alive with the beating of the heavy flip-pers of hundreds of thousands of Olive Ridley Sea
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Almost every year the barren beaches of Rushikulya come alive with the beating of the heavy flip-pers of hundreds of thousands of Olive Ridley Sea
                      Turtles who come en-masse to nest adjacent to these coastal hamlets of Odisha, India. I had a dream to witness and photograph one of nature’s most extraordinary occurrences. I suc-ceeded this year. Arribada, the arrival, usually happens
                      at night as the turtles cannot tolerate intense light. I wasn’t able to take the clippings (videos) at night as the conservation rules imple-mented by the forest department didn’t allow the use of white beam of torches (flashlights).
                      The low red beam of the headlamp was the only permissible light source at night, so the arriving turtles won’t feel disturbed. I chose dusk and dawn to photograph to at least get the minimum light required. I found it toughest to
@@ -1543,7 +1427,7 @@
                         <div class="photographer-location">Maharashatra, India</div>
                         <a href="https://www.facebook.com/dhananjayjadhav19" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Amba forest is part of Western Ghat, India. This forest area near my city of Kolhapur is about 70km away. One day I went to this forest and was
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Amba forest is part of Western Ghat, India. This forest area near my city of Kolhapur is about 70km away. One day I went to this forest and was
                      able to see this amaz-ing incident, the battle of two small creatures to survive. One crab struggled to protect himself from these ants, but he could not do anything against these thousands of ants, finally he lost the battle. It
                      was afternoon in the month of February and was the beginning of summer. While walking through this forest stream, I saw a group of ants take the crab’s legs, at the same time the crab was running to save his own life but the ants
                      wanted to catch this crab and within seconds 500 to 600 ants were stuck to this crab like magnets and that moment its Battle of Survival started. While taking this video I was sitting on a small stone in the middle of stream and the
@@ -1578,7 +1462,7 @@
                         <div class="photographer-location">Yamaguchi, Japan</div>
                         <a href="https://www.behance.net/ruitode22" class="myButton2">Photographer's Website</a>
                      </div>
-                     <span class="product-description text-justify"><span class="story-span">Story:</span> Cicadas sing loudly in the summer in Japan. However, when they crawl out of the ground at night, they emerge quietly with a beautiful appearance
+                     <span class="text-justify product-description"><span class="story-span">Story:</span> Cicadas sing loudly in the summer in Japan. However, when they crawl out of the ground at night, they emerge quietly with a beautiful appearance
                      that goes unnoticed. I was fascinated by the beautiful figures that only appeared at night, so I decided to shoot a video of them. I failed many times, but I continued taking pictures of the emerging cicadas for three years. This
                      video is a one cut video of cicadas called Kumazemi emerging. This video was made by combining about 4,700 photos.
                      </span>
@@ -1594,158 +1478,7 @@
          </div>
       </div>
 
-      <footer class="main-footer">
-         <div class="footer__top"><a href="" onclick="return false"><img src="../../../assets/images/common__pagetop.png" alt="go to top"></a></div>
-         <div class="footer__sns">
-            <div class="container">
-               <nav>
-                  <ul>
-                     <li><a href="https://www.facebook.com/naturesbestphotographyasia" target="_blank"><img src="../../../assets/images/common__footer__facebook.png" alt="facebook"></a></li>
-                     <li><a href="https://twitter.com/nbpasia" target="_blank"><img src="../../../assets/images/common__footer__twitter.png" alt="twitter"></a></li>
-                     <li><a href="https://www.pinterest.com/nbpawards/" target="_blank"><img src="../../../assets/images/common__footer__pinterest.png" alt="pinterest"></a></li>
-                     <li><a href="https://www.instagram.com/nbpasia/" target="_blank" class="last"><img src="../../../assets/images/common__footer__instagram.png" alt="instagram"></a></li>
-                  </ul>
-               </nav>
-            </div>
-         </div>
-         <div class="footer__links footer__linkspad">
-            <div class="container">
-               <nav>
-                  <ul>
-                     <li><a href="../../en/contact-us.html">Contact Us</a></li>
-                     <li><a href="../../en/privacy-policy.html">Privacy Policy</a></li>
-                     <li><a href="../../en/terms.html">Terms of Use</a></li>
-                     <li><a href="../../en/credits.html">Credits</a></li>
-                     <li><a href="../../en/partners.html">Partners</a></li>
-                     <li class="js-langSelector"><a href="" onclick="return false" class="last">Language<small>▲</small></a>
-                        <ul class="js-langChild">
-                           <li><a href="/en/">English</a></li>
-                           <li><a href="/ja/">日本語</a></li>
-                           <li><a href="/sc/">中国語 簡体字</a></li>
-                           <li><a href="/tc/">中国語 繁体字</a></li>
-                           <li><a href="/ko/" class="last">韓国語</a></li>
-                        </ul>
-                     </li>
-                  </ul>
-                  <div class="ssl">
-                     <!--- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT -->
-                     <table style="margin:0 auto 35px;" width=125 border=0 cellspacing=0 cellpadding=0 title="CLICK TO VERIFY: This site uses a GlobalSign SSL Certificate to secure your personal information.">
-                        <tr>
-                           <td><span id="ss_img_wrapper_gmogs_image_110-45_en_white"><a href="https://www.globalsign.com/" target=_blank title="GlobalSign Site Seal" rel="nofollow"><img alt="SSL" border=0 id="ss_img" src="//seal.globalsign.com/SiteSeal/images/gs_noscript_110-45_en.gif"></a></span>
-                              <script type="text/javascript" src="../..//seal.globalsign.com/SiteSeal/gmogs_image_110-45_en_white.js"></script>
-                           </td>
-                        </tr>
-                     </table>
-                     <!-- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT -->
-
-
-                  </div>
-               </nav>
-            </div>
-         </div>
-         <div class="footer__copyrights footer__copyrights130">
-            <p>Copyright © 2015 Nature's Best Photography Asia. All Right Reserved.</p>
-         </div>
-      </footer>
-
-
-
-
-      <footer class="main-footer" style="display: none">
-         <div class="footer__top">
-            <a href="" onclick="return false"><img src="../../../assets/images/common__pagetop.png" alt="go to top"></a>
-         </div>
-         <div class="footer__sns">
-            <div class="inner-container">
-               <nav>
-                  <ul>
-                     <li>
-                        <a href="https://www.facebook.com/naturesbestphotographyasia" target="_blank"><img src="../../../assets/images/common__footer__facebook.png" alt="facebook"></a>
-                     </li>
-                     <li>
-                        <a href="https://twitter.com/nbpasia" target="_blank"><img src="../../../assets/images/common__footer__twitter.png" alt="twitter"></a>
-                     </li>
-                     <li>
-                        <a href="https://www.pinterest.com/nbpawards/" target="_blank"><img src="../../../assets/images/common__footer__pinterest.png" alt="pinterest"></a>
-                     </li>
-                     <li>
-                        <a href="https://www.instagram.com/nbpasia/" target="_blank" class="last"><img src="../../../assets/images/common__footer__instagram.png" alt="instagram"></a>
-                     </li>
-                  </ul>
-               </nav>
-            </div>
-         </div>
-         <div class="footer__links">
-            <div class="inner-container">
-               <nav>
-                  <ul>
-                     <li><a href="../../../en/contact-us.html">Contact Us</a></li>
-                     <li><a href="../../../en/privacy-policy.html">Privacy Policy</a></li>
-                     <li><a href="../../../en/terms.html">Terms of Use</a></li>
-                     <li><a href="../../../en/credits.html">Credits</a></li>
-                     <li><a href="../../../en/partners.html">Partners</a></li>
-                     <li class="js-langSelector"><a href="" onclick="return false" class="last">Language<small>▲</small></a>
-                        <ul class="js-langChild">
-                           <li><a href="/en/">English</a></li>
-                           <li><a href="/ja/">日本語</a></li>
-                           <li><a href="/sc/">中国語 簡体字</a></li>
-                           <li><a href="/tc/">中国語 繁体字</a></li>
-                           <li><a href="/ko/" class="last">韓国語</a></li>
-                        </ul>
-                     </li>
-                  </ul>
-                  <div class="ssl">
-                     <!-- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT -->
-                     <table style="margin:0 auto 35px;" width=125 border=0 cellspacing=0 cellpadding=0 title="CLICK TO VERIFY: This site uses a GlobalSign SSL Certificate to secure your personal information.">
-                        <tr>
-                           <td><span id="ss_img_wrapper_gmogs_image_110-45_en_white"><a href="https://www.globalsign.com/" target=_blank title="GlobalSign Site Seal" rel="nofollow"><img alt="SSL" border=0 id="ss_img" src="..seal.globalsign.com/SiteSeal/images/gs_noscript_110-45_en.gif"></a></span>
-                              <script type="text/javascript" src="..seal.globalsign.com/SiteSeal/gmogs_image_110-45_en_white.js"></script>
-                           </td>
-                        </tr>
-                     </table>
-                     <!-- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT -->
-
-
-                  </div>
-               </nav>
-            </div>
-         </div>
-         <div class="footer__copyrights">
-            <p>Copyright © 2015 Nature's Best Photography Asia. All Right Reserved.</p>
-         </div>
-      </footer>
-
-   </div>
-   <script>
-      (function(i, s, o, g, r, a, m) {
-         i['GoogleAnalyticsObject'] = r;
-         i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-         }, i[r].l = 1 * new Date();
-         a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-         a.async = 1;
-         a.src = g;
-         m.parentNode.insertBefore(a, m)
-      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-      ga('create', 'UA-60190803-1', 'auto');
-      ga('send', 'pageview');
-   </script>
-
-
-   <script>
-      function openNav() {
-         document.getElementById("mySidenav").style.width = "274px";
-         document.getElementById("gallerywrapper").style.marginLeft = "274px";
-      }
-
-      /* Set the width of the side navigation to 0 and the left margin of the page content to 0 */
-      function closeNav() {
-         document.getElementById("mySidenav").style.width = "0";
-         document.getElementById("gallerywrapper").style.marginLeft = "0";
-      }
-   </script>
+      <?php include "../includes/footer-gallery.php";?>
 
 </body>
 

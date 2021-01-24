@@ -3,7 +3,7 @@
       <div class="container inner-container bar-header ">
         <div class="row">
           <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-            <img src="../../assets/images/common__logo.png" srcset=""  class=" pull-right img-responsive headerLogo">
+          <img src="../../../assets/images/common__logo.png" srcset=""  class=" pull-right img-responsive headerLogo">
           </div>
 
         </div>

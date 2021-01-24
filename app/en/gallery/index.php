@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <?php include "../includes/head.php";?>
 
 <body data-spy="scroll" data-target=".onpage-navigation" data-offset="150">
@@ -14,7 +13,7 @@
    </script>
 
    <div class="gallerywrapper" id="gallerywrapper">
-   <?php include "../includes/nav.php";?>
+   <?php include "../includes/nav-gallery.php";?>
       <div class="container mainTitle">
          <h3 class="gallery_header">winners gallery 2020</h3>
       </div>
@@ -1585,10 +1584,7 @@
          </div>
       </div>
 
-      <?php include "../includes/footer.php";?>
-
-
-   
+      <?php include "../includes/footer-gallery.php";?>
 
 </body>
 

@@ -1,13 +1,13 @@
 <footer class="main-footer">
-    <div class="footer__top"><a href="" onclick="return false"><img src="../../assets/images/common__pagetop.png" alt="go to top"></a></div>
+    <div class="footer__top"><a href="" onclick="return false"><img src="../../../assets/images/common__pagetop.png" alt="go to top"></a></div>
     <!-- <div class="footer__sns">
       <div class="container">
         <nav>
           <ul>
-            <li><a href="https://www.facebook.com/naturesbestphotographyasia" target="_blank"><img src="../../assets/images/common__footer__facebook.png" alt="facebook"></a></li>
-            <li><a href="https://twitter.com/nbpasia" target="_blank"><img src="../../assets/images/common__footer__twitter.png" alt="twitter"></a></li>
-            <li><a href="https://www.pinterest.com/nbpawards/" target="_blank"><img src="../../assets/images/common__footer__pinterest.png" alt="pinterest"></a></li>
-            <li><a href="https://www.instagram.com/nbpasia/" target="_blank" class="last"><img src="../../assets/images/common__footer__instagram.png" alt="instagram"></a></li>
+            <li><a href="https://www.facebook.com/naturesbestphotographyasia" target="_blank"><img src="../../../assets/images/common__footer__facebook.png" alt="facebook"></a></li>
+            <li><a href="https://twitter.com/nbpasia" target="_blank"><img src="../../../assets/images/common__footer__twitter.png" alt="twitter"></a></li>
+            <li><a href="https://www.pinterest.com/nbpawards/" target="_blank"><img src="../../../assets/images/common__footer__pinterest.png" alt="pinterest"></a></li>
+            <li><a href="https://www.instagram.com/nbpasia/" target="_blank" class="last"><img src="../../../assets/images/common__footer__instagram.png" alt="instagram"></a></li>
           </ul>
         </nav>
       </div>
@@ -32,6 +32,7 @@
               </ul>
             </li>
           </ul>
+          
         </nav>
       </div>
     </div>
