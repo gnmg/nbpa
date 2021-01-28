@@ -1,0 +1,11 @@
+{
+    "name": "naturesbestphoto/nbpa_sys2020",
+    "require": {
+        "stripe/stripe-php": "^6.43"
+    },
+    "autoload": {
+        "psr-4": {
+            "NBPA\\": "app/"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+Subject: Thank you for registering with Nature's Best Photography Asia
+==============================================
+This e-mail contains your account information.
+==============================================
+Dear __NAME__
+
+Thank you for registering with with Nature's Best Photography Asia. Following is your account information.
+----------------------------------------------------------
+- Name：__NAME__
+- Login ID：__MAIL__
+----------------------------------------------------------
+
+You can access to your account from following URL to enter and view your images.
+
+https://naturesbestphotography.asia/user/member/home
+
+We are looking forward to seeing your entries!
+
+=-=-=-　Nature's Best Photography Asia　=-=-=-=-=-=
+
+3-8-16 Noritake Shinmachi, Nagoya, Aichi, Japan
+info@naturesbestphotography.asia
+https://www.naturesbestphotography.asia
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

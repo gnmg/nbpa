@@ -1,0 +1,15 @@
+Subject: Подтверждение регистрации
+Уважаемый __NAME__
+
+Спасибо за регистрацию. Для доступа к вашей учетной записи перейдите по ссылке ниже.
+Если у вас есть какие-либо вопросы, свяжитесь с нами по адресу
+info@naturesbestphotography.asia
+
+https://naturesbestphotography.asia/user/member/verification?mid=__MID__&t=__T__
+
+=-=-=-　Nature's Best Photography Asia　=-=-=-=-=-=
+
+3-8-16 Noritake Shinmachi, Nagoya, Aichi, Japan
+info@naturesbestphotography.asia
+https://www.naturesbestphotography.asia
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

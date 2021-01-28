@@ -1,0 +1,21 @@
+Subject: Forgot your password for Nature's Best Photography Asia?
+-------------------------------------
+This is an e-mail to change password.
+-------------------------------------
+
+"__MAIL__"
+Please click the following link to reset your password.
+
+https://naturesbestphotography.asia/user/member/resetpassword?mid=__MID__&t=__T__
+
+If you are not able to click this link, copy the URL and paste it into your web browser.
+If you haven't requested a new password, please disregard this e-mail.
+
+You cannot reply to this email. If you have any questions please contact Nature's Best Photography Asia.
+
+=-=-=-　Nature's Best Photography Asia　=-=-=-=-=-=
+
+3-8-16 Noritake Shinmachi, Nagoya, Aichi, Japan
+info@naturesbestphotography.asia
+https://www.naturesbestphotography.asia
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

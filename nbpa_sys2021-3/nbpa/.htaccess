@@ -1,0 +1,6 @@
+<Files ~ "^\.ht">
+deny from all
+</Files>
+
+# Redirect
+Redirect permanent / http://naturesbestphotography.asia/

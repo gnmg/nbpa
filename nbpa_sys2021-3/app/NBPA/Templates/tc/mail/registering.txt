@@ -1,0 +1,25 @@
+Subject: 感謝您登錄Nature's Best Photography Asia網站。
+==============================================
+在這個郵件裏有您的個人賬户信息。
+==============================================
+Dear __NAME__
+
+感謝您登錄Nature's Best Photography Asia網站。
+
+以下是您的個人賬戶信息。
+----------------------------------------------------------
+- 姓名：__NAME__
+- 登錄ID：__MAIL__
+----------------------------------------------------------
+
+攝影作品提交后，可以通過以下URL進行確認。
+https://naturesbestphotography.asia/user/member/home?lang=tc
+
+期待著您的佳作。
+
+=-=-=-　Nature's Best Photography Asia　=-=-=-=-=-=
+
+3-8-16 Noritake Shinmachi, Nagoya, Aichi, Japan
+info@naturesbestphotography.asia
+https://www.naturesbestphotography.asia
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
