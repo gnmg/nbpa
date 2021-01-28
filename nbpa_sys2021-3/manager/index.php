@@ -4,7 +4,7 @@
  *
  * @version SVN: $Id$
  */
-define('APP_ROOT', __DIR__.'/../../nbpa_sys2020');
+define('APP_ROOT', __DIR__.'/../../nbpa_sys2021-3');
 
 require_once APP_ROOT.'/vendor/autoload.php';
 require_once APP_ROOT.'/app/bootstrap_manager.php';
