@@ -20,10 +20,10 @@
     <div class="inner-container">
       <nav>
         <ul>
-          <li><a href="/<?php echo $locale; ?>/contact-us.html">Contact Us</a></li>
-          <li><a href="/<?php echo $locale; ?>/privacy-policy.html">Privacy Policy</a></li>
-          <li><a href="/<?php echo $locale; ?>/terms.html">Terms of Use</a></li>
-          <li><a href="/<?php echo $locale; ?>/credits.html">Credits</a></li>
+          <li><a href="/<?php echo $locale; ?>/contact-us.php">Contact Us</a></li>
+          <li><a href="/<?php echo $locale; ?>/privacy-policy.php">Privacy Policy</a></li>
+          <li><a href="/<?php echo $locale; ?>/terms.php">Terms of Use</a></li>
+          <li><a href="/<?php echo $locale; ?>/credits.php">Credits</a></li>
           <li class="js-langSelector"><a href="" onclick="return false" class="last">Language<small>▲</small></a>
             <ul class="js-langChild">
               <li><a href="/en/">English</a></li>

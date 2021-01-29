@@ -41,12 +41,41 @@
           <nav>
             <ul>
               <li><a href="/<?php echo $locale ?>/">HOME</a></li>
-              <li><a href="/<?php echo $locale ?>/contest-details.html">CONTEST DETAILS</a></li>
+              <li><a href="/<?php echo $locale ?>/contest-details.php">CONTEST DETAILS</a></li>
               <li><a href="/user/entry/entry?lang=<?php echo $locale ?>">ENTRY</a></li>
-              <li><a href="/<?php echo $locale ?>/judges.html">JUDGES</a></li>
-              <li><a href="/<?php echo $locale ?>/exhibitions.html">EXHIBITIONS</a></li>
+              <li><a href="/<?php echo $locale ?>/judges.php">JUDGES</a></li>
+              <li><a href="/<?php echo $locale ?>/exhibitions.php">EXHIBITIONS</a></li>
               <li><a href="/<?php echo $locale ?>/gallery/" class="last">WINNER`S GALLERY</a></li>
             </ul>
           </nav>
+<!-- test -->
+          <ul class="nav navbar-nav">
+            <li><a href="../en/">HOME</a></li>
+            <li><a href="../en/contest-details.php">CONTEST DETAILS</a></li>
+            <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
+            <li><a href="../en/judges.php">JUDGES</a></li>
+            <li class="dropdown">
+              <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
+              <ul class="dropdown-menu">
+                <li><a href="../en/gallery/index.php">2020 Gallery</a></li>
+                <li><a href="../en/gallery/gallery-2019.php">2019 Gallery</a></li>
+                <li><a href="../en/gallery/gallery-2018.php">2018 Gallery</a></li>
+                <li><a href="../en/gallery/gallery-2017.php">2017 Gallery</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a data-toggle="dropdown" href="#">Language<span class="caret"></span></a></a>
+              <ul class="dropdown-menu">
+                <li><a href="/en/">English</a></li>
+                <li><a href="/ru/">Russian</a></li>
+                <li><a href="/ja/">日本語</a></li>
+                <li><a href="/sc/">中国語 簡体字</a></li>
+                <li><a href="/tc/">中国語 繁体字</a></li>
+                <li><a href="/ko/" class="last">韓国語</a></li>
+              </ul>
+            </li>
+          </ul>
+
+
         </div>
       </header>

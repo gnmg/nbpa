@@ -51,10 +51,10 @@
             <li class="dropdown">
               <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
               <ul class="dropdown-menu">
-                <li><a href="../en/gallery/index.html">2020 Gallery</a></li>
-                <li><a href="../en/gallery/gallery-2019.html">2019 Gallery</a></li>
-                <li><a href="../en/gallery/gallery-2018.html">2018 Gallery</a></li>
-                <li><a href="../en/gallery/gallery-2017.html">2017 Gallery</a></li>
+                <li><a href="../en/gallery/index.php">2020 Gallery</a></li>
+                <li><a href="../en/gallery/gallery-2019.php">2019 Gallery</a></li>
+                <li><a href="../en/gallery/gallery-2018.php">2018 Gallery</a></li>
+                <li><a href="../en/gallery/gallery-2017.php">2017 Gallery</a></li>
               </ul>
             </li>
             <li class="dropdown">
