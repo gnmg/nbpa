@@ -1,0 +1,594 @@
+[24-Jan-2020 15:29:34 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:29:39 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:33:57 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:34:02 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:34:10 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:35:19 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:36:13 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:37:03 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:41:33 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:44:32 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[24-Jan-2020 15:44:40 Asia/Tokyo] PHP Fatal error:  Cannot use 'String' as class name as it is reserved in /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/respect/validation/library/Rules/String.php on line 4
+[27-Jan-2020 12:36:09 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 13824 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[27-Jan-2020 13:02:29 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3456 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-Feb-2020 21:40:18 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10708 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[03-Feb-2020 13:23:39 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[03-Feb-2020 13:24:19 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[03-Feb-2020 13:29:13 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[03-Feb-2020 13:31:30 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[04-Feb-2020 10:24:22 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[04-Feb-2020 10:24:29 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[04-Feb-2020 10:26:15 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[04-Feb-2020 13:58:33 UTC] PHP Warning:  POST Content-Length of 27189350 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[04-Feb-2020 23:03:13 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16128 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 15:20:09 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 23040 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 15:22:13 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 23040 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 15:25:16 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 23040 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 15:26:27 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 23040 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 15:37:18 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 23040 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 15:56:43 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 23040 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 16:04:47 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 23040 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 16:06:13 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 16:06:34 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 16:22:28 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 16:28:08 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 16:36:34 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 20:26:51 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[12-Feb-2020 20:44:16 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[13-Feb-2020 10:50:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[13-Feb-2020 10:50:43 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[13-Feb-2020 10:52:19 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[13-Feb-2020 10:52:28 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[13-Feb-2020 10:52:33 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[13-Feb-2020 10:52:38 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[13-Feb-2020 11:03:10 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[14-Feb-2020 15:00:44 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18432 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[14-Feb-2020 15:07:03 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18432 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 15:17:18 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 15:18:47 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 15:22:41 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 15:26:46 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 15:30:32 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 15:34:27 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 15:55:22 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15968 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 15:55:54 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15968 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 15:56:18 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15968 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 16:02:32 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 27200 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 16:07:24 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 27200 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 16:09:19 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 27200 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 16:12:34 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 27200 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Feb-2020 16:24:57 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 27200 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[17-Feb-2020 13:29:59 UTC] PHP Warning:  POST Content-Length of 28494015 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[17-Feb-2020 13:43:40 UTC] PHP Warning:  POST Content-Length of 28494015 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[17-Feb-2020 13:51:10 UTC] PHP Warning:  POST Content-Length of 28494015 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[17-Feb-2020 14:39:22 UTC] PHP Warning:  POST Content-Length of 28494015 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[20-Feb-2020 22:49:27 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3396 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[20-Feb-2020 22:49:53 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3396 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[22-Feb-2020 11:46:15 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[22-Feb-2020 11:52:45 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[22-Feb-2020 11:52:56 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 11460 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[23-Feb-2020 21:43:39 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 21888 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[23-Feb-2020 21:48:02 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 14400 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[24-Feb-2020 15:56:28 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[24-Feb-2020 15:58:38 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Feb-2020 08:41:31 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 13584 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Feb-2020 08:42:21 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 13584 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Feb-2020 08:47:29 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 13584 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Feb-2020 08:47:58 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 13584 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Feb-2020 08:51:29 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 25176 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Feb-2020 08:53:57 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2740 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Feb-2020 09:25:08 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7688 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Feb-2020 09:26:40 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7688 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Feb-2020 02:03:06 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 25600 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Feb-2020 02:06:58 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 25600 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Feb-2020 02:10:44 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 25600 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Feb-2020 09:43:01 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3396 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Feb-2020 09:58:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 25176 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Feb-2020 10:16:20 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16384 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Feb-2020 10:16:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3396 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Feb-2020 10:42:00 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Feb-2020 10:42:12 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Feb-2020 10:42:23 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Feb-2020 20:51:34 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17640 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Feb-2020 21:01:26 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27200 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[07-Mar-2020 20:53:05 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30984 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[07-Mar-2020 20:57:02 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30984 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[07-Mar-2020 21:01:55 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[07-Mar-2020 21:09:46 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:22:13 Asia/Tokyo] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 21:22:51 Asia/Tokyo] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(../../../../stripe/vendor/autoload.php): failed to open stream: No such file or directory' in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php:5
+Stack trace:
+#0 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): Slim\Slim::handleErrors(2, 'require_once(.....', '/home/naturesbe...', 5, Array)
+#1 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): require_once()
+#2 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(412): include('/home/naturesbe...')
+#3 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(301): Composer\Autoload\includeFile('/home/naturesbe...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('NBPA\\Controller...')
+#5 /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php(69): spl_autoload_call('NBPA\\Controller...')
+#6  in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 21:22:51 Asia/Tokyo] PHP Fatal error:  main(): Failed opening required '../../../../stripe/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 21:23:07 Asia/Tokyo] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(../../../../../stripe/vendor/autoload.php): failed to open stream: No such file or directory' in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php:5
+Stack trace:
+#0 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): Slim\Slim::handleErrors(2, 'require_once(.....', '/home/naturesbe...', 5, Array)
+#1 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): require_once()
+#2 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(412): include('/home/naturesbe...')
+#3 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(301): Composer\Autoload\includeFile('/home/naturesbe...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('NBPA\\Controller...')
+#5 /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php(69): spl_autoload_call('NBPA\\Controller...')
+ in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 21:23:07 Asia/Tokyo] PHP Fatal error:  main(): Failed opening required '../../../../../stripe/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 21:26:22 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Services\DbService' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 28
+[07-Mar-2020 21:27:33 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Services\DbService' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 28
+[07-Mar-2020 21:29:01 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Services\DbService' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 28
+[07-Mar-2020 21:30:33 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Services\DbService' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 28
+[07-Mar-2020 21:30:59 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Services\DbService' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 28
+[07-Mar-2020 12:35:26 UTC] PHP Warning:  require_once(./NBPA/Services/DbServicephp): failed to open stream: No such file or directory in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 3
+[07-Mar-2020 12:35:26 UTC] PHP Fatal error:  require_once(): Failed opening required './NBPA/Services/DbServicephp' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 3
+[07-Mar-2020 12:36:02 UTC] PHP Warning:  require_once(/home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Services/DbServicephp): failed to open stream: No such file or directory in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 3
+[07-Mar-2020 12:36:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Services/DbServicephp' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 3
+[07-Mar-2020 12:36:09 UTC] PHP Warning:  require_once(/home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Services/DbServicephp): failed to open stream: No such file or directory in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 3
+[07-Mar-2020 12:36:09 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Services/DbServicephp' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/nbpa_sys2020/app/bootstrap_user.php on line 3
+[07-Mar-2020 21:38:32 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:38:56 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:39:01 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\MemberController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 59
+[07-Mar-2020 21:39:53 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\MemberController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 59
+[07-Mar-2020 21:39:57 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\MemberController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 59
+[07-Mar-2020 21:45:26 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\MemberController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 59
+[07-Mar-2020 21:48:27 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\MemberController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 39
+[07-Mar-2020 21:48:32 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:52:12 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:52:28 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:53:13 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:54:24 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\MemberController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 59
+[07-Mar-2020 21:54:58 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:57:45 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:58:57 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 21:59:40 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\EntryController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 321
+[07-Mar-2020 22:07:20 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\Stripe\Stripe' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 19
+[07-Mar-2020 22:11:07 Asia/Tokyo] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(/home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers../../../vendor/autoload.php): failed to open stream: No such file or directory' in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php:5
+Stack trace:
+#0 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): Slim\Slim::handleErrors(2, 'require_once(/h...', '/home/naturesbe...', 5, Array)
+#1 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): require_once()
+#2 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(444): include('/home/naturesbe...')
+#3 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/naturesbe...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('NBPA\\Controller...')
+#5 /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_ in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 22:11:07 Asia/Tokyo] PHP Fatal error:  main(): Failed opening required '/home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers../../../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 22:11:33 Asia/Tokyo] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(/vendor/autoload.php): failed to open stream: No such file or directory' in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php:5
+Stack trace:
+#0 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): Slim\Slim::handleErrors(2, 'require_once(/v...', '/home/naturesbe...', 5, Array)
+#1 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): require_once()
+#2 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(444): include('/home/naturesbe...')
+#3 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/naturesbe...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('NBPA\\Controller...')
+#5 /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php(69): spl_autoload_call('NBPA\\Controller...')
+#6 [internal function in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 22:11:33 Asia/Tokyo] PHP Fatal error:  main(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 22:12:14 Asia/Tokyo] PHP Warning:  Uncaught exception 'ErrorException' with message 'require_once(../vendor/autoload.php): failed to open stream: No such file or directory' in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php:5
+Stack trace:
+#0 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): Slim\Slim::handleErrors(2, 'require_once(.....', '/home/naturesbe...', 5, Array)
+#1 /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php(5): require_once()
+#2 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(444): include('/home/naturesbe...')
+#3 /home/naturesbestphoto/public_html/nbpa_sys2020/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/naturesbe...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('NBPA\\Controller...')
+#5 /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php(69): spl_autoload_call('NBPA\\Controller...')
+#6 [internal functi in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 22:12:14 Asia/Tokyo] PHP Fatal error:  main(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 5
+[07-Mar-2020 22:12:50 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\Stripe\Stripe' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 21
+[07-Mar-2020 22:13:53 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 22:14:00 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 22:14:21 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\MemberController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 59
+[07-Mar-2020 22:14:49 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\EntryController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 321
+[07-Mar-2020 22:15:58 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\MemberController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 59
+[07-Mar-2020 22:16:06 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\MemberController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 59
+[07-Mar-2020 22:16:38 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\Stripe\Stripe' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 21
+[07-Mar-2020 22:17:25 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\Stripe\Stripe' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 21
+[07-Mar-2020 22:18:00 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\StripeController' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/dispatcher_user.php on line 69
+[07-Mar-2020 22:18:12 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\Stripe\Stripe' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 21
+[07-Mar-2020 22:19:10 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\Stripe\Stripe' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 21
+[07-Mar-2020 22:19:40 Asia/Tokyo] PHP Fatal error:  Class 'NBPA\Controllers\Stripe' not found in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 21
+[07-Mar-2020 22:24:26 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[07-Mar-2020 22:42:45 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '$payment' (T_VARIABLE) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 46
+[07-Mar-2020 22:46:27 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 37
+[08-Mar-2020 12:07:32 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '>' in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/StripeController.php on line 64
+[08-Mar-2020 21:17:58 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29756 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[08-Mar-2020 12:45:04 UTC] PHP Warning:  POST Content-Length of 35611817 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[08-Mar-2020 12:46:29 UTC] PHP Warning:  POST Content-Length of 35611817 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[09-Mar-2020 11:45:50 UTC] PHP Warning:  POST Content-Length of 26550281 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[09-Mar-2020 11:47:28 UTC] PHP Warning:  POST Content-Length of 26344231 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[09-Mar-2020 11:49:31 UTC] PHP Warning:  POST Content-Length of 26344226 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[11-Mar-2020 12:10:57 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 25176 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[11-Mar-2020 12:11:26 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29440 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[13-Mar-2020 22:22:21 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20004 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[14-Mar-2020 23:10:51 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 18008 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[15-Mar-2020 08:07:54 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24960 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[15-Mar-2020 08:08:03 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24960 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[15-Mar-2020 08:08:10 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24960 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[18-Mar-2020 07:48:06 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24960 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[18-Mar-2020 07:48:27 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24960 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[18-Mar-2020 07:49:18 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24960 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[18-Mar-2020 07:50:25 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24960 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[18-Mar-2020 07:52:07 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24960 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[18-Mar-2020 07:53:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24960 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[19-Mar-2020 18:38:19 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 5124 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Mar-2020 18:43:27 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 21164 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[05-Apr-2020 02:19:13 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29588 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[05-Apr-2020 17:53:23 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29440 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[10-Apr-2020 13:39:09 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33024 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[10-Apr-2020 13:42:21 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33024 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[10-Apr-2020 13:43:45 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33024 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[15-Apr-2020 22:34:51 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33024 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[15-Apr-2020 22:35:35 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33024 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[15-Apr-2020 22:50:29 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33024 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[16-Apr-2020 07:32:56 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7745 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[17-Apr-2020 01:39:53 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6160 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[20-Apr-2020 03:50:23 UTC] PHP Warning:  POST Content-Length of 27724820 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[20-Apr-2020 03:51:25 UTC] PHP Warning:  POST Content-Length of 27724820 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[21-Apr-2020 00:30:15 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7745 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[23-Apr-2020 14:46:08 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 41548 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[23-Apr-2020 14:47:56 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39108 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[23-Apr-2020 22:53:24 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39108 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[24-Apr-2020 20:31:15 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39108 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[25-Apr-2020 02:38:04 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Templates/en/entry/entry_confirm.php on line 76
+[25-Apr-2020 22:46:40 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39108 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Apr-2020 07:07:17 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26880 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Apr-2020 07:12:54 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26880 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Apr-2020 07:17:54 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26880 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Apr-2020 13:22:41 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29440 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Apr-2020 13:23:53 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29440 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Apr-2020 13:35:33 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29440 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Apr-2020 08:17:59 UTC] PHP Warning:  POST Content-Length of 31997107 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[26-Apr-2020 17:32:39 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29440 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Apr-2020 17:38:19 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39108 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[26-Apr-2020 17:39:16 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39108 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[27-Apr-2020 23:16:28 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26880 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Apr-2020 03:18:24 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8000 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Apr-2020 03:18:57 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32000 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Apr-2020 10:08:28 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28416 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Apr-2020 10:09:50 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28416 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Apr-2020 12:36:40 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28416 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[28-Apr-2020 12:43:24 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 18212 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 14:34:16 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26268 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 07:04:06 UTC] PHP Warning:  POST Content-Length of 88097259 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[29-Apr-2020 16:49:45 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19648 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 16:51:23 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19648 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 16:51:48 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19648 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 16:52:15 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19648 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 16:53:14 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19648 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 16:55:19 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19648 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 16:55:30 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19648 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 07:58:54 UTC] PHP Warning:  POST Content-Length of 28561089 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[29-Apr-2020 07:59:27 UTC] PHP Warning:  POST Content-Length of 28561089 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[29-Apr-2020 23:35:21 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7533 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 23:36:11 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7533 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 14:38:50 UTC] PHP Warning:  POST Content-Length of 36241471 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[29-Apr-2020 23:39:08 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7533 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 23:46:31 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8493 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[29-Apr-2020 14:58:43 UTC] PHP Warning:  POST Content-Length of 36241471 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 01:48:00 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24952 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 01:48:29 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24952 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 01:49:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24952 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 02:12:55 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32304 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 02:17:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24952 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 02:29:25 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6989 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 02:31:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6952 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 08:55:38 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27744 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 08:56:23 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27744 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 13:45:42 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30580 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 17:49:42 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33024 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 18:02:11 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26348 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 18:03:00 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26348 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 18:03:24 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24852 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 19:48:17 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26348 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 20:25:06 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24852 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 20:25:16 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24852 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 20:25:41 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4278 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 20:33:38 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26348 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 21:12:56 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28232 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 21:54:39 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32824 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 22:40:37 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26524 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 22:40:59 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26524 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 22:42:35 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26880 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 22:42:55 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19916 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 22:43:25 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19916 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 23:12:48 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6493 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 23:16:03 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6493 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 23:17:32 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6493 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 23:19:06 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32024 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 23:20:00 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6493 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 23:20:56 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29912 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 23:21:48 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26880 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 23:23:29 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29440 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 23:25:32 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26880 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 14:37:15 UTC] PHP Warning:  POST Content-Length of 27152085 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 23:38:04 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4278 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 14:38:29 UTC] PHP Warning:  POST Content-Length of 27152085 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 14:39:08 UTC] PHP Warning:  POST Content-Length of 27152085 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 14:40:03 UTC] PHP Warning:  POST Content-Length of 27152085 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 14:40:48 UTC] PHP Warning:  POST Content-Length of 27152050 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 14:46:34 UTC] PHP Warning:  POST Content-Length of 27152085 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 14:47:34 UTC] PHP Warning:  POST Content-Length of 27152072 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 14:48:06 UTC] PHP Warning:  POST Content-Length of 27152058 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 14:48:46 UTC] PHP Warning:  POST Content-Length of 27012460 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 23:54:06 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4278 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 14:54:17 UTC] PHP Warning:  POST Content-Length of 27152072 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 14:55:29 UTC] PHP Warning:  POST Content-Length of 37317342 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 23:55:48 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[30-Apr-2020 14:56:41 UTC] PHP Warning:  POST Content-Length of 27152072 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[30-Apr-2020 14:57:36 UTC] PHP Warning:  POST Content-Length of 52459994 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 00:19:07 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 00:19:18 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 00:19:52 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 00:20:00 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 00:20:47 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 00:22:04 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 00:23:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 19648 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 00:26:33 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7009 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 00:30:13 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 00:32:57 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7009 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 01:26:53 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 02:10:36 UTC] PHP Warning:  POST Content-Length of 49193370 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 02:16:09 UTC] PHP Warning:  POST Content-Length of 49193359 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 03:30:58 UTC] PHP Warning:  POST Content-Length of 30629504 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 12:33:41 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 41580 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 12:34:21 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 41580 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 12:35:07 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 41580 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 12:36:05 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 41580 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 03:59:19 UTC] PHP Warning:  POST Content-Length of 108776800 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 13:01:27 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 29912 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 05:02:05 UTC] PHP Warning:  POST Content-Length of 30343976 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 05:02:42 UTC] PHP Warning:  POST Content-Length of 30343976 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 18:02:56 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28456 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 18:05:42 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28456 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 18:24:47 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 18:25:31 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 09:43:21 UTC] PHP Warning:  POST Content-Length of 26381941 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 09:44:50 UTC] PHP Warning:  POST Content-Length of 26381941 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 09:46:16 UTC] PHP Warning:  POST Content-Length of 26381941 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 09:47:47 UTC] PHP Warning:  POST Content-Length of 26381927 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 09:48:50 UTC] PHP Warning:  POST Content-Length of 26381941 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 09:50:21 UTC] PHP Warning:  POST Content-Length of 26381941 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 09:52:13 UTC] PHP Warning:  POST Content-Length of 26381941 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 09:52:59 UTC] PHP Warning:  POST Content-Length of 26381941 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 09:53:40 UTC] PHP Warning:  POST Content-Length of 26406609 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 11:23:56 UTC] PHP Warning:  POST Content-Length of 29786817 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 11:27:01 UTC] PHP Warning:  POST Content-Length of 29786817 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 11:28:05 UTC] PHP Warning:  POST Content-Length of 29786817 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 11:40:14 UTC] PHP Warning:  POST Content-Length of 29786803 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[01-May-2020 21:38:09 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6499 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 21:40:37 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6499 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 21:43:35 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6499 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 21:44:27 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6499 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 21:47:42 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6499 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 21:49:49 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6499 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 21:51:07 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 25996 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 21:53:17 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 25996 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 21:53:54 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 25996 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 22:04:17 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6499 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 22:40:56 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 22:41:15 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 7009 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 22:49:15 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 22:50:10 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 22:51:46 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 22:52:13 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 22:57:27 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 22:58:21 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:00:11 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:11:24 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:12:20 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:13:12 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:13:55 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:16:46 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:18:33 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:20:34 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33088 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:28:58 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26772 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:29:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26772 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:31:58 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:32:36 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 23:37:22 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 31808 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[01-May-2020 15:51:44 UTC] PHP Warning:  POST Content-Length of 36241458 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-May-2020 03:55:40 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30888 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 13:17:08 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6499 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 13:20:03 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6499 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 18:49:48 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30344 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 18:51:38 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30344 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 18:52:57 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30344 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 18:57:08 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30344 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 19:14:29 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30344 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 19:17:10 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 30344 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 19:17:53 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26436 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 19:20:35 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26436 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 19:22:44 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26436 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-May-2020 23:40:04 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28160 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[03-May-2020 01:35:14 Asia/Tokyo] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 26436 bytes) in /home/naturesbestphoto/public_html/nbpa_sys2020/app/NBPA/Controllers/EntryController.php on line 215
+[02-Jun-2020 02:02:52 UTC] PHP Warning:  POST Content-Length of 102302284 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:04:04 UTC] PHP Warning:  POST Content-Length of 102302284 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:07:10 UTC] PHP Warning:  POST Content-Length of 51686173 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:07:48 UTC] PHP Warning:  POST Content-Length of 102302284 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:09:05 UTC] PHP Warning:  POST Content-Length of 51686173 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:09:24 UTC] PHP Warning:  POST Content-Length of 51686173 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:16:47 UTC] PHP Warning:  POST Content-Length of 51686173 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:18:13 UTC] PHP Warning:  POST Content-Length of 99226219 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:20:35 UTC] PHP Warning:  POST Content-Length of 102302286 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:22:09 UTC] PHP Warning:  POST Content-Length of 102302286 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:25:09 UTC] PHP Warning:  POST Content-Length of 102302284 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:33:09 UTC] PHP Warning:  POST Content-Length of 102302284 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:38:36 UTC] PHP Warning:  POST Content-Length of 102302284 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 02:46:06 UTC] PHP Warning:  POST Content-Length of 102302284 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 03:26:00 UTC] PHP Warning:  POST Content-Length of 105571092 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 03:36:24 UTC] PHP Warning:  POST Content-Length of 77339982 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 03:42:46 UTC] PHP Warning:  POST Content-Length of 105571140 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 03:45:44 UTC] PHP Warning:  POST Content-Length of 87491739 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:01:23 UTC] PHP Warning:  POST Content-Length of 84364354 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:01:28 UTC] PHP Warning:  POST Content-Length of 124212250 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:11:02 UTC] PHP Warning:  POST Content-Length of 92034281 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:11:17 UTC] PHP Warning:  POST Content-Length of 93090162 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:25:31 UTC] PHP Warning:  POST Content-Length of 31636762 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:25:51 UTC] PHP Warning:  POST Content-Length of 87491833 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:27:32 UTC] PHP Warning:  POST Content-Length of 31636762 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:33:51 UTC] PHP Warning:  POST Content-Length of 60360761 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:34:42 UTC] PHP Warning:  POST Content-Length of 65725361 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:37:10 UTC] PHP Warning:  POST Content-Length of 60360761 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:38:42 UTC] PHP Warning:  POST Content-Length of 77358603 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:39:32 UTC] PHP Warning:  POST Content-Length of 120667479 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:49:14 UTC] PHP Warning:  POST Content-Length of 36727121 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:51:16 UTC] PHP Warning:  POST Content-Length of 36727121 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:52:53 UTC] PHP Warning:  POST Content-Length of 36405238 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:53:34 UTC] PHP Warning:  POST Content-Length of 36727113 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:56:40 UTC] PHP Warning:  POST Content-Length of 36753864 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 04:58:37 UTC] PHP Warning:  POST Content-Length of 65725361 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:03:46 UTC] PHP Warning:  POST Content-Length of 58404386 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:15:17 UTC] PHP Warning:  POST Content-Length of 61511435 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:17:00 UTC] PHP Warning:  POST Content-Length of 61511435 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:17:13 UTC] PHP Warning:  POST Content-Length of 120667479 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:17:48 UTC] PHP Warning:  POST Content-Length of 61511435 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:18:22 UTC] PHP Warning:  POST Content-Length of 120667479 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:27:57 UTC] PHP Warning:  POST Content-Length of 120667444 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:34:26 UTC] PHP Warning:  POST Content-Length of 120667444 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:39:45 UTC] PHP Warning:  POST Content-Length of 120667444 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:43:14 UTC] PHP Warning:  POST Content-Length of 35241256 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:48:53 UTC] PHP Warning:  POST Content-Length of 114251497 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 05:50:53 UTC] PHP Warning:  POST Content-Length of 51686454 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 06:02:00 UTC] PHP Warning:  POST Content-Length of 26913928 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 06:12:05 UTC] PHP Warning:  POST Content-Length of 93090162 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 06:16:52 UTC] PHP Warning:  POST Content-Length of 114252166 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 06:37:28 UTC] PHP Warning:  POST Content-Length of 107048980 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 06:46:45 UTC] PHP Warning:  POST Content-Length of 107048965 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:03:15 UTC] PHP Warning:  POST Content-Length of 107048980 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:29:05 UTC] PHP Warning:  POST Content-Length of 102302268 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:32:30 UTC] PHP Warning:  POST Content-Length of 111380662 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:32:31 UTC] PHP Warning:  POST Content-Length of 120667444 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:35:02 UTC] PHP Warning:  POST Content-Length of 102302269 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:36:33 UTC] PHP Warning:  POST Content-Length of 86061133 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:41:08 UTC] PHP Warning:  POST Content-Length of 119961144 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:41:44 UTC] PHP Warning:  POST Content-Length of 119961144 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:42:51 UTC] PHP Warning:  POST Content-Length of 119961144 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:43:27 UTC] PHP Warning:  POST Content-Length of 111380664 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:46:33 UTC] PHP Warning:  POST Content-Length of 111380664 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:53:58 UTC] PHP Warning:  POST Content-Length of 36784895 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 07:56:42 UTC] PHP Warning:  POST Content-Length of 36784895 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 08:05:05 UTC] PHP Warning:  POST Content-Length of 74302497 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 08:06:39 UTC] PHP Warning:  POST Content-Length of 48708232 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 08:09:25 UTC] PHP Warning:  POST Content-Length of 111380370 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 08:11:00 UTC] PHP Warning:  POST Content-Length of 72645999 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 08:14:08 UTC] PHP Warning:  POST Content-Length of 72645999 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 08:25:28 UTC] PHP Warning:  POST Content-Length of 74302482 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 08:42:40 UTC] PHP Warning:  POST Content-Length of 74302482 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 08:45:27 UTC] PHP Warning:  POST Content-Length of 74302482 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:12:14 UTC] PHP Warning:  POST Content-Length of 117360410 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:15:48 UTC] PHP Warning:  POST Content-Length of 133131043 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:16:37 UTC] PHP Warning:  POST Content-Length of 117360410 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:21:48 UTC] PHP Warning:  POST Content-Length of 120944902 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:25:54 UTC] PHP Warning:  POST Content-Length of 31573971 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:26:48 UTC] PHP Warning:  POST Content-Length of 31573971 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:28:12 UTC] PHP Warning:  POST Content-Length of 31573971 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:30:01 UTC] PHP Warning:  POST Content-Length of 109388754 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:33:09 UTC] PHP Warning:  POST Content-Length of 31573971 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:36:06 UTC] PHP Warning:  POST Content-Length of 117360396 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:50:18 UTC] PHP Warning:  POST Content-Length of 117360396 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 09:51:06 UTC] PHP Warning:  POST Content-Length of 107048980 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:03:13 UTC] PHP Warning:  POST Content-Length of 70040179 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:04:15 UTC] PHP Warning:  POST Content-Length of 70040194 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:07:39 UTC] PHP Warning:  POST Content-Length of 70040194 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:09:09 UTC] PHP Warning:  POST Content-Length of 70040179 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:10:54 UTC] PHP Warning:  POST Content-Length of 70480816 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:21:47 UTC] PHP Warning:  POST Content-Length of 106581499 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:24:47 UTC] PHP Warning:  POST Content-Length of 106316567 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:29:24 UTC] PHP Warning:  POST Content-Length of 106581499 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:37:57 UTC] PHP Warning:  POST Content-Length of 106581499 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:39:30 UTC] PHP Warning:  POST Content-Length of 106581499 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:45:31 UTC] PHP Warning:  POST Content-Length of 69835804 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 10:51:57 UTC] PHP Warning:  POST Content-Length of 69835804 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 11:03:37 UTC] PHP Warning:  POST Content-Length of 69835867 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 11:12:40 UTC] PHP Warning:  POST Content-Length of 44029681 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 11:18:29 UTC] PHP Warning:  POST Content-Length of 124672451 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 11:33:31 UTC] PHP Warning:  POST Content-Length of 44029705 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 11:50:36 UTC] PHP Warning:  POST Content-Length of 50247656 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 11:51:12 UTC] PHP Warning:  POST Content-Length of 107048965 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 11:54:51 UTC] PHP Warning:  POST Content-Length of 29001582 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 11:58:37 UTC] PHP Warning:  POST Content-Length of 27450907 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:00:57 UTC] PHP Warning:  POST Content-Length of 102302292 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:05:46 UTC] PHP Warning:  POST Content-Length of 37735300 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:14:38 UTC] PHP Warning:  POST Content-Length of 39808739 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:16:09 UTC] PHP Warning:  POST Content-Length of 44029705 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:18:16 UTC] PHP Warning:  POST Content-Length of 39808738 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:21:35 UTC] PHP Warning:  POST Content-Length of 49921479 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:26:10 UTC] PHP Warning:  POST Content-Length of 49921479 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:31:30 UTC] PHP Warning:  POST Content-Length of 44029672 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:34:46 UTC] PHP Warning:  POST Content-Length of 106581499 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:51:09 UTC] PHP Warning:  POST Content-Length of 44029672 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:52:26 UTC] PHP Warning:  POST Content-Length of 44029672 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:53:16 UTC] PHP Warning:  POST Content-Length of 44029672 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:54:34 UTC] PHP Warning:  POST Content-Length of 44029672 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 12:56:55 UTC] PHP Warning:  POST Content-Length of 66083657 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 13:17:14 UTC] PHP Warning:  POST Content-Length of 107753185 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 13:18:59 UTC] PHP Warning:  POST Content-Length of 107753185 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 13:21:50 UTC] PHP Warning:  POST Content-Length of 107753185 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 13:25:22 UTC] PHP Warning:  POST Content-Length of 39808520 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 13:26:11 UTC] PHP Warning:  POST Content-Length of 119806659 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 14:21:17 UTC] PHP Warning:  POST Content-Length of 119806659 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 14:37:53 UTC] PHP Warning:  POST Content-Length of 44029672 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 14:47:42 UTC] PHP Warning:  POST Content-Length of 55873630 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 14:50:15 UTC] PHP Warning:  POST Content-Length of 55873630 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 14:57:25 UTC] PHP Warning:  POST Content-Length of 55873338 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 15:01:17 UTC] PHP Warning:  POST Content-Length of 58404386 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 15:08:19 UTC] PHP Warning:  POST Content-Length of 47889358 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 15:12:44 UTC] PHP Warning:  POST Content-Length of 47889358 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 15:35:11 UTC] PHP Warning:  POST Content-Length of 55873338 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:00:35 UTC] PHP Warning:  POST Content-Length of 116281229 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:00:38 UTC] PHP Warning:  POST Content-Length of 106581499 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:07:36 UTC] PHP Warning:  POST Content-Length of 116281214 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:13:11 UTC] PHP Warning:  POST Content-Length of 117360583 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:18:03 UTC] PHP Warning:  POST Content-Length of 110976018 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:23:14 UTC] PHP Warning:  POST Content-Length of 94748582 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:25:52 UTC] PHP Warning:  POST Content-Length of 95864220 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:31:03 UTC] PHP Warning:  POST Content-Length of 39808433 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:31:05 UTC] PHP Warning:  POST Content-Length of 116281237 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 16:43:24 UTC] PHP Warning:  POST Content-Length of 116281237 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 18:36:06 UTC] PHP Warning:  POST Content-Length of 27005343 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 18:45:05 UTC] PHP Warning:  POST Content-Length of 27005343 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 18:54:13 UTC] PHP Warning:  POST Content-Length of 27005343 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 19:18:43 UTC] PHP Warning:  POST Content-Length of 107048980 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 19:39:22 UTC] PHP Warning:  POST Content-Length of 122121301 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 19:50:07 UTC] PHP Warning:  POST Content-Length of 37626605 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 19:53:18 UTC] PHP Warning:  POST Content-Length of 122121292 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 19:55:36 UTC] PHP Warning:  POST Content-Length of 37626605 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 20:01:21 UTC] PHP Warning:  POST Content-Length of 37626605 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 20:02:47 UTC] PHP Warning:  POST Content-Length of 37626605 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 20:02:48 UTC] PHP Warning:  POST Content-Length of 49921288 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 20:52:35 UTC] PHP Warning:  POST Content-Length of 44029672 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 20:55:06 UTC] PHP Warning:  POST Content-Length of 44029672 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 22:00:18 UTC] PHP Warning:  POST Content-Length of 72024117 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 22:05:31 UTC] PHP Warning:  POST Content-Length of 72024117 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 22:07:20 UTC] PHP Warning:  POST Content-Length of 72024117 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 22:07:51 UTC] PHP Warning:  POST Content-Length of 72024117 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 22:08:53 UTC] PHP Warning:  POST Content-Length of 72024117 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 22:09:18 UTC] PHP Warning:  POST Content-Length of 72024117 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 22:09:39 UTC] PHP Warning:  POST Content-Length of 72024117 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 22:12:21 UTC] PHP Warning:  POST Content-Length of 72024117 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[02-Jun-2020 23:30:41 UTC] PHP Warning:  POST Content-Length of 73407210 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 03:30:34 UTC] PHP Warning:  POST Content-Length of 40589949 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 03:32:28 UTC] PHP Warning:  POST Content-Length of 40589949 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 03:41:30 UTC] PHP Warning:  POST Content-Length of 87317208 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 03:44:47 UTC] PHP Warning:  POST Content-Length of 87317208 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 03:52:04 UTC] PHP Warning:  POST Content-Length of 87317206 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 04:47:49 UTC] PHP Warning:  POST Content-Length of 124787317 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 04:48:31 UTC] PHP Warning:  POST Content-Length of 124787317 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 04:48:49 UTC] PHP Warning:  POST Content-Length of 124787317 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 04:50:36 UTC] PHP Warning:  POST Content-Length of 124787317 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 05:08:07 UTC] PHP Warning:  POST Content-Length of 66310139 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 05:18:27 UTC] PHP Warning:  POST Content-Length of 48522662 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 05:57:54 UTC] PHP Warning:  POST Content-Length of 102322669 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 08:42:38 UTC] PHP Warning:  POST Content-Length of 106581500 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 09:20:47 UTC] PHP Warning:  POST Content-Length of 70948153 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 09:23:52 UTC] PHP Warning:  POST Content-Length of 70948153 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 09:50:29 UTC] PHP Warning:  POST Content-Length of 116281237 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 09:59:45 UTC] PHP Warning:  POST Content-Length of 116281234 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[03-Jun-2020 14:17:02 UTC] PHP Warning:  POST Content-Length of 69686212 bytes exceeds the limit of 26214400 bytes in Unknown on line 0
+[28-Jan-2021 13:46:19 UTC] PHP Warning:  require_once(/home/naturesbestphoto/public_html/user/../nbpa_sys2020/vendor/autoload.php): failed to open stream: No such file or directory in /home/naturesbestphoto/public_html/user/index.php on line 9
+[28-Jan-2021 13:46:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/naturesbestphoto/public_html/user/../nbpa_sys2020/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/user/index.php on line 9
+[28-Jan-2021 15:35:35 UTC] PHP Warning:  require_once(/home/naturesbestphoto/public_html/user/../nbpa_sys2020/vendor/autoload.php): failed to open stream: No such file or directory in /home/naturesbestphoto/public_html/user/index.php on line 9
+[28-Jan-2021 15:35:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/naturesbestphoto/public_html/user/../nbpa_sys2020/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/user/index.php on line 9
+[28-Jan-2021 15:41:35 UTC] PHP Warning:  require_once(/home/naturesbestphoto/public_html/user/../nbpa_sys2020/vendor/autoload.php): failed to open stream: No such file or directory in /home/naturesbestphoto/public_html/user/index.php on line 9
+[28-Jan-2021 15:41:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/naturesbestphoto/public_html/user/../nbpa_sys2020/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/user/index.php on line 9
+[28-Jan-2021 15:41:52 UTC] PHP Warning:  require_once(/home/naturesbestphoto/public_html/user/../nbpa_sys2020/vendor/autoload.php): failed to open stream: No such file or directory in /home/naturesbestphoto/public_html/user/index.php on line 9
+[28-Jan-2021 15:41:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/naturesbestphoto/public_html/user/../nbpa_sys2020/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturesbestphoto/public_html/user/index.php on line 9
