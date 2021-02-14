@@ -80,9 +80,9 @@ $app->configureMode(
                 'ssl'            => true,
                 'templates.path' => APP_ROOT . '/app/NBPA/Templates',
                 'db.connection'  => [
-                    'username'          => 'naturesb_nbpa',
-                    'password'          => 'i@~,x4;6EXov',
-                    'connection_string' => 'mysql:host=localhost;dbname=naturesb_nbpa2020;charset=utf8',
+                    'username'          => 'gnmg_ralph',
+                    'password'          => '@rU?jWm(tdkh',
+                    'connection_string' => 'mysql:host=localhost;dbname=gnmg_nbpa2020;charset=utf8',
                 ],
                 'images.path'          => APP_ROOT . '/images',
                 'thumbnails.path'      => APP_ROOT . '/thumbnails',
