@@ -1,12 +1,5 @@
 ---
 deployment:
       tasks:
-        export DEPLOYPATH=/home/gnmg/public_html/
+        export DEPLOYPATH=/home/gnmg/public_html/ # export DEPLOYPATH=/home/naturesbestphoto/public_html/
         - /bin/cp -r * $DEPLOYPATH
-
-
-
-
-
-        # export DEPLOYPATH=/home/naturesbestphoto/public_html/ 
-        #this is a test to see if this will work
