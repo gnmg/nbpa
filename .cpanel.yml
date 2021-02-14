@@ -1,5 +1,5 @@
 ---
 deployment:
       tasks:
-        export DEPLOYPATH=/home/gnm/public_html/
+        export DEPLOYPATH=/home/gnmg/public_html/
         - /bin/cp -r * $DEPLOYPATH
