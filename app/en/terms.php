@@ -39,7 +39,7 @@
             those that an individual can be identified.</p>
           <h3>Others</h3>
           <p class="text-justify">Revisions of Terms of Use<br> Nature’s Best Photography Asia may revise the terms without notice. Please confirm the latest update of the terms, as they may be revised on Nature’s Best Photography Asia Website.<br> Applicable Laws and Jurisdiction<br>            Use of Nature’s Best Photography Asia Website ” and interpretation and application of these “Terms” are in compliance with the laws of Japan, except as otherwise provided. As for all disputes related to Nature’s Best Photography Asia Website,
-            the Tokyo District Court shall be the exclusive court of first instance, except as otherwise provided.</p>
+            the Tokyo District Court shall be the exclusive court of first instance, except as otherwise provided</p>
         </p>
       </div>
     </div>
