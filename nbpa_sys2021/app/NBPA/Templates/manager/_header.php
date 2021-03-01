@@ -1,7 +1,8 @@
 <!doctype html>
-<html ng-app>
+<html lang="en">
 
   <head>
+  <meta content="utf-8" http-equiv="encoding">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NBPA Management Console</title>
