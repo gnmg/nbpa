@@ -85,7 +85,7 @@ function closeNav() {
         <div class="row popup-row">
             <div class="col center">
                 <h1>Join Our Newsletter</h1><br />
-                <h2>Join our newsletter to receive contest updates and deadline notices.</h2> <br />
+                <h2>Join our newsletter to receive contest updates and deadline notices</h2> <br />
             </div>
         </div>
     </div>
