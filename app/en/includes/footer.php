@@ -85,7 +85,7 @@ function closeNav() {
         <div class="row popup-row">
             <div class="col center">
                 <h1>Join Our Newsletter</h1><br />
-                <h2>Join our newsletter to receive contest updates and deadline notices</h2> <br />
+                <h2>Join our newsletter to receive contest updates and deadline notices.</h2> <br />
             </div>
         </div>
     </div>
@@ -98,7 +98,7 @@ function closeNav() {
                 tabindex="501">
             <input type="submit" name="submit" id="wd1_nlpopup_submit" value="Subscribe"
                 class="btn btn-orange btn-large" tabindex="502">
-            <input type="hidden" name="list" value="eAU8IIy892SoDwI54FIE8923Zg" />
+            <input type="hidden" name="list" value="CZdV6r3u7NHWxIOPSmApiA" />
         </form>
     </div>
 </div>
