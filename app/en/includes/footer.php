@@ -98,7 +98,7 @@ function closeNav() {
                 tabindex="501">
             <input type="submit" name="submit" id="wd1_nlpopup_submit" value="Subscribe"
                 class="btn btn-orange btn-large" tabindex="502">
-            <input type="hidden" name="list" value="eAU8IIy892SoDwI54FIE8923Zg" />
+            <input type="hidden" name="list" value="CZdV6r3u7NHWxIOPSmApiA" />
         </form>
     </div>
 </div>
