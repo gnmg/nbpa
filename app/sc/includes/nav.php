@@ -1,5 +1,5 @@
 <header class="main-header main-bar-header navbar navbar-custom navbar-transparent">
-    <div class="inner-container container bar-header ">
+    <div class="container inner-container bar-header ">
 
         <div class="row">
             <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
@@ -8,7 +8,7 @@
             </div>
 
         </div>
-        <span onclick="openNav()" class="hidden-md hidden-lg  hidden-sm top_menu_toggle"><i onclick="openNav()"
+        <span onclick="openNav()" class="hidden-md hidden-lg hidden-sm top_menu_toggle"><i onclick="openNav()"
                 class="fa fa-bars" class="top_menu_toggle"></i> </span>
         <div id="mySidenav" class="sidenav top_toggle_nav_bg">
             <!--mob menu-->
@@ -21,10 +21,10 @@
             <li class="dropdown">
                 <a data-toggle="dropdown" href="#">获胜者作品展<span class="caret"></span></a></a>
                 <ul class="dropdown-menu">
-                    <li><a href="../en/gallery/index.php">2020 获胜者作品展</a></li>
-                    <li><a href="../en/gallery/gallery-2019.php">2019 获胜者作品展</a></li>
-                    <li><a href="../en/gallery/gallery-2018.php">2018 获胜者作品展</a></li>
-                    <li><a href="../en/gallery/gallery-2017.php">2017 获胜者作品展</a></li>
+                    <li><a href="../sc/gallery/index.php">2020 获胜者作品展</a></li>
+                    <li><a href="../sc/gallery/gallery-2019.php">2019 获胜者作品展</a></li>
+                    <li><a href="../sc/gallery/gallery-2018.php">2018 获胜者作品展</a></li>
+                    <li><a href="../sc/gallery/gallery-2017.php">2017 获胜者作品展</a></li>
                 </ul>
             </li>
             <li class="dropdown">
@@ -53,10 +53,10 @@
                 <li class="dropdown">
                 <a data-toggle="dropdown" href="#">获胜者作品展<span class="caret"></span></a></a>
                 <ul class="dropdown-menu">
-                    <li><a href="../en/gallery/index.php">2020 获胜者作品展</a></li>
-                    <li><a href="../en/gallery/gallery-2019.php">2019 获胜者作品展</a></li>
-                    <li><a href="../en/gallery/gallery-2018.php">2018 获胜者作品展</a></li>
-                    <li><a href="../en/gallery/gallery-2017.php">2017 获胜者作品展</a></li>
+                    <li><a href="../sc/gallery/index.php">2020 获胜者作品展</a></li>
+                    <li><a href="../sc/gallery/gallery-2019.php">2019 获胜者作品展</a></li>
+                    <li><a href="../sc/gallery/gallery-2018.php">2018 获胜者作品展</a></li>
+                    <li><a href="../sc/gallery/gallery-2017.php">2017 获胜者作品展</a></li>
                 </ul>
             </li>
                 <li class="dropdown">
