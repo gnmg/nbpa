@@ -13,11 +13,11 @@
         <div id="mySidenav" class="sidenav top_toggle_nav_bg">
             <!--mob menu-->
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="../sc/">HOME</a>
-            <a href="../sc/contest-details.php">比赛详情</a>
+            <a href="../../sc/">HOME</a>
+            <a href="../../sc/contest-details.php">比赛详情</a>
             <a href="https://naturesbestphotography.asia/user/entry/entry?lang=sc">参赛入口</a>
-            <a href="../sc/judges.php">JUDGES</a>
-            <a href="../sc/exhibitions.php">展览会</a>
+            <a href="../../sc/judges.php">JUDGES</a>
+            <a href="../../sc/exhibitions.php">展览会</a>
             <li class="dropdown">
                 <a data-toggle="dropdown" href="#">获胜者作品展<span class="caret"></span></a></a>
                 <ul class="dropdown-menu">
@@ -45,11 +45,11 @@
         <div class="row navContainer hidden-xs">
 
             <ul class="nav navbar-nav">
-                <li><a href="../sc/">HOME</a></li>
-                <li><a href="../sc/contest-details.php">比赛详情</a></li>
+                <li><a href="../../sc/">HOME</a></li>
+                <li><a href="../../sc/contest-details.php">比赛详情</a></li>
                 <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=sc">参赛入口</a></li>
-                <li><a href="../sc/judges.php">JUDGES</a></li>
-                <li><a href="../sc/exhibitions.php">展览会</a></li>
+                <li><a href="../../sc/judges.php">JUDGES</a></li>
+                <li><a href="../../sc/exhibitions.php">展览会</a></li>
                 <li class="dropdown">
                 <a data-toggle="dropdown" href="#">获胜者作品展<span class="caret"></span></a></a>
                 <ul class="dropdown-menu">
