@@ -12,8 +12,8 @@
         <div id="mySidenav" class="sidenav top_toggle_nav_bg">
           <!--mob menu-->
           <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-          <a href="../en/">HOME</a>
-          <a href="../en/contest-details.php">CONTEST DETAILS</a>
+          <a href="../../en/">HOME</a>
+          <a href="../../en/contest-details.php">CONTEST DETAILS</a>
           <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
           <a href="../en/judges.php">JUDGES</a>
 
@@ -44,8 +44,8 @@
         <div class="row navContainer hidden-xs">
 
           <ul class="nav navbar-nav">
-            <li><a href="../en/">HOME</a></li>
-            <li><a href="../en/contest-details.php">CONTEST DETAILS</a></li>
+            <li><a href="../../en/">HOME</a></li>
+            <li><a href="../../en/contest-details.php">CONTEST DETAILS</a></li>
             <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
             <li><a href="../en/judges.php">JUDGES</a></li>
             <li class="dropdown">
