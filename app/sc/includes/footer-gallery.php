@@ -23,9 +23,9 @@
         <div class="container">
             <nav>
                 <ul>
-                    <li><a href="../sc/contact-us.php">Contact Us</a></li>
-                    <li><a href="../sc/privacy-policy.php">Privacy Policy</a></li>
-                    <li><a href="../sc/terms.php">Terms of Use</a></li>
+                    <li><a href="../../sc/contact-us.php">Contact Us</a></li>
+                    <li><a href="../../sc/privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="../../sc/terms.php">Terms of Use</a></li>
                     <li class="js-langSelector"><a href="" onclick="return false"
                             class="last">Language<small>▲</small></a>
                         <ul class="js-langChild">
