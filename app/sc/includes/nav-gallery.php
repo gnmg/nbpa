@@ -3,7 +3,7 @@
 
         <div class="row">
             <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
-                <img src="../../assets/images/common__logo.png" srcset="" alt="Nature's Best Photography Asia"
+                <img src="../../../assets/images/common__logo.png" srcset="" alt="Nature's Best Photography Asia"
                     class=" pull-right img-responsive headerLogo">
             </div>
 
