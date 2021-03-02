@@ -8,54 +8,15 @@
     <div id="wrap" class="sc">
         <?php include "includes/nav.php";?>
 
-        <div class="container-fluid p0 home-section home-full-height" id="videostop">
-
-            <div id="bgndVideo" class="player video-player" data-property="{videoURL:'https://youtu.be/xbVrmJDVQQk',containment:'#videostop',fadeOnStartTime: 1500, autoPlay:true, mute:true, startAt:0, stopAt:0, loop:true, opacity:75, showControls:false, showYTLogo:false,}"></div>
-
-            <div class="video-controls-box mediano">
-                <div class="container">
-                    <div class="video-controls"><a class="fa fa-volume-up" id="video-volume" href="#">&nbsp;</a><a class="fa fa-pause" id="video-play" href="#">&nbsp;</a></div>
-                </div>
-            </div>
-
-            <div class="video-controls-box-2">
-                <div class="container-fluid">
-                    <img src="../../assets/images/billbord/top-sc-7-w.png" alt="call for entries" class="img-responsive">
-                </div>
-            </div>
-
-
-        </div>
-
-
-
-        <!-- <div class="container-fluid">
-      <div class="row"><a href="http://www.naturesbestphotography.asia/en/gallery" name="anchor"><img src="../../assets/images/en-t-banner.jpg" class="img-responsive">
-</a></div>
+        <div class="hero-top">
+        <img class="img-responsive" src="../../assets/images/hero-top.jpg" alt="">
+        <div class="hero-overlay">Nature's Best Photography Asia 2021</br>Nature Photo Contest<br>Starting Soon</div>
     </div>
-    <div class="container-fluid">
-      <div class="row"><a href="https://news.naturesbestphotography.asia/news/en/2018/07/04/2018-tokyo-exhibition/" name="anchor"><img src="../../assets/images/en-b-banner.jpg" class="img-responsive"></a>
-      </div>
-    </div>-->
 
         <div class="index__hero">
-            <!--<div class="index__hero__text">
-        <div class="hero__text__box"><img src="/assets/images/contest-opens.pngold" alt="" class="js-hero_txt_image"></div><a href="#anchor">
-        <p>LEARN MORE</p>
-        </a>
-      </div>
-      <div class="index__hero__images">
-        <div class="hero__slide">
-          <div><a href="http://vee-dev.net/new_project/nbpa/naturesbestphotography.asia/en/gallery/index.html"><img src="../../assets/images/billbord/gallery-open.jpg" alt=""></a></div>
-        </div>
-      </div>-->
             <div class="index__hero__intro">
                 <a name="anchor"></a><img src="../../assets/images/index__hero-intro.png" alt="A Photographic Celebration of Earth’s Largest Continent" class="mediamax90"></div>
         </div>
-
-
-
-
         <div class="container-fluid mobpt30imp index__short-description plr992_0">
             <div class="container">
                 <div class="row callforentryRow">
@@ -76,21 +37,14 @@
 
                 </div>
             </div>
-
         </div>
         <!--row end-->
-
-
-
-
         <div class="container-fluid mobpt30imp index__short-description plr992_0 b-orientation">
             <div class="container">
                 <div class="row callforentryRow">
-
                     <div class="col-md-6 col-sm-12 p0">
                         <img src="../../assets/images/index__description2.jpg" alt="獎勵" class="img-responsive">
                     </div>
-
                     <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                         <h2>奖项</h2>
                         <p><b>特等奖:</b> 1名 1000美金奖金及获奖奖牌</br>
