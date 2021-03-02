@@ -107,6 +107,7 @@ function closeNav() {
 var randomImage = {
     paths: [
         "../../assets/images/hero-top.jpg",
+        "../../assets/images/english-hero-2020-1.jpg"
     ],
 
     generate: function() {
