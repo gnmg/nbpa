@@ -16,10 +16,16 @@
       </figcaption> 
       </figure> -->
 
-    <div class="hero-top">
-        <img class="img-responsive" src="../../assets/images/hero-top.jpg" alt="">
+
+      <div class="top-hero hero-top">
+      <div id="randomImage"><a href="../ja/gallery/index.html"></a></div>
+      <div class="hero-overlay">Nature's Best Photography Asia 2021</br>Nature Photo Contest<br>Starting Soon</div>
+    </div> 
+
+    <!-- <div class="hero-top top-hero" id="randomImage">
+        <img class="img-responsive" src="" alt="">
         <div class="hero-overlay">Nature's Best Photography Asia 2021</br>Nature Photo Contest<br>Starting Soon</div>
-    </div>
+    </div> -->
 
     <!-- <div class="top-hero ">
       <div class="center-hero">hero text in the center</div>
