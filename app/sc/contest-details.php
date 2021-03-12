@@ -126,7 +126,7 @@
         <table>
           <tr>
             <td class="title">奖项</td>
-            <td><b>特等奖：</b> 1000 美金，获奖牌匾，照片在史密森尼自然历史博物馆 (Smithsonian Museum of Natural History) 展示。</br>
+            <td><b>特等奖：</b> 1000 美金，获奖牌匾。</br>
               <b>亚军5名：</b> 500 美金，获奖牌匾，照片在史密森尼自然历史博物馆展示。</br>
               <b>类别最佳荣誉：</b> 获奖牌匾。（每个类别选出一位）</br>
               <b>Lumix Award:</b> Lumix Camera.</br>
@@ -150,7 +150,7 @@
           </tr>
           <tr>
             <td class="title">著作权</td>
-            <td>摄影家依据个人的意愿参加大赛，同时拥有其作品的著作权。作为照片选中获奖的前提条件，摄影师同意非独家转让，由Nature’s Best Publishing, LLC (NBP)、Nature’s Best Photography Asia (NBPA) 在世界范围内进行以下使用的权利，包括但不限于：在Nature’s Best Photography 和 Nature’s Best Photography Asia 即将刊印的杂志、日历、明信片和其它与竞赛相关的营销产品上刊登；在公开展览上悬挂照片；在NBP
+            <td>摄影家依据个人的意愿参加大赛，同时拥有其作品的著作权。作为照片选中获奖的前提条件，摄影师同意非独家转让，由Nature’s Best Photography (NBP)、Nature’s Best Photography Asia (NBPA) 在世界范围内进行以下使用的权利，包括但不限于：在Nature’s Best Photography 和 Nature’s Best Photography Asia 即将刊印的杂志、日历、明信片和其它与竞赛相关的营销产品上刊登；在公开展览上悬挂照片；在NBP
               等网站上展示；以及使用该照片对比赛进行营销。摄影家个人的获奖作品可自由销售。有很多作品在NBP赛会上获奖并获得高度评价的摄影家，其作品的销售量持续增加。</td>
           </tr>
         </table><a href="../user/entry/entry?lang=en">CLICK HERE TO ENTER</a>

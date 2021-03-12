@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-
 <?php include "includes/head.php";?>
-
 <body>
   <?php include "includes/nav.php";?>
     <!--new change 1-->
@@ -13,14 +11,13 @@
             <h2><img class="detail_title_img" src="../../assets/images/details__title_en.png" alt="call for entries"></h2>
             <p class="subtitle">Contest Is Closed</p>
             <h3>nature’s best photography asia awards guidelines</h3>
-            <p><b>Nature’s Best Photography Asia</b> invites all photographers to enter our annual AWARDS COMPETITION specific to images taken in Asia, by photographers residing anywhere in the world. See map and country descriptions below to make sure your photographs are eligible. A selection of Winners from Nature’s Best Photography Asia will be displayed within the Nature’s Best Photography Annual exhibition at the Wonders of Wildlife National Museum and Aquarium in Springfield, Missouri, USA and viewed by up to two million people.</p>
+            <p><b>Nature’s Best Photography Asia</b> invites all photographers to enter our annual AWARDS COMPETITION specific to images taken in Asia, by photographers residing anywhere in the world. See map and country descriptions below to make sure your photographs are eligible.</p>
           </div>
-
           <div class="col-md-12 contest-details-country-table">
             <table class="table">
               <tr>
                 <td class="title">CONTEST ENTRY PERIOD</td>
-                <td>Next Contest 2021</td>
+                <td>March 15, 2021 to June 15, 2021</td>
               </tr>
               <tr>
                 <td class="title">QUALIFICATIONS</td>
@@ -37,17 +34,13 @@
               </tr>
             </table>
           </div>
-
         </div>
       </div>
-
     </div>
     <!--new change 1-->
-
     <!--new change 2 -->
     <div class="container-fluid details__category plr0">
       <h2><img src="../../assets/images/details__category_title.png" alt="categories" class="mobw100 w50"></h2>
-
       <div class="container mt60">
         <div class="col-md-12">
           <div class="utl__cardbox">
@@ -58,8 +51,6 @@
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_img plr0"><img class="w100 h100" src="../../assets/images/details__card1.jpg" alt="wildlife"></div>
           </div>
         </div>
-
-
         <div class="col-md-12 b-orientation">
           <div class="utl__cardbox">
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_img plr0"><img class="w100 h100" src="../../assets/images/details__card2.jpg" alt="landscapes"></div>
@@ -70,8 +61,6 @@
             </div>
           </div>
         </div>
-
-
         <div class="col-md-12">
           <div class="utl__cardbox">
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_text m0">
@@ -82,8 +71,6 @@
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_img plr0"><img class="w100 h100" src="../../assets/images/details__card3.jpg" alt="ocean"></div>
           </div>
         </div>
-
-
         <div class="col-md-12 b-orientation">
           <div class="utl__cardbox">
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_img plr0"><img class="w100 h100" src="../../assets/images/details__card4.jpg" alt="birds"></div>
@@ -93,7 +80,6 @@
             </div>
           </div>
         </div>
-
         <div class="col-md-12">
           <div class="utl__cardbox">
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_text m0">
@@ -103,7 +89,6 @@
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_img plr0"><img class="w100 h100" src="../../assets/images/details__card5.jpg" alt="small world"></div>
           </div>
         </div>
-
         <div class="col-md-12 b-orientation">
           <div class="utl__cardbox video">
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_img plr0"><img class="w100 h100" src="../../assets/images/details__card6.jpg" alt="video"></div>
@@ -114,7 +99,6 @@
             </div>
           </div>
         </div>
-
         <div class="col-md-12">
           <div class="utl__cardbox">
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_text m0">
@@ -127,20 +111,17 @@
         </div>
       </div>
     </div>
-
   </div>
   <!--new change 2 -->
-
   <!--new change 3 -->
   <div class="container-fluid details__enter pl0">
     <div class="col-md-10 col-md-offset-1 contest-details-about-table">
       <table>
         <tr>
           <td class="title">AWARDS</td>
-          <td><b>Grand Prize:</b> USD $1,000, award plaque, photo displayed at the Wonders of Wildlife National Museum, displayed in Nature's Best Photography magazine.</br>
-            <b>Category Winners:</b> Award plaque, photo displayed at the Wonders of Wildlife National Museum and displayed in Nature's Best Photography magazine.</br>
-            <b>Category Highly Honored:</b> All images and videos will be displayed in winner's gallery on our website. Some images may be chosen to be on display at Wonders of Wildlife National Museum. (Five highly honored from each category)</br>
-            
+          <td><b>Grand Prize:</b> USD $1,000, award plaque, photo displayed in Nature's Best Photography magazine.</br>
+            <b>Category Winners:</b> Award plaque and photo displayed in Nature's Best Photography magazine.</br>
+            <b>Category Highly Honored:</b> All images and videos will be displayed in winner's gallery on our website. (Five highly honored from each category)</br>     
           </td>
         </tr>
         <tr>
@@ -148,21 +129,13 @@
           <td>For each entry fee of $25 US dollars you may enter a total of 20 images.</td>
         </tr>
         <tr>
-          <td class="title">EXHIBITION</td>
-          <td>A selection of Nature’s Best Photography Asia Category Winning photographs will be displayed in the annual Awards Exhibition at the Wonders of Wildlife National Museum and Aquarium in Springfield, Missouri, USA.
-        </tr>
-        <!--<tr>
-          <td class="title">INVITATIONS</td>
-          <td>Nature’s Best Photography Asia winning photographers will be invited to the annual Awards Ceremony at the Wonders of Wildlife National Museum and Aquarium in Springfield, Missouri, USA. Travel expenses are not included.</td>
-        </tr>-->
-        <tr>
           <td class="title">ENTRY METHOD</td>
           <td>Enter Online</td>
         </tr>
         <tr>
           <td class="title">COPYRIGHT</td>
           <td>Photographers own their own copyright and enter Nature’s Best Photography Awards competitions of their own free will. As a condition of entering the contest, photographers agree to a non-exclusive transfer of worldwide
-            rights allowing Nature's Best Publishing, LLC (NBP) and Nature’s Best Photography Asia (NBPA) the following uses including, but not limited to: publishing the image(s) in upcoming issues of Nature’s Best Photography and Nature’s Best Photography
+            rights allowing , Nature’s Best Photography (NBP) and Nature’s Best Photography Asia (NBPA) the following uses including, but not limited to: publishing the image(s) in upcoming issues of Nature’s Best Photography and Nature’s Best Photography
             Asia magazine, calendar, post cards and other promotional items related to the contest; hanging the image(s) in public exhibitions; and displaying the image(s) on the NBP and other websites; and using the image(s) to promote NBP and NBPA competitions.
            </td>
         </tr>
@@ -174,9 +147,8 @@
   <!--new change 4 -->
   <div class="container-fluid details__museum plr0 h100">
     <div class="h2wrapper">
-      <h2>2020 Nature's Best Photography Asia Contest is Open for Entires</h2>
+      <h2><?php echo date("Y"); ?> Nature's Best Photography Asia Contest is Open for Entires</h2>
     </div>
-
     <img src="../../assets/images/details__museum.jpg" alt="your photo displayed in the world's most visited museum">
   </div>
   <!--new change 4 -->
@@ -196,14 +168,14 @@
           other photographer or person, government regulations, or private land permissions, and MUST NOT ENTER IMAGES of CAPTIVE wildlife or be involved in the willful harassment of wildlife or damage to the environment. Failure to comply with all of
           the contest provisions will lead to disqualification.</p>
         <h3 class='contrast'>PHOTO USE AND RIGHTS</h3>
-        <p>Images entered into the contest may be published in books and magazines published and sold by Nature’s Best Photography and its affiliates in the U.S. (NBP), Nature’s Best Photography Asia (NBPA) and/or Nature’s Best Photography Japan (NBPJ) and may be
-          selected for gallery exhibitions and other Nature’s Best Photography Windland Smith Rice International Awards (NBPWSRIA) competition promotion opportunities, including, but not limited to, a compilation book or calendar, prints, sponsor presentations,
-          electronic collections of winners and web pages providing NBPWSRIA information, updates, rules and photo tips.</p>
-        <p>The NBPA competition is open to all photographers except employees of NBP, NBPA and NBPJ and their affiliated entities including Nature’s Best Photography magazine. Your entry to this contest constitutes your agreement to allow your photographs,
+        <p>Images entered into the contest may be published in books and magazines published and sold by Nature’s Best Photography and its affiliates in the U.S. (NBP), Nature’s Best Photography Asia (NBPA) and may be
+          selected for gallery exhibitions and other Nature’s Best Photography competition promotion opportunities, including, but not limited to, a compilation book or calendar, prints, sponsor presentations,
+          electronic collections of winners and web pages providing NBP information, updates, rules and photo tips.</p>
+        <p>The NBPA competition is open to all photographers except employees of NBP and NBPA and their affiliated entities including Nature’s Best Photography magazine. Your entry to this contest constitutes your agreement to allow your photographs,
           your name, occupation, city and state of residence to be published as selected award winners in Nature’s Best Photography magazines, print and digital exhibitions, events, and other public venues, published on websites owned by or in alliance
-          with NBP, NBPA and NBPJ and/or NBPWSRIA as award winners; and used for promotions of NBPA and NBPJ and/or NBPWSRIA. Entrants retain ownership and all other rights to the use of their photographs. NBPA shall have the right to verify, in their
+          with NBP and NBPA as award winners; and used for promotions of NBPA and NBP. Entrants retain ownership and all other rights to the use of their photographs. NBPA shall have the right to verify, in their
           sole judgment, winner eligibility. NBPA reserves the right to add or remove categories at its sole discretion.</p>
-        <p>Legal conditions: by entering this awards competition, you agree to certain legal conditions. By entering, participants release and hold harmless NBP, NBPA and NBPJ (the companies), their respective subsidiaries, affiliates, directors, officers,
+        <p>Legal conditions: by entering this awards competition, you agree to certain legal conditions. By entering, participants release and hold harmless NBP and NBPA  (the companies), their respective subsidiaries, affiliates, directors, officers,
           employees, attorneys, agents and representatives from any and all liability for any injuries, loss, claim, action, demand or damage of any kind arising from or in connection with use of the photographs of participants, or any prize won, any
           misuse or malfunction of any prize awarded, participation in any activity of the companies.</p>
         <p>Participant agrees that any and all disputes that cannot be resolved with the companies in connection with this contest, and causes of action arising out of or connected with the companies, shall be resolved individually, without resort to any

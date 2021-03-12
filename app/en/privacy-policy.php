@@ -27,7 +27,7 @@
           <p>NBPA shall not disclose any personal information to any third party except in the cases listed as below:</p>
           <ul>
             <li>(1) Where NBPA obtains consent from the individual;</li>
-            <li>(2) Where NBPA shares the information with Nature’s Best Publishing LLC (U.S.) and its affiliates including NBPJ K.K.</li>
+            <li>(2) Where NBPA shares the information with Nature’s Best Photography LLC (U.S.) and its affiliates including NBPJ K.K.</li>
             <li>(3) Where the authority requires such disclosure or such disclosure is admitted by the Personal Information Protection Law and other relevant laws</li>
           </ul>
           <p>Ensuring proper use of Personal Information<br> Notwithstanding the preceding paragraph of this article, NBPA shall ensure that any information shared with third parties shall be only used for the purposes enumerated in Article 2 above and handled

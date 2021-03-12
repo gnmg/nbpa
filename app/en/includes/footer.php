@@ -20,17 +20,15 @@
                     <li><a href="../en/contact-us.php">Contact Us</a></li>
                     <li><a href="../en/privacy-policy.php">Privacy Policy</a></li>
                     <li><a href="../en/terms.php">Terms of Use</a></li>
-                    <li><a href="../en/credits.php">Credits</a></li>
-                    <li><a href="../en/partners.php">Partners</a></li>
                     <li class="js-langSelector "><a href=" " onclick="return false "
                             class="last ">Language<small>▲</small></a>
                         <ul class="js-langChild ">
-                            <li><a href="/en/ ">English</a></li>
-                            <li><a href="/ru/ ">Russian</a></li>
-                            <li><a href="/ja/ ">日本語</a></li>
-                            <li><a href="/sc/ ">中国語 簡体字</a></li>
+                            <li><a href="/en/">English</a></li>
+                            <!-- <li><a href="/ru/ ">Russian</a></li> -->
+                            <li><a href="/ja/" class="last">日本語</a></li>
+                            <!-- <li><a href="/sc/ ">中国語 簡体字</a></li>
                             <li><a href="/tc/ ">中国語 繁体字</a></li>
-                            <li><a href="/ko/ " class="last ">韓国語</a></li>
+                            <li><a href="/ko/ " class="last ">韓国語</a></li> -->
                         </ul>
                     </li>
                 </ul>

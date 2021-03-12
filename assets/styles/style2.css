@@ -1447,3 +1447,7 @@ div.footer__wwf div.container ul li {
     height: 300px;
     object-fit: scale-down;
 }
+p.hangingIndent {
+    text-indent: -28px;
+    padding-left: 28px;
+}
