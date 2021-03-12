@@ -9,9 +9,9 @@
         <div class="col-md-10 col-md-offset-1">
           <div class="col-md-12">
             <h2><img class="detail_title_img" src="../../assets/images/details__title_en.png" alt="call for entries"></h2>
-            <p class="subtitle">Contest Is Closed</p>
+            <p class="subtitle">March 15, 2021 to June 15, 2021</p>
             <h3>nature’s best photography asia awards guidelines</h3>
-            <p><b>Nature’s Best Photography Asia</b> invites all photographers to enter our annual AWARDS COMPETITION specific to images taken in Asia, by photographers residing anywhere in the world. See map and country descriptions below to make sure your photographs are eligible.</p>
+            <p><b>Nature’s Best Photography Asia</b> invites all photographers to enter our annual AWARDS COMPETITION specific to images taken in Asia by photographers residing anywhere in the world. See map and country descriptions below to make sure your photographs are eligible.</p>
           </div>
           <div class="col-md-12 contest-details-country-table">
             <table class="table">
@@ -76,7 +76,7 @@
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_img plr0"><img class="w100 h100" src="../../assets/images/details__card4.jpg" alt="birds"></div>
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_text m0">
               <h3>birds</h3>
-              <p>Wild birds in their native habitats displaying plumage, mating rituals, territorial battles, nesting, feeding, parenting, or other behaviors, adults with young and portraits.</p>
+              <p>Wild birds in their native habitats displaying plumage, mating rituals, territorial battles, nesting, feeding, parenting, or other behaviors, adults with young, and portraits.</p>
             </div>
           </div>
         </div>
@@ -103,8 +103,7 @@
           <div class="utl__cardbox">
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_text m0">
               <h3>Junior</h3>
-              <p>The junior category is open to anybody under the age of 18. The following types of photos can be entered: wildlife, landscape, birds, ocean, small world and video. The junior division is not eligible for display at the Wonders of Wildlife
-                National Museum and Aquarium in Springfield, Missouri, USA or cash prizes.</p>
+              <p>The junior category is open to anybody under the age of 18. The following types of photos can be entered: wildlife, landscape, birds, ocean, small world, and video. The junior division is not eligible for cash prizes.</p>
             </div>
             <div class="col-md-6 col-xs-12 col-sm-6 utl__cardbox_img plr0"><img class="w100 h100" src="../../assets/images/details__card7.jpg" alt="small world"></div>
           </div>

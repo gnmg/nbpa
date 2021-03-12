@@ -6,10 +6,7 @@
 <body data-spy="scroll" data-target=".onpage-navigation" data-offset="150">
     <!--<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=BKM8I&webforms_id=9131504"></script>-->
     <div id="wrap" class="en">
-
         <?php include "includes/nav.php";?>
-
-
         <div class="container-fluid document-page">
             <div class="container details__contact">
                 <div class="col-md-12">
@@ -20,9 +17,8 @@
                             <div class="row">
                                 <div class="col-md-12 col-sm-6">
                                     <h3>Contest and General Questions</h3>
-                                    <a
-                                        href='mailto: support@naturesbestphotography.asia'>support@naturesbestphotography.asia</a>
-                                    </p>
+                                    <p><a
+                                        href='mailto: support@naturesbestphotography.asia'>support@naturesbestphotography.asia</a></p>
                                 </div>
                             </div>
                             <div class="row">
@@ -36,8 +32,6 @@
                 </div>
             </div>
         </div>
-
-
         <?php include "includes/footer.php";?>
 
 </body>

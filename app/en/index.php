@@ -24,7 +24,7 @@
                         magazine.</br>
                         </br>
                         Nature’s Best Photography Asia is an awards program focusing on and showcasing nature
-                        photographs taken in Asia by amateur, professional and youth photographers worldwide.</br>
+                        photographs taken in Asia by amateur, professional, and youth photographers worldwide.</br>
                         </br>
                         We aim to bring exposure to Asian wildlife and landscapes and the photographers who photograph
                         them.</br>
@@ -53,7 +53,7 @@
                         </br>
                         <b>Category Winners:</b> Award certificate, photo published in Nature's Best Photography.</br>
                         </br>
-                        <b>Category Highly Honored:</b> All images and videos will be displayed in winner's gallery on
+                        <b>Category Highly Honored:</b> All images and videos will be displayed in winners' gallery on
                         our website.</br>
                         </br>
                         <b>Photo Published in Magazine:</b> Grand prize and category winners will have their photo
@@ -69,15 +69,8 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                     <h2>How to Enter</h2>
                     <p><b>1.</b> Register as a member of Nature’s Best Photography Asia.<br><br><b>2.</b> Pay entry
-                        fee.<br><br><b>3.</b> Upload your photos into any of the following categories.<br>
-                        <dl>
-                            <dt>Categories:</dt>
-                            <dd>Wildlife / Small World / Oceans / Landscape / Birds / Junior</dd>
-                            <dt>Eligibility:</dt>
-                            <dd>All amateur, professional and youth photographers.</dd>
-                            <dt>Subject:</dt>
-                            <dd>Any nature photograph taken in Asia.</dd>
-                        </dl>
+                        fee.<br><br><b>3.</b> Upload your photos into any of the following categories: Wildlife, Small World, Oceans, Landscape, Birds, Junior, Video.<br>
+                        
                     </p><a href="/user/entry/entry?lang=en" class="box enterPhotoBtn">ENTER PHOTOS</a>
                 </div>
                 <div class="col-md-6 col-sm-12 p0">
