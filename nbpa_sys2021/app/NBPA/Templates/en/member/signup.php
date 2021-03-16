@@ -132,7 +132,7 @@
                         <tr>
                             <th colspan="2">
                                 <input type="checkbox" name="agreement" value="1"> I agree to the conditions of the
-                                2019 Nature's Best Photography Asia photography contest, set forth in the competition
+                                <?php echo date("Y"); ?> Nature's Best Photography Asia photography contest, set forth in the competition
                                 guidelines.
                             </th>
                         </tr>

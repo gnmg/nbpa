@@ -180,7 +180,7 @@
             <?php endif; ?>
             <tr>
               <th colspan="2">
-                <input type="checkbox" name="agreement" value="1"> 2019年度Nature's Best Photography Asia
+                <input type="checkbox" name="agreement" value="1"> <?php echo date("Y"); ?>年度Nature's Best Photography Asia
                 コンテスト応募規約、条件に同意します。
               </th>
             </tr>
