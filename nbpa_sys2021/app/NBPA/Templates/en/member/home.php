@@ -179,12 +179,12 @@
     <form action="/user/stripe/payment" method="post">
         <noscript>You must <a href="http://www.enable-javascript.com" target="_blank">enable JavaScript</a> in your web browser in order to pay via Stripe.</noscript>
 
-    <!-- <button class="mt-3 button-pay w-100" type="submit" value="Pay with Card" ¨ data-key="pk_live_rwNss9zszWNtjrrOaxfVPcsc00CSTGEF9z" data-amount="2500" data-currency="usd" data-name="NBPA" data-description="NBPA Entry Fee, USD $25">
-	<strong>Make Payment</strong>
-     </button> -->
-     <button class="mt-3 button-pay w-100" type="submit" value="Pay with Card" ¨ data-key="pk_test_nmOldG4IF92gor5DUMY73RVU00kAOwO8Tq" data-amount="2500" data-currency="usd" data-name="NBPA" data-description="NBPA Entry Fee, USD $25">
+    <button class="mt-3 button-pay w-100" type="submit" value="Pay with Card" ¨ data-key="pk_live_rwNss9zszWNtjrrOaxfVPcsc00CSTGEF9z" data-amount="2500" data-currency="usd" data-name="NBPA" data-description="NBPA Entry Fee, USD $25">
 	<strong>Make Payment</strong>
      </button>
+     <!-- <button class="mt-3 button-pay w-100" type="submit" value="Pay with Card" ¨ data-key="pk_test_nmOldG4IF92gor5DUMY73RVU00kAOwO8Tq" data-amount="2500" data-currency="usd" data-name="NBPA" data-description="NBPA Entry Fee, USD $25">
+	<strong>Make Payment</strong>
+     </button> -->
 
     <script src="https://checkout.stripe.com/v2/checkout.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
