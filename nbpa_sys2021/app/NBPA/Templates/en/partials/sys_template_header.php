@@ -44,7 +44,7 @@
               <li><a href="/<?php echo $locale ?>/contest-details.php">CONTEST DETAILS</a></li>
               <li><a href="/user/entry/entry?lang=<?php echo $locale ?>">ENTRY</a></li>
               <li><a href="/<?php echo $locale ?>/judges.php">JUDGES</a></li>
-              <li><a href="/<?php echo $locale ?>/exhibitions.php">EXHIBITIONS</a></li>
+              <!-- <li><a href="/<?php echo $locale ?>/exhibitions.php">EXHIBITIONS</a></li> -->
               <li><a href="/<?php echo $locale ?>/gallery/" class="last">WINNER`S GALLERY</a></li>
             </ul>
           </nav>
