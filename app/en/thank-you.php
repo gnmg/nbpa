@@ -4,7 +4,6 @@
 <?php include "includes/head.php";?>
 
 <body data-spy="scroll" data-target=".onpage-navigation" data-offset="150">
-    <!--<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=BKM8I&webforms_id=9131504"></script>-->
     <div id="wrap" class="en">
         <?php include "includes/nav.php";?>
         <div class="container-fluid document-page">
@@ -12,25 +11,28 @@
                 <div class="col-md-12">
                     <div class="col-md-10 col-md-offset-1">
                         <div class="col-md-12 ">
-                            <h2><img src="../../assets/images/page__contact-us.png" alt="" class="contact_img_resp">
-                            </h2>
-                            <div class="row">
-                                <div class="col-md-12 col-sm-6">
-                                    <h3>Contest and General Questions</h3>
-                                    <p><a
-                                        href='mailto: support@naturesbestphotography.asia'>support@naturesbestphotography.asia</a></p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12 col-sm-6">
-                                    <h3>Phone</h3>
-                                    <p>+81-80-8856-2118<br>Monday through Friday. Closed on major holidays.</p>
-                                </div>
-                            </div>
+                            <p><h3>Thank you. Your payment was successful.</h3></p>
+                            <p><h3><a style="color:red"href="https://naturesbestphotography.asia/user/member/home">Please click here to go
+                                    back to your account page and upload photos.</a><h3></p>
+                            <p style="color:blue">If you do not see the upload button then please reload
+                                the browser page.</p>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="container-fluid document-page">
+            <div class="container details__contact">
+                <div class="col-md-12">
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="col-md-12 ">
+                            <p><h3>ありがとうございました。 お支払いが完了しました。</h3></p>
+                            <p><h3><a style="color:red"href="https://naturesbestphotography.asia/user/member/home">ここをクリックするとマイページに戻り写真のアップロードができます。</a><h3></p>
+                            <p style="color:blue">もしアップロードのボタンが出ていない場合は、ページの再読み込み（リロード）をしてください。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         </div>
         <?php include "includes/footer.php";?>
 
