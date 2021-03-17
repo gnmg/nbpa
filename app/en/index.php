@@ -48,7 +48,8 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                     <h2>Awards</h2>
-                    <p><b>Grand Prize:</b> USD $1,000, award plaque, photo published in Nature's Best Photography magazine.</br>
+                    <p><b>Grand Prize:</b> USD $1,000, award plaque, photo published in Nature's Best Photography
+                        magazine.</br>
                         </br>
                         <b>Category Winners:</b> Award certificate, photo published in Nature's Best Photography.</br>
                         </br>
@@ -68,8 +69,9 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                     <h2>How to Enter</h2>
                     <p><b>1.</b> Register as a member of Nature’s Best Photography Asia.<br><br><b>2.</b> Pay entry
-                        fee.<br><br><b>3.</b> Upload your photos into any of the following categories: Wildlife, Small World, Oceans, Landscape, Birds, Junior, Video.<br>
-                        
+                        fee.<br><br><b>3.</b> Upload your photos into any of the following categories: Wildlife, Small
+                        World, Oceans, Landscape, Birds, Junior, Video.<br>
+
                     </p><a href="/user/entry/entry?lang=en" class="box enterPhotoBtn">ENTER PHOTOS</a>
                 </div>
                 <div class="col-md-6 col-sm-12 p0">

@@ -25,16 +25,14 @@
             <div class="row callforentryRow">
                 <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                     <h2>作品募集</h2>
-                    <p class="ja-style-change txt_justfy">Nature’s Best Photography
-                        ASIAは、プロ、アマを問わず世界中のカメラマンが参加できる、アジアの自然にフォーカスをあてた写真コンテスト。アジアの自然とアジアの写真家を世界に紹介することを目的としています。</br>
+                    <p class="ja-style-change txt_justfy">ネイチャーズ ベスト フォトグラフィー アジアは、アジアの自然にフォーカスをあてた自然写真コンテストです。</br>
                         </br>
-                        優秀作品約20点はWonders of
-                        Wildlife博物館（米国）に大判印刷にて年間展示され、アジアの自然を世界に発信する機会となります。アメリカ国内、アジア、日本にて巡回展を開催いたします。</br>
+                        プロ、アマを問わず世界中の写真家が参加でき、過去に撮影した写真でも被写体がアジアであれば応募することが可能です。</br>
                         </br>
-                        Wonders of Wildlife National Museum & Aquarium (通称 WOW)とは…
-                        北米大陸の中央に位置するミズリー州に2017年オープンし、オープニングセレモニーにはブッシュやカーター元大統領も参加。約1万坪の広大な敷地を持ち、USA
-                        TODAY(米国新聞)では”Nations Best New
-                        Museum"と評価され初年度来場者数160万人記録する全米注目の博物館。</p>
+                        世界の人々に知ってもらいたいアジアの自然や動物、そしてそれらを撮影する写真家にフォーカスをあて、世界に紹介することを目的とし活動しています。</p>
+                    </br>
+                    </br>
+                    <p>グランプリ受賞者には賞金1000ドル（US）に加え、Nature’s Best Photography Magazine に写真が掲載されます。</p>
                     <a href="/user/entry/entry?lang=ja" class="box enterPhotoBtn">詳細はこちら</a>
                 </div>
                 <div class="col-md-6 col-sm-12 p0">
@@ -52,16 +50,14 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                     <h2>賞</h2>
-                    <p><b>グランプリ : </b>1名　賞金$1,000USD 、授賞楯、米国ワンダー オブ ワイルドライフ博物館に年間展示およびネイチャーズベストマガジン掲載。</br>
-                        </br>
-                        <b>部門最優秀賞：</b> 7名（各部門1名）米国ワンダー オブ ワイルドライフ博物館に年間展示およびネイチャーズベストマガジン掲載。</br>
-                        </br>
-                        <b>優秀賞：</b> 各部門5名　優秀賞から選ばれた数点は、米国ワンダー オブ ワイルドライフ博物館に年間展示。すべての優秀賞作品はネイチャーズベスト フォトグラフィー アジア
-                        ホームページギャラリー掲載。</br>
-                        </br>
-                        <b>授賞式：</b>　受賞者はアメリカで行われるアワードセレモニー（授賞式）へご招待。（旅費、宿泊費は各自ご負担頂きます）。</br>
-                        </br>
-                        <b>出版：</b>　グランプリ及び部門最優秀賞受賞作品は世界中にて購読部数25,000部のNature’s Best Photography誌に掲載されます。
+                    <p><b>グランプリ：賞金1000ドル（米国ドル）、グランプリ受賞楯、Nature’s Best Photography Magazine に掲載。</br>
+                            </br>
+                            <b>部門最優秀賞：賞状、Nature’s Best Photography Magazine に掲載。</br>
+                                </br>
+                                <b>優秀賞：優秀賞受賞作品はネイチャーズベストフォトグラフィーアジアの公式ホームページにて掲載。</br>
+                                    </br>
+                                    <b>授賞式：</b>出版：グランプリ及び部門最優秀受賞作品は世界中にて購読部数25,000部のNature’s Best Photography
+                                    誌に掲載されます。</br>
                     </p>
                 </div>
             </div>
@@ -74,11 +70,8 @@
             <div class="row callforentryRow">
                 <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                     <h2>応募方法</h2>
-                    <p>1. 下記のボタンをクリックし Nature’s Best Photography Asia に登録をする。<br><br>2. エントリー料⾦を払う。<br><br>3.
-                        部⾨を選択し写真をアップロードする。<br>
-                        <p><b>部門:</b>風景/ワイルドライフ/海/鳥/スモールワールド/ビデオ(動画）/ジュニア</p>
-                        <p><b>参加資格:</b>アジア中のプロ・アマ問わずどなたでもご参加頂けます。</p>
-                        <p><b>被写体:</b>アジアで撮影されたアジアの⾃然。</p>
+                    <p><b>1.</b> 下記ボタンをクリックし、Nature’s Best Photography Asiaに登録する。<br><br><b>2.</b>
+                        応募料金を払う。<br><br><b>3.</b> 部門を選択し、写真をアップロードする。<br>
                     </p><a href="/user/entry/entry?lang=ja" class="box enterPhotoBtn">詳細はこちら</a>
                 </div>
                 <div class="col-md-6 col-sm-12 p0">
