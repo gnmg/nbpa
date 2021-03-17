@@ -33,12 +33,12 @@
             <a data-toggle="dropdown" href="#"><span style="text-transform: none">Language</span><span
                 class="caret"></span></a></a>
             <ul class="dropdown-menu">
-              <li><a href="/en/">English</a></li>
-              <li><a href="/ru/">Russian</a></li>
-              <li><a href="/ja/">日本語</a></li>
-              <li><a href="/sc/">中国語 簡体字</a></li>
-              <li><a href="/tc/">中国語 繁体字</a></li>
-              <li><a href="/ko/" class="last">韓国語</a></li>
+            <li><a href="/en/">English</a></li>
+                    <!-- <li><a href="/ru/ ">Russian</a></li> -->
+                    <li><a href="/ja/" class="last">日本語</a></li>
+                    <!-- <li><a href="/sc/ ">中国語 簡体字</a></li>
+                    <li><a href="/tc/ ">中国語 繁体字</a></li>
+                    <li><a href="/ko/ " class="last ">韓国語</a></li> -->
             </ul>
           </li>
         </div>
