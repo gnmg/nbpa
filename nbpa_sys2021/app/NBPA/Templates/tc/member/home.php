@@ -109,7 +109,7 @@
                     <p class="disc">關於退費:<br />
                         除系統故障導致不能投稿外，支付完成后不能退款。
                         上傳照片有問題時，請與我們聯係。<br />
-                        <a href="mailto:info@naturesbestphotography.asia">info@naturesbestphotography.asia</a></p>
+                        <a href="mailto:support@naturesbestphotography.asia">support@naturesbestphotography.asia</a></p>
 
 
 

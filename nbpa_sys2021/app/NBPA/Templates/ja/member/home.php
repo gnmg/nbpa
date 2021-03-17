@@ -114,7 +114,7 @@
                         <br /> システムエラーにより入稿出来ない場合を除いては支払い完了後は返金はいたしかねます。
                         <br /> 写真のアップロードに問題がある場合はご連絡下さい。
                         <br />
-                        <a href="mailto:info@naturesbestphotography.asia">info@naturesbestphotography.asia</a>
+                        <a href="mailto:support@naturesbestphotography.asia">support@naturesbestphotography.asia</a>
                     </p>
 
 
@@ -173,11 +173,11 @@
                         
                         
                         <!-- BEGIN STRIPE PAYMENT -->
-<div class="col-md-12 text-center" style="margin-top: 30px;">
+<div class="text-center col-md-12" style="margin-top: 30px;">
     <form action="/user/stripe/payment" method="post">
         <noscript>You must <a href="http://www.enable-javascript.com" target="_blank">enable JavaScript</a> in your web browser in order to pay via Stripe.</noscript>
 
-    <button class="button-pay mt-3 w-100" type="submit" value="Pay with Card" ¨ data-key="pk_live_rwNss9zszWNtjrrOaxfVPcsc00CSTGEF9z" data-amount="2500" data-currency="usd" data-name="NBPA" data-locale="auto" data-description="NBPA Entry Fee, USD $25">
+    <button class="mt-3 button-pay w-100" type="submit" value="Pay with Card" ¨ data-key="pk_live_rwNss9zszWNtjrrOaxfVPcsc00CSTGEF9z" data-amount="2500" data-currency="usd" data-name="NBPA" data-locale="auto" data-description="NBPA Entry Fee, USD $25">
 	<strong>お支払</strong>
      </button>
 
@@ -212,7 +212,7 @@
                         
                         
 
-<!--<div class="col-md-12 text-center"><a href="https://payhere.co/j-start/nbpa-entry-fee" data-payhere-embed="https://payhere.co/j-start/nbpa-entry-fee" class="button-pay">Make Payment</a>
+<!--<div class="text-center col-md-12"><a href="https://payhere.co/j-start/nbpa-entry-fee" data-payhere-embed="https://payhere.co/j-start/nbpa-entry-fee" class="button-pay">Make Payment</a>
 <script src="https://payhere.co/embed/embed.js"></script></script> -->
 
 

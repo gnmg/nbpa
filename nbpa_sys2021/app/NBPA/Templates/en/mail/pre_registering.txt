@@ -2,14 +2,13 @@ Subject: Confirm your registration
 Dear __NAME__
 
 Thank you for registering. Please click the following link to access your account to enter pictures.
+
 If you have any questions, please contact us at
-info@naturesbestphotography.asia
+support@naturesbestphotography.asia
 
 https://naturesbestphotography.asia/user/member/verification?mid=__MID__&t=__T__
 
 =-=-=-　Nature's Best Photography Asia　=-=-=-=-=-=
-
-3-8-16 Noritake Shinmachi, Nagoya, Aichi, Japan
-info@naturesbestphotography.asia
+support@naturesbestphotography.asia
 https://www.naturesbestphotography.asia
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

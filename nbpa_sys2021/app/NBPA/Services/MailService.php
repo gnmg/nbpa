@@ -7,7 +7,7 @@ namespace NBPA\Services;
 
 class MailService
 {
-    const MAIL_FROM = 'info@naturesbestphotography.asia';
+    const MAIL_FROM = 'support@naturesbestphotography.asia';
 
     /**
      * メールを送信する.

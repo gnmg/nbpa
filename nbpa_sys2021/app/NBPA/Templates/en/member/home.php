@@ -114,7 +114,7 @@
                     <p class="disc">Refund Policy:<br />
                         Once you complete the payment, there will be no refund unless you couldn't submit the pictures
                         because of a system error.
-                        Please contact us if you have any problem uploading images. Info@naturesbestphotography.asia</p>
+                        Please contact us if you have any problem uploading images. support@naturesbestphotography.asia</p>
 
 
 

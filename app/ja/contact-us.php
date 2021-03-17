@@ -24,13 +24,13 @@
                   <h3>E-mail</h3>
                   <p>Sponsors, Advertising, or Editorial Inquiries<br>
                     Ralph Greene, Marketing Director<br>
-                    <a href='mailto: naomi@naturesbestphotography.asia'>support@naturesbestphotography.asia</a></p>
+                    <a href='mailto: support@naturesbestphotography.asia'>support@naturesbestphotography.asia</a></p>
                 </div>
 
                 <div class="col-md-12 col-sm-6">
                   <h3>Contest and General Questions</h3>
                   <p>Ralph Greene, Marketing Director<br>
-                    <a href='mailto: info@naturesbestphotography.asia'>support@naturesbestphotography.asia</a></p>
+                    <a href='mailto: support@naturesbestphotography.asia'>support@naturesbestphotography.asia</a></p>
                 </div>
               </div>
 

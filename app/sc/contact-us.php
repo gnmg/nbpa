@@ -31,7 +31,7 @@
                                     <h3>Contest and General Questions</h3>
                                     <p>Ralph Greene, Marketing Director<br>
                                         <a
-                                            href='mailto: info@naturesbestphotography.asia'>support@naturesbestphotography.asia</a>
+                                            href='mailto: support@naturesbestphotography.asia'>support@naturesbestphotography.asia</a>
                                     </p>
                                 </div>
                             </div>

@@ -114,7 +114,7 @@
             <br /> システムエラーにより入稿出来ない場合を除いては支払い完了後は返金はいたしかねます。
             <br /> 写真のアップロードに問題がある場合はご連絡下さい。
             <br />
-            <a href="mailto:info@naturesbestphotography.asia">info@naturesbestphotography.asia</a>
+            <a href="mailto:support@naturesbestphotography.asia">support@naturesbestphotography.asia</a>
           </p>
 
 
