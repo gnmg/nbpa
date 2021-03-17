@@ -29,10 +29,8 @@
                         </br>
                         プロ、アマを問わず世界中の写真家が参加でき、過去に撮影した写真でも被写体がアジアであれば応募することが可能です。</br>
                         </br>
-                        世界の人々に知ってもらいたいアジアの自然や動物、そしてそれらを撮影する写真家にフォーカスをあて、世界に紹介することを目的とし活動しています。</p>
+                        世界の人々に知ってもらいたいアジアの自然や動物、そしてそれらを撮影する写真家にフォーカスをあて、世界に紹介することを目的とし活動しています。</br></br>グランプリ受賞者には賞金1000ドル（US）に加え、Nature’s Best Photography Magazine に写真が掲載されます。</p>
                     </br>
-                    </br>
-                    <p>グランプリ受賞者には賞金1000ドル（US）に加え、Nature’s Best Photography Magazine に写真が掲載されます。</p>
                     <a href="/user/entry/entry?lang=ja" class="box enterPhotoBtn">詳細はこちら</a>
                 </div>
                 <div class="col-md-6 col-sm-12 p0">
@@ -50,11 +48,11 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                     <h2>賞</h2>
-                    <p><b>グランプリ：賞金1000ドル（米国ドル）、グランプリ受賞楯、Nature’s Best Photography Magazine に掲載。</br>
+                    <p><b>グランプリ：</b>賞金1000ドル（米国ドル）、グランプリ受賞楯、Nature’s Best Photography Magazine に掲載。</br>
                             </br>
-                            <b>部門最優秀賞：賞状、Nature’s Best Photography Magazine に掲載。</br>
+                            <b>部門最優秀賞：</b>賞状、Nature’s Best Photography Magazine に掲載。</br>
                                 </br>
-                                <b>優秀賞：優秀賞受賞作品はネイチャーズベストフォトグラフィーアジアの公式ホームページにて掲載。</br>
+                                <b>優秀賞：</b>優秀賞受賞作品はネイチャーズベストフォトグラフィーアジアの公式ホームページにて掲載。</br>
                                     </br>
                                     <b>授賞式：</b>出版：グランプリ及び部門最優秀受賞作品は世界中にて購読部数25,000部のNature’s Best Photography
                                     誌に掲載されます。</br>
