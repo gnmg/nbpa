@@ -48,8 +48,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                     <h2>Awards</h2>
-                    <p><b>Grand Prize:</b> USD $1,000, award plaque, photo displayed at the Wonders of Wildlife National
-                        Museum and in Nature's Best Photography magazine.</br>
+                    <p><b>Grand Prize:</b> USD $1,000, award plaque, photo published in Nature's Best Photography magazine.</br>
                         </br>
                         <b>Category Winners:</b> Award certificate, photo published in Nature's Best Photography.</br>
                         </br>
