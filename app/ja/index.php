@@ -111,7 +111,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid index__blog-link grey-blog">
+    <!-- <div class="container-fluid index__blog-link grey-blog">
         <div class="container">
             <div class="col-md-10 col-md-offset-1">
                 <div class="col-md-12">
@@ -135,7 +135,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <?php include "includes/footer.php";?>
 </body>
 
