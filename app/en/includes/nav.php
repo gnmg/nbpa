@@ -33,8 +33,8 @@
                     <!-- <li><a href="/ru/ ">Russian</a></li> -->
                     <li><a href="/ja/" class="last">日本語</a></li>
                     <!-- <li><a href="/sc/ ">中国語 簡体字</a></li>
-                            <li><a href="/tc/ ">中国語 繁体字</a></li>
-                            <li><a href="/ko/ " class="last ">韓国語</a></li> -->
+                    <li><a href="/tc/ ">中国語 繁体字</a></li>
+                    <li><a href="/ko/ " class="last ">韓国語</a></li> -->
                 </ul>
             </li>
         </div>
