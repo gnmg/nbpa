@@ -39,7 +39,7 @@
             <h1><img src="/assets/images/common__logo.png" srcset="" alt="Nature's Best Photography Asia"></h1>
           </a><a href="https://geo.itunes.apple.com/jp/app/natures-best/id1048846395?mt=8" class="header__app-logo"></a>
           <nav>
-            <ul class="nav navbar-nav">
+            <ul>
               <li><a href="/<?php echo $locale ?>/">HOME</a></li>
               <li><a href="/<?php echo $locale ?>/contest-details.php">CONTEST DETAILS</a></li>
               <li><a href="/user/entry/entry?lang=<?php echo $locale ?>">ENTRY</a></li>
