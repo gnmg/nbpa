@@ -9,8 +9,10 @@
             <div id="regist_form">
                 <p class="confirm_red">Please check your e-mail and confirm your registration.</p>
                 <p class="confirm_red">If you do not see the email from us then please check your spam forlder.</p>
-                <p class="confirm_red">If the email still has not arrived then please send a message to the following address and we will help you.</p>
-                <p style="color:blue;"><a href='mailto: support@naturesbestphotography.asia'>support@naturesbestphotography.asia</a></p>
+                <p class="confirm_red">If the email still has not arrived then please send a message to the following
+                    address and we will help you.</br></br><span style="color:blue;"><a
+                            href='mailto: support@naturesbestphotography.asia'>support@naturesbestphotography.asia</a></span>
+                </p>
 
             </div><!-- regist_form END -->
         </div><!-- contant END -->
