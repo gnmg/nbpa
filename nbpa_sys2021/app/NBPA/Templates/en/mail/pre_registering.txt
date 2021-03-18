@@ -1,12 +1,14 @@
 Subject: Confirm your registration
-Dear __NAME__
+Dear __NAME__,
 
 Thank you for registering. Please click the following link to access your account to enter pictures.
 
-If you have any questions, please contact us at
-support@naturesbestphotography.asia
 
 https://naturesbestphotography.asia/user/member/verification?mid=__MID__&t=__T__
+
+If you have any questions, please contact us at
+
+support@naturesbestphotography.asia
 
 =-=-=-　Nature's Best Photography Asia　=-=-=-=-=-=
 support@naturesbestphotography.asia
