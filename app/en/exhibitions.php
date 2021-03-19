@@ -17,8 +17,8 @@
             <div class="col-md-12 mobplr0">
               <div class="exhibitions__header">
                 <h2><img class="mxw100" src="../../assets/images/exhibitions__title.png" alt="Exhibitions"></h2>
-                <h3 class="subtitle">nature’s best photography windland smith rice<br>international awards</h3>
-                <h3 class="center">2018 exhibition opening in fall 2018<br>Smithsonian national museum of natural history</h3>
+                <h3 class="subtitle">nature’s best photography past exhibitions</h3>
+                <h3 class="center">2018 Smithsonian national museum of natural history exhibition</h3>
               </div>
               <div class="exhibitions__hero"><img class="imgw100 img-responsive" src="../../assets/images/exhibitions__smithsonian_hero.jpg" alt=""></div>
             </div>
@@ -29,7 +29,7 @@
             <div class="col-md-12 mobplr0">
               <!--col 1-->
               <div class="col-md-6 mobplr0">
-                <p class="text-justify">In partnership with the Nature’s Best Photography Windland Smith Rice International Awards, based in the USA, selected winners of Nature’s Best Photography Asia will be featured within the annual NBP Awards exhibition displayed at the
+                <p class="text-justify">In partnership with the Nature’s Best Photography, based in the USA, selected winners of Nature’s Best Photography Asia were featured within the annual NBP Awards exhibition displayed at the
                   Smithsonian</p>
                 <img class="imgw100" src="../../assets/images/exhibitions__smithsonian_subA.jpg" alt="">
                 <img class="imgw100" src="../../assets/images/exhibitions__smithsonian_subB.jpg" alt="">
