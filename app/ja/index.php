@@ -11,7 +11,7 @@
     </div> -->
         <div class="hero-top">
             <img class="img-responsive" src="../../assets/images/hero-top.jpg" alt="">
-            <div class="hero-overlay">Nature's Best Photography Asia 2021</br>Nature Photo Contest<br>Starting Soon
+            <div class="hero-overlay">Nature's Best Photography Asia 2021</br>Open For Entries<br>Starting March 20th
             </div>
         </div>
     </div>

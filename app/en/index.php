@@ -8,7 +8,7 @@
     <?php include "includes/nav.php";?>
     <div class="top-hero hero-top">
         <div id="randomImage"><a href="../ja/gallery/index.html"></a></div>
-        <div class="hero-overlay">Nature's Best Photography Asia 2021</br>Nature Photo Contest<br>Starting Soon</div>
+        <div class="hero-overlay">Nature's Best Photography Asia 2021</br>Open For Entries<br>Starting March 20th </div>
     </div>
     <div class="index__hero">
         <div class="index__hero__intro"><a name="anchor"></a><img src="../../assets/images/index__hero-intro.png"
