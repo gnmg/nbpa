@@ -17,6 +17,7 @@
             <a href="../../en/contest-details.php">CONTEST DETAILS</a>
             <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
             <a href="../../en/judges.php">JUDGES</a>
+            <a href="../en/exhibitions.php">EXHIBITIONS</a>
 
             <li class="dropdown">
                 <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
@@ -49,6 +50,7 @@
                 <li><a href="../../en/contest-details.php">CONTEST DETAILS</a></li>
                 <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
                 <li><a href="../../en/judges.php">JUDGES</a></li>
+                <li><a href="../en/exhibitions.php">EXHIBITIONS</a></li>
                 <li class="dropdown">
                     <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
                     <ul class="dropdown-menu">
