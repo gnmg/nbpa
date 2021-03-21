@@ -11,7 +11,8 @@
     </div> -->
         <div class="hero-top">
             <img class="img-responsive" src="../../assets/images/hero-top.jpg" alt="">
-            <div class="hero-overlay">Nature's Best Photography Asia 2021</br>Open For Entries<br>Starting March 20th
+            <div class="hero-overlay">Nature's Best Photography Asia 2021</br>エントリー募集期間
+<br>2021年3月21日～2021年6月20日
             </div>
         </div>
     </div>
