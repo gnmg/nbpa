@@ -112,7 +112,9 @@ function closeNav() {
 <script>
 var randomImage = {
     paths: [
-        "../../assets/images/english-hero-2020-winners.jpg",
+        "../../assets/images/hero-top.jpg",
+        "../../assets/images/chandra.jpg",
+        "../../assets/images/gabriel.jpg"
     ],
 
     generate: function() {

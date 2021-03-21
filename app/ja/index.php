@@ -6,16 +6,12 @@
 <body data-spy="scroll" data-target=".onpage-navigation" data-offset="150">
     <div id="wrap" class="en">
         <?php include "includes/nav.php";?>
-        <!-- <div class="top-hero">
-      <div id="randomImage"><a href="../ja/gallery/index.html"></a></div>
-    </div> -->
-        <div class="hero-top">
-            <img class="img-responsive" src="../../assets/images/hero-top.jpg" alt="">
+        <div class="top-hero hero-top">
+            <div id="randomImage"><a href="../ja/gallery/index.html"></a></div>
             <div class="hero-overlay">Nature's Best Photography Asia 2021</br>エントリー募集期間
-<br>2021年3月21日～2021年6月20日
+                <br>2021年3月21日～2021年6月20日
             </div>
         </div>
-    </div>
     </div>
     <div class="index__hero">
         <div class="index__hero__intro"><a name="anchor"></a><img src="../../assets/images/index__hero-intro.png"
@@ -30,7 +26,8 @@
                         </br>
                         プロ、アマを問わず世界中の写真家が参加でき、過去に撮影した写真でも被写体がアジアであれば応募することが可能です。</br>
                         </br>
-                        世界の人々に知ってもらいたいアジアの自然や動物、そしてそれらを撮影する写真家にフォーカスをあて、世界に紹介することを目的とし活動しています。</br></br>グランプリ受賞者には賞金1000ドル（US）に加え、Nature’s Best Photography Magazine に写真が掲載されます。</p>
+                        世界の人々に知ってもらいたいアジアの自然や動物、そしてそれらを撮影する写真家にフォーカスをあて、世界に紹介することを目的とし活動しています。</br></br>グランプリ受賞者には賞金1000ドル（US）に加え、Nature’s
+                        Best Photography Magazine に写真が掲載されます。</p>
                     </br>
                     <a href="/user/entry/entry?lang=ja" class="box enterPhotoBtn">詳細はこちら</a>
                 </div>
@@ -50,13 +47,13 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 callforentryBox">
                     <h2>賞</h2>
                     <p><b>グランプリ：</b>賞金1000ドル（米国ドル）、グランプリ受賞楯、Nature’s Best Photography Magazine に掲載。</br>
-                            </br>
-                            <b>部門最優秀賞：</b>賞状、Nature’s Best Photography Magazine に掲載。</br>
-                                </br>
-                                <b>優秀賞：</b>優秀賞受賞作品はネイチャーズベストフォトグラフィーアジアの公式ホームページにて掲載。</br>
-                                    </br>
-                                    <b>授賞式：</b>出版：グランプリ及び部門最優秀受賞作品は世界中にて購読部数25,000部のNature’s Best Photography
-                                    誌に掲載されます。</br>
+                        </br>
+                        <b>部門最優秀賞：</b>賞状、Nature’s Best Photography Magazine に掲載。</br>
+                        </br>
+                        <b>優秀賞：</b>優秀賞受賞作品はネイチャーズベストフォトグラフィーアジアの公式ホームページにて掲載。</br>
+                        </br>
+                        <b>授賞式：</b>出版：グランプリ及び部門最優秀受賞作品は世界中にて購読部数25,000部のNature’s Best Photography
+                        誌に掲載されます。</br>
                     </p>
                 </div>
             </div>
