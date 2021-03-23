@@ -40,7 +40,7 @@
                         <div class="details col-md-8">
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Xu-Yong.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Wishful Love</div>
                                 <div class="photo-location">Nanchang, China</div>
                                 <div class="photographer-name">By Xu Yong</div>
@@ -78,7 +78,7 @@
                         <div class="details col-md-8">
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/shin-okamoto.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Parental Love</div>
                                 <div class="photo-location">Sri Lanka</div>
                                 <div class="photographer-name">By Shin Okamoto</div>
@@ -117,7 +117,7 @@
                         <div class="details col-md-8">
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Kuanliang-Din.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Harmony</div>
                                 <div class="photo-location">Qinling, China</div>
                                 <div class="photographer-name">By Kuanliang Ding</div>
@@ -154,7 +154,7 @@
                             <h3 class="product-title">WINNER WILDLIFE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Tatsuya_Okuda.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Father and His Young One</div>
                                 <div class="photo-location">Son Tra Nature Reserve, Vietnam</div>
                                 <div class="photographer-name">By Tatsuya Okuda</div>
@@ -190,7 +190,7 @@
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/adwait-aphale.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Mother’s Lap</div>
                                 <div class="photo-location">Pench National Park, India</div>
                                 <div class="photographer-name">By Adwait Aphale</div>
@@ -225,7 +225,7 @@
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/yoshihiro-abiko.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Good Friend</div>
                                 <div class="photo-location">Hokkaido, Japan</div>
                                 <div class="photographer-name">By Yoshihiro Abiko</div>
@@ -261,7 +261,7 @@
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Jayaprakash-Bojan.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">I Watched in Awe</div>
                                 <div class="photo-location">Sekoyner River, Tanjung Putting, National Park,
                                     Kalimantan,Indonesia</div>
@@ -298,7 +298,7 @@
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Rebecca-(Riki)-Levisman.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Merge</div>
                                 <div class="photo-location">Hasharon, Israel</div>
                                 <div class="photographer-name">By Rebecca Levisman</div>
@@ -334,7 +334,7 @@
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Thomas-Vijayan.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">In Paradise</div>
                                 <div class="photo-location">Kamchatka, Russia</div>
                                 <div class="photographer-name">By Thomas Vijayan</div>
@@ -373,7 +373,7 @@
                             <h3 class="product-title">WINNER LANDSCAPE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Gunarto-Gunawan.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Heaven of Rocks</div>
                                 <div class="photo-location">Pegadungan Beach, Indonesia </div>
                                 <div class="photographer-name">By Gunarto Song</div>
@@ -410,7 +410,7 @@
                             <h3 class="product-title">HIGHLY HONORED LANDSCAPE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Takahashi-Legend-Fuji.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">A Planet with Mt. Fuji</div>
                                 <div class="photo-location">Yamanashi, Japan</div>
                                 <div class="photographer-name">By Takashi</div>
@@ -445,7 +445,7 @@
                             <h3 class="product-title">HIGHLY HONORED LANDSCAPE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/kiesuke-iwamoto.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Yufugawa Valley</div>
                                 <div class="photo-location">Beppu, Japan</div>
                                 <div class="photographer-name">By Keisuke Iwamoto</div>
@@ -480,7 +480,7 @@
                             <h3 class="product-title">HIGHLY HONORED LANDSCAPE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Laily-Hassan.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Winter in Lake Baikal</div>
                                 <div class="photo-location">Siberia, Russia</div>
                                 <div class="photographer-name">By Laily Hassan</div>
@@ -514,7 +514,7 @@
                             <h3 class="product-title">HIGHLY HONORED LANDSCAPE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Riksa-Dewantara.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Mt. Bromo’s Eruption</div>
                                 <div class="photo-location">Mt. Bromo, Indonesia</div>
                                 <div class="photographer-name">By Riksa Dewantara</div>
@@ -550,7 +550,7 @@
                             <h3 class="product-title">HIGHLY HONORED LANDSCAPE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/WONG-KOK-LEONG-.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Kumtag Desert</div>
                                 <div class="photo-location">Xinjiang, China</div>
                                 <div class="photographer-name">By Wong Kok Leong</div>
@@ -588,7 +588,7 @@
                             <h3 class="product-title">WINNER OCEAN</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/wu.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Rhinopias</div>
                                 <div class="photo-location">Ambon, Indonesia</div>
                                 <div class="photographer-name">By Yung Sen Wu</div>
@@ -623,7 +623,7 @@
                             <h3 class="product-title">HIGHLY HONORED OCEAN</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/kawamura-keigo.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Parade</div>
                                 <div class="photo-location">Izu Oceanic Park, Japan</div>
                                 <div class="photographer-name">By Keigo Kawamura</div>
@@ -658,7 +658,7 @@
                             <h3 class="product-title">HIGHLY HONORED OCEAN</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/nakano-seishi.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Travel Companion</div>
                                 <div class="photo-location">Osezaki, Japan</div>
                                 <div class="photographer-name">By Seishi Nakano</div>
@@ -692,7 +692,7 @@
                             <h3 class="product-title">HIGHLY HONORED OCEAN</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/mana_nomoto.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Family</div>
                                 <div class="photo-location">Ogasawara Islands, Japan</div>
                                 <div class="photographer-name">By Mana Nomoto</div>
@@ -726,7 +726,7 @@
                             <h3 class="product-title">HIGHLY HONORED OCEAN</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/daisuke-kurashima.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Manta Rays</div>
                                 <div class="photo-location">Baa Atoll, Maldives</div>
                                 <div class="photographer-name">By Daisuke Kurashima</div>
@@ -764,7 +764,7 @@
                             <h3 class="product-title">HIGHLY HONORED OCEAN</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Jim-Chen.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Dugong Feeding on Sea Grass</div>
                                 <div class="photo-location">Coron, Philippines</div>
                                 <div class="photographer-name">By Jim Chen</div>
@@ -803,7 +803,7 @@
                             <h3 class="product-title">WINNER SMALL WORLD</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/wei-fu.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Got a Monster</div>
                                 <div class="photo-location">Rama IX Park, Thailand</div>
                                 <div class="photographer-name">By Wei Fu</div>
@@ -838,7 +838,7 @@
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Satpal-Singh.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Team Work</div>
                                 <div class="photo-location">Lakhimpur Kheri, UP, India</div>
                                 <div class="photographer-name">By Satpal Singh</div>
@@ -876,7 +876,7 @@
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Nori_Yuasa-1.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Small Family in the Forest</div>
                                 <div class="photo-location">Kobe, Japan</div>
                                 <div class="photographer-name">By Nori Yuasa</div>
@@ -912,7 +912,7 @@
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Karthikeyan-Shanmugasundaram.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Paralyzed Moment</div>
                                 <div class="photo-location">Coimbatore, India</div>
                                 <div class="photographer-name">By Karthikeyan Shanmugasundaram</div>
@@ -947,7 +947,7 @@
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Asela-Karunaratne.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Rolling Stones</div>
                                 <div class="photo-location">Yala National Park, Sri Lanka</div>
                                 <div class="photographer-name">By Asela Karunaratne</div>
@@ -984,7 +984,7 @@
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Ankur-Moitra.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Aqueous Flick</div>
                                 <div class="photo-location">Amboli, India</div>
                                 <div class="photographer-name">By Ankur Moitra</div>
@@ -1024,7 +1024,7 @@
                             <h3 class="product-title">WINNER BIRDS</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/faisal-alnomas.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Stealth</div>
                                 <div class="photo-location">Bubiyan Island, Kuwait</div>
                                 <div class="photographer-name">By Faisal AL-Nomas</div>
@@ -1062,7 +1062,7 @@
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Jianhui-Liao.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Don’t Go</div>
                                 <div class="photo-location">Fuzhou, Jiangxi, China</div>
                                 <div class="photographer-name">By Jianhui Liao</div>
@@ -1096,7 +1096,7 @@
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Sunil-Warnakulasuriya-.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Beak Full of Fruit</div>
                                 <div class="photo-location">Galle, Sri Lanka</div>
                                 <div class="photographer-name">By Sunil Warnakulasuriya</div>
@@ -1134,7 +1134,7 @@
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/murad.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Inside The Flames</div>
                                 <div class="photo-location">Kuwait</div>
                                 <div class="photographer-name">By Mohammad Murad</div>
@@ -1169,7 +1169,7 @@
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Santhosh_Krishnamoorthy.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">With a Juicy Flower</div>
                                 <div class="photo-location">Goa, India</div>
                                 <div class="photographer-name">By Santhosh Krishnamoorthy</div>
@@ -1206,7 +1206,7 @@
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Guiyang-Zeng.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Backing</div>
                                 <div class="photo-location">Nanchang, Jiangxi, China</div>
                                 <div class="photographer-name">By Guiyang Zeng</div>
@@ -1244,7 +1244,7 @@
                             <h3 class="product-title">WINNER JUNIOR</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Arshdeep-Singh.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">I C U</div>
                                 <div class="photo-location">Kapurthala, Punjab, India</div>
                                 <div class="photographer-name">By Arshdeep Singh</div>
@@ -1279,7 +1279,7 @@
                             <h3 class="product-title">HIGHLY HONORED JUNIOR</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/AnkitKumarProfilePicture.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">The School</div>
                                 <div class="photo-location">Malé Atoll, Maldives</div>
                                 <div class="photographer-name">By Ankit Kumar</div>
@@ -1316,7 +1316,7 @@
                             <h3 class="product-title">HIGHLY HONORED JUNIOR</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/AnkitKumarProfilePicture.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Mr. Green</div>
                                 <div class="photo-location">Malé Atoll, Maldives</div>
                                 <div class="photographer-name">By Ankit Kumar</div>
@@ -1351,7 +1351,7 @@
                             <h3 class="product-title">HIGHLY HONORED JUNIOR</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Dheeraj-M.-Nanda.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Tibetan Wild Ass (Kiang)</div>
                                 <div class="photo-location">Hanle, Ladakh, India</div>
                                 <div class="photographer-name">By Dheeraj Nanda</div>
@@ -1387,7 +1387,7 @@
                             <h3 class="product-title">HIGHLY HONORED JUNIOR</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/kaito-takahashi.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Aloof Deer</div>
                                 <div class="photo-location">Ibukiyama, Japan</div>
                                 <div class="photographer-name">By Kaito Takahashi</div>
@@ -1423,7 +1423,7 @@
                             <h3 class="product-title">HIGHLY HONORED JUNIOR</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/kodai-saito.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Idol of the Forest</div>
                                 <div class="photo-location">Hokkaido, Japan</div>
                                 <div class="photographer-name">By Koudai Saito</div>
@@ -1460,7 +1460,7 @@
                             <h3 class="product-title">VIDEO WINNER</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Ando-Makoto.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Wildlife of My Beautiful Village</div>
                                 <div class="photo-location">Tsurui, Japan</div>
                                 <div class="photographer-name">By Makoto Ando</div>
@@ -1494,7 +1494,7 @@
                             <h3 class="product-title">Video Highly Honored</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/cozy-ogawa.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Northern Eagles</div>
                                 <div class="photo-location">Hokkaido, Japan</div>
                                 <div class="photographer-name">By Cozy Ogawa</div>
@@ -1530,7 +1530,7 @@
                             <h3 class="product-title">Video Highly Honored</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/mana_nomoto.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Wild Dolphins of Bonin </div>
                                 <div class="photo-location">Island Ogasawara Islands, Japan</div>
                                 <div class="photographer-name">By Mana Nomoto</div>
@@ -1563,7 +1563,7 @@
                             <h3 class="product-title">Video Highly Honored</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/Arghya-Adhikary.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Making an Olive Future</div>
                                 <div class="photo-location">Rushikulya, India</div>
                                 <div class="photographer-name">By Arghya Adhikary</div>
@@ -1598,7 +1598,7 @@
                             <h3 class="product-title">Video Highly Honored</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/DHANANJAY-JADHAV.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Battle of Survival</div>
                                 <div class="photo-location">Ghat, India</div>
                                 <div class="photographer-name">By Dhananjay Jadhav</div>
@@ -1632,7 +1632,7 @@
                             <h3 class="product-title">Video Highly Honored</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2018/profile/ruito_Profile_0617.jpg"
-                                    class="pull-left gap-right mobw100" height="150" width="150">
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Black Cicada</div>
                                 <div class="photo-location">Yamaguchi, Japan</div>
                                 <div class="photographer-name">By Ruito Ohgami</div>
