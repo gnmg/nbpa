@@ -28,8 +28,7 @@
                                                     alt="Steve Freligh" class="img-responsive mlrauto">
                                             </div>
                                             <h4>Steve Freligh</h4>
-                                            <p>With more than 30 years of experience in photography, Stephen Freligh is
-                                                Co-Publisher of Nature’s Best Photography magazine.</p>
+                                            <p>With more than 40 years of experience in photography, publishing, and outdoor experience, Steve Freligh is President and CEO of the Nature’s Best Photography Fund, a nonprofit organization based in the USA that was created to celebrate the beauty and diversity of nature through the art of photography. Freligh is widely know for his 20-years of print exhibitions at the Smithsonian National Museum of Natural History in Washington, DC and other prestigious venues around the world. He is also the co-founder and Publisher of Nature’s Best Photography magazine - a globally recognized, award-winning publication. Learn more at  <a href="https://www.naturesbestphotography.org">www.naturesbestphotography.org</a></p>
                                         </div>
                                     </div>
                                     <div class="col-md-4 col-xs-12 col-sm-6 judgeContainer">
@@ -38,11 +37,7 @@
                                                 <img src="../../assets/images/judges/img__charles-veatch.jpg"
                                                     alt="Charles Veatch" class="img-responsive mlrauto"></div>
                                             <h4>Charles Veatch</h4>
-                                            <p>Director and Past Chairman of the Board, Shenandoah University, Charles
-                                                Veatch is also Chairman of Nature’s Best Photography and a leader in
-                                                Reston, Virginia community support. Published photographer and
-                                                commercial real estate developer, Veatch is also a judge for the
-                                                Nature’s Best Photography Awards program.</p>
+                                            <p>Director and Past Chairman of the Board, Shenandoah University, Charles Veatch is also Chairman of the Nature’s Best Photography Fund, devoted naturalist, photographer, and successful book publisher. </p>
                                         </div>
                                     </div>
                                     <div class="col-md-4 col-xs-12 col-sm-6 judgeContainer">
@@ -51,10 +46,7 @@
                                                 <img src="../../assets/images/judges/img__deborah-freligh.jpg"
                                                     alt="Deborah Freligh" class="img-responsive mlrauto"></div>
                                             <h4>Deborah Freligh</h4>
-                                            <p>Award-winning Art Director and Co-Publisher of Nature’s Best Photography
-                                                magazine, Deborah Freligh has led design projects for National
-                                                Geographic, Discovery Channel, Eastman Kodak, National Wildlife
-                                                Federation, and the Smithsonian Institution.</p>
+                                            <p>Award-winning Art Director and Co-Publisher of Nature’s Best Photography magazine, Deborah Freligh has led design projects for National Geographic, Discovery Channel, Eastman Kodak, National Wildlife Federation, and the Smithsonian Institution..</p>
                                         </div>
                                     </div>
                                 </div>
