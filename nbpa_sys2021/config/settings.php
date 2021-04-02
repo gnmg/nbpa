@@ -81,7 +81,7 @@ $app->configureMode(
                 'templates.path' => APP_ROOT . '/app/NBPA/Templates',
                 'db.connection'  => [
                     'username'          => 'gnmg_ralph',
-                    'password'          => '@rU?jWm(tdkh',
+                    'password'          => '7N5ku5qu8AgzwTA',
                     'connection_string' => 'mysql:host=localhost;dbname=gnmg_nbpa2020;charset=utf8',
                 ],
                 'images.path'          => APP_ROOT . '/images',
