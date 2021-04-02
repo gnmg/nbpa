@@ -7,6 +7,7 @@
     <div id="content">
       <h1 class="mainTi">ログイン</h1>
       <p>マイページへのアクセスはこちら</p>
+      <p style="color:red;">We are experiencing some dificulties with the entry system at the moment. We are working on the problem. So please check back later.</p>
 
       <div id="regist_form">
         <table class="loginTable">
