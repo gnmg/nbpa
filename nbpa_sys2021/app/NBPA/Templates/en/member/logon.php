@@ -8,8 +8,7 @@
         <div id="content">
             <h1 class="mainTi">Log In</h1>
             <p>Access your account to upload, add favorites, comment and curate.</p>
-            <p style="color:red;">We are experiencing some dificulties with the entry system at the moment. We are working on the problem. So please check back later.</p>
-
+            <p style="color:red;">We had some system problems over the last few day that has been fixed but there are still some affected accounts.</br></br>If you are not able to login to your account or recover a forgotten password then please contact us at the follow address.</br></br><a href='mailto: support@naturesbestphotography.asia'>support@naturesbestphotography.asia</a></p>
             <div id="regist_form">
                 <table class="loginTable">
                     <tr>
