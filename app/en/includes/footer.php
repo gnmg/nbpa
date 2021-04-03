@@ -77,7 +77,7 @@ function closeNav() {
 <div id="wd1_nlpopup_overlay"></div>
 
 
-<div id="wd1_nlpopup" data-expires="7" data-delay="5000">
+<!-- <div id="wd1_nlpopup" data-expires="7" data-delay="5000">
     <a href="#closepopup" id="wd1_nlpopup_close">x</a>
     <div class="container-fluid">
         <div class="row popup-row">
@@ -99,7 +99,7 @@ function closeNav() {
             <input type="hidden" name="list" value="CZdV6r3u7NHWxIOPSmApiA" />
         </form>
     </div>
-</div>
+</div> -->
 
 <script>
 var randomImage = {
