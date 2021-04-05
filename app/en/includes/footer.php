@@ -88,7 +88,7 @@ function closeNav() {
         </div>
     </div>
     <div class="nlsubscribe">
-        <form action="https://naturesbestphotography.asia/mail/subscribe" method="POST" accept-charset="utf-8">
+        <form action="https://mail2.naturesbestphotography.asia/mail/subscribe" method="POST" accept-charset="utf-8">
 
             <input type="text" name="name" id="wd1_nlpopup_name" placeholder="Name" value="" class="textinput"
                 tabindex="500">
