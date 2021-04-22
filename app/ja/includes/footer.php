@@ -82,7 +82,7 @@ function closeNav() {
 </script>
 
 <!-- Popup -->
-<div id="wd1_nlpopup_overlay"></div>
+<!-- <div id="wd1_nlpopup_overlay"></div>
 
 
 <div id="wd1_nlpopup" data-expires="7" data-delay="5000">
@@ -107,8 +107,7 @@ function closeNav() {
             <input type="hidden" name="list" value="seJpyP9yr763eLf7hF0UZcLg" />
         </form>
     </div>
-</div>
-
+</div> -->
 <script>
 var randomImage = {
     paths: [
@@ -128,3 +127,5 @@ var randomImage = {
 
 randomImage.generate();
 </script>
+
+<script src="//mail2.naturesbestphotography.asia/mautic/focus/3.js" type="text/javascript" charset="utf-8" async="async"></script>
