@@ -9,7 +9,7 @@
         <div class="top-hero hero-top">
             <div id="randomImage"><a href="../ja/gallery/index.html"></a></div>
             <div class="hero-overlay">Nature's Best Photography Asia 2021</br>エントリー募集期間
-                <br>2021年3月21日～2021年6月20日
+                <br>2021年3月21日～2021年7月20日
             </div>
         </div>
     </div>
