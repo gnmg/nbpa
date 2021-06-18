@@ -9,7 +9,7 @@
         <div class="col-md-10 col-md-offset-1">
           <div class="col-md-12">
             <h2><img class="detail_title_img" src="../../assets/images/details__title_en.png" alt="call for entries"></h2>
-            <p class="subtitle">March 20, 2021 to June 20, 2021</p>
+            <p class="subtitle">March 20, 2021 to July 20, 2021</p>
             <h3>nature’s best photography asia awards guidelines</h3>
             <p><b>Nature’s Best Photography Asia</b> invites all photographers to enter our annual AWARDS COMPETITION specific to images taken in Asia by photographers residing anywhere in the world. See map and country descriptions below to make sure your photographs are eligible.</p>
           </div>
@@ -17,7 +17,7 @@
             <table class="table">
               <tr>
                 <td class="title">CONTEST ENTRY PERIOD</td>
-                <td>March 20, 2021 to June 20, 2021</td>
+                <td>March 20, 2021 to July 20, 2021</td>
               </tr>
               <tr>
                 <td class="title">QUALIFICATIONS</td>
