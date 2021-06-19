@@ -1,5 +1,5 @@
 ---
 deployment:
       tasks:
-        - export DEPLOYPATH=/home/gnmg/public_html/  # Add /<app_folder> if require
+        - export DEPLOYPATH=/home/naturesbestphoto/public_html/  # Add /<app_folder> if require
         - /bin/cp -r * $DEPLOYPATH
