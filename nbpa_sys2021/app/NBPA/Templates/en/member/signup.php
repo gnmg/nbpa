@@ -24,8 +24,8 @@
                         </ul>
                     </div>
                     <?php endif; ?>
-                    <p class="confirm_red">We are doing some maintenance work on the server right now. Please check back in a couple of hours.</p>
-                    <!-- <table class="input_table">
+
+                    <table class="input_table">
                         <tr>
                             <th><label>E-mail</label> <span class="required">*</span></th>
                             <td><input type="text" id="mail" name="mail" value="<?php echo h($mail); ?>" class="formText"></td>
@@ -142,7 +142,7 @@
                         <li><input type="submit" name="confirmation" value="Confirmation" class="submitBtn"></li>
                     </ul>
 
-                </form> -->
+                </form>
                 <!-- /Signup form -->
             </div><!-- regist_form END -->
         </div><!-- contant END -->

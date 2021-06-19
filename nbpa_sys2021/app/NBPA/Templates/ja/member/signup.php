@@ -26,9 +26,7 @@
           </div>
           <?php endif; ?>
 
-          <p style="color:red;">ただいまメンテナンス中です. ご不便をおかけしますが、もうしばらくお待ちください。</p>
-
-          <!-- <table class="input_table">
+          <table class="input_table">
             <tr>
               <th>
                 <label>メールアドレス</label> <span class="required">*</span>
@@ -196,7 +194,7 @@
             </li>
           </ul>
 
-        </form> -->
+        </form>
         <!-- /Signup form -->
       </div>
       <!-- regist_form END -->
