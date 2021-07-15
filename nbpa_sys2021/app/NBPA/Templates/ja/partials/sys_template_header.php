@@ -41,10 +41,10 @@
           <nav>
             <ul>
               <li><a href="/<?php echo $locale ?>/">HOME</a></li>
-              <li><a href="/<?php echo $locale ?>/contest-details.html">コンテスト応募概要</a></li>
+              <li><a href="/<?php echo $locale ?>/contest-details.php">コンテスト応募概要</a></li>
               <li><a href="/user/entry/entry?lang=<?php echo $locale ?>">応募</a></li>
-              <li><a href="/<?php echo $locale ?>/judges.html">審査員</a></li>
-              <li><a href="/<?php echo $locale ?>/exhibitions.html">展覧会</a></li>
+              <li><a href="/<?php echo $locale ?>/judges.php">審査員</a></li>
+              <li><a href="/<?php echo $locale ?>/exhibitions.php">展覧会</a></li>
               <li><a href="/<?php echo $locale ?>/gallery/" class="last">入賞者ギャラリー</a></li>
             </ul>
           </nav>
