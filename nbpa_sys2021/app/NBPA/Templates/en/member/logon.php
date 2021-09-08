@@ -33,7 +33,7 @@
                             <?php endif; ?>
 
                             <!-- Login form -->
-                            <!-- <form id="frm_login" method="post" action="/user/member/logon">
+                            <form id="frm_login" method="post" action="/user/member/logon">
                                 <div><input type="text" class="input_boxstyle" id="user_id" name="user_id" value=""
                                         placeholder="E-mail"></div>
                                 <div><input type="password" class="input_boxstyle" id="password" name="password" value=""
@@ -41,7 +41,7 @@
                                 <div><input type="checkbox" id="eternal_login" name="eternal_login"><span class="input_table_p">Stay
                                         Logged in.</span></div>
                                 <div id="mail_send_btn"><input type="submit" value="Login" class="loginBtn"></div>
-                            </form> -->
+                            </form>
                             <!-- /Login form -->
 
                         </td>
