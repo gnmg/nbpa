@@ -7,7 +7,7 @@
         <div id="content">
             <h1 class="mainTi">ログイン</h1>
             <p>マイページへのアクセスはこちら</p>
-            <p style="color:red;">応募は終了。</p></br></br>
+            <!-- <p style="color:red;">応募は終了。</p></br></br> -->
             <!-- <p style="color:red;"> ただいまシステムに不備が発生し一時的にシステムをダウンしております。大変申し訳ございませんがしばらくお待ちいただき、後日改めてご応募いただけますようお願い申し上げます。ご不便をおかけして大変申し訳ございません。
             </p> -->
 
@@ -35,7 +35,7 @@
                             <?php endif; ?>
 
                             <!-- Login form -->
-                            <!-- <form id="frm_login" method="post" action="/user/member/logon">
+                            <form id="frm_login" method="post" action="/user/member/logon">
                                 <div><input type="text" class="input_boxstyle" id="user_id" name="user_id" value=""
                                         placeholder="E-mail"></div>
                                 <div><input type="password" class="input_boxstyle" id="password" name="password"
@@ -43,7 +43,7 @@
                                 <div><input type="checkbox" id="eternal_login" name="eternal_login"><span
                                         class="input_table_p">ログイン状態を保存する</span></div>
                                 <div id="mail_send_btn"><input type="submit" value="ログイン" class="loginBtn"></div>
-                            </form> -->
+                            </form>
                             <!-- /Login form -->
 
                         </td>
