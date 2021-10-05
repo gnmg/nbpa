@@ -135,8 +135,8 @@ echo $small_embedcode;
 <?php else: ?>
 <?php if ($points[$entry->regist_apply_no][$judge->id] == $i): ?>
                                     <label class="btn btn-default btn-xs active"><input type="radio" autocomplete="off" value="<?php echo h($i); ?>" name="point[<?php echo h($entry->regist_apply_no); ?>][<?php echo h($judge->id); ?>]" checked> <?php echo h($i); ?></label>
-<!-- <?php else: ?>
-                                    <label class="btn btn-default btn-xs"><input type="radio" autocomplete="off" value="<?php echo h($i); ?>" name="point[<?php echo h($entry->regist_apply_no); ?>][<?php echo h($judge->id); ?>]"> <?php echo h($i); ?></label> -->
+<?php else: ?>
+                                    <label class="btn btn-default btn-xs"><input type="radio" autocomplete="off" value="<?php echo h($i); ?>" name="point[<?php echo h($entry->regist_apply_no); ?>][<?php echo h($judge->id); ?>]"> <?php echo h($i); ?></label>
 <?php endif; ?>
 <?php endif; ?>
 <?php endfor; ?>
