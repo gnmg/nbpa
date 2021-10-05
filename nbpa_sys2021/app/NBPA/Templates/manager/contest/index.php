@@ -86,7 +86,7 @@
 <?php foreach ($entries as $entry): ?>
             <div class="col-xs-6 col-md-4">
                 <div class="panel panel-default">
-                    <div class="panel-heading text-center pict-thumbnail">
+                    <div class="text-center panel-heading pict-thumbnail">
 <?php if ($entry->apply_genre == 6): ?>
 <?php
 $embedcode       = $entry->apply_image;
@@ -135,8 +135,8 @@ echo $small_embedcode;
 <?php else: ?>
 <?php if ($points[$entry->regist_apply_no][$judge->id] == $i): ?>
                                     <label class="btn btn-default btn-xs active"><input type="radio" autocomplete="off" value="<?php echo h($i); ?>" name="point[<?php echo h($entry->regist_apply_no); ?>][<?php echo h($judge->id); ?>]" checked> <?php echo h($i); ?></label>
-<?php else: ?>
-                                    <label class="btn btn-default btn-xs"><input type="radio" autocomplete="off" value="<?php echo h($i); ?>" name="point[<?php echo h($entry->regist_apply_no); ?>][<?php echo h($judge->id); ?>]"> <?php echo h($i); ?></label>
+<!-- <?php else: ?>
+                                    <label class="btn btn-default btn-xs"><input type="radio" autocomplete="off" value="<?php echo h($i); ?>" name="point[<?php echo h($entry->regist_apply_no); ?>][<?php echo h($judge->id); ?>]"> <?php echo h($i); ?></label> -->
 <?php endif; ?>
 <?php endif; ?>
 <?php endfor; ?>
