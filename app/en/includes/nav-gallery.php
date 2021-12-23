@@ -22,7 +22,8 @@
             <li class="dropdown">
                 <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
                 <ul class="dropdown-menu">
-                    <li><a href="../../en/gallery/index.php">2020 Gallery</a></li>
+                    <li><a href="../../en/gallery/index.php">2021 Gallery</a></li>
+                    <li><a href="../../en/gallery/gallery-2020.php">2020 Gallery</a></li>
                     <li><a href="../../en/gallery/gallery-2019.php">2019 Gallery</a></li>
                     <li><a href="../../en/gallery/gallery-2018.php">2018 Gallery</a></li>
                     <li><a href="../../en/gallery/gallery-2017.php">2017 Gallery</a></li>
@@ -54,7 +55,8 @@
                 <li class="dropdown">
                     <a data-toggle="dropdown" href="#">WINNERS GALLERY<span class="caret"></span></a></a>
                     <ul class="dropdown-menu">
-                        <li><a href="../../en/gallery/index.php">2020 Gallery</a></li>
+                        <li><a href="../../en/gallery/index.php">2021 Gallery</a></li>
+                        <li><a href="../../en/gallery/gallery-2020.php">2020 Gallery</a></li>
                         <li><a href="../../en/gallery/gallery-2019.php">2019 Gallery</a></li>
                         <li><a href="../../en/gallery/gallery-2018.php">2018 Gallery</a></li>
                         <li><a href="../../en/gallery/gallery-2017.php">2017 Gallery</a></li>
@@ -63,10 +65,10 @@
                 <li class="dropdown">
                     <a data-toggle="dropdown" href="#">Language<span class="caret"></span></a></a>
                     <ul class="dropdown-menu">
-                    <li><a href="/en/">English</a></li>
-                            <!-- <li><a href="/ru/ ">Russian</a></li> -->
-                            <li><a href="/ja/" class="last">日本語</a></li>
-                            <!-- <li><a href="/sc/ ">中国語 簡体字</a></li>
+                        <li><a href="/en/">English</a></li>
+                        <!-- <li><a href="/ru/ ">Russian</a></li> -->
+                        <li><a href="/ja/" class="last">日本語</a></li>
+                        <!-- <li><a href="/sc/ ">中国語 簡体字</a></li>
                             <li><a href="/tc/ ">中国語 繁体字</a></li>
                             <li><a href="/ko/ " class="last ">韓国語</a></li> -->
                     </ul>
