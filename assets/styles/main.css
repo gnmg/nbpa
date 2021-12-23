@@ -2567,3 +2567,7 @@ header:not(.navbar-transparent) .row.navContainer .nav.navbar-nav a {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.google {
+    margin-top: 20px;
+}

@@ -23,7 +23,7 @@
           <li class="dropdown">
             <a data-toggle="dropdown" href="#">ギャラリー<span class="caret"></span></a></a>
             <ul class="dropdown-menu">
-              <li><a href="../ja/gallery/index.php">2021 ギャラリー</a></li>
+              <!-- <li><a href="../ja/gallery/index.php">2021 ギャラリー</a></li> -->
               <li><a href="../ja/gallery/gallery-2020.php">2020 ギャラリー</a></li>
               <li><a href="../ja/gallery/gallery-2019.php">2019 ギャラリー</a></li>
               <li><a href="../ja/gallery/gallery-2018.php">2018 ギャラリー</a></li>
@@ -59,7 +59,7 @@
             <li class="dropdown">
               <a data-toggle="dropdown" href="#">ギャラリー<span class="caret"></span></a></a>
               <ul class="dropdown-menu">
-                <li><a href="../ja/gallery/index.php">2021 ギャラリー</a></li>
+                <!-- <li><a href="../ja/gallery/index.php">2021 ギャラリー</a></li> -->
                 <li><a href="../ja/gallery/gallery-2020.php">2020 ギャラリー</a></li>
                 <li><a href="../ja/gallery/gallery-2019.php">2019 ギャラリー</a></li>
                 <li><a href="../ja/gallery/gallery-2018.php">2018 ギャラリー</a></li>

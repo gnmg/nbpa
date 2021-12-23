@@ -12,7 +12,6 @@
          $('.lazy').Lazy();
       });
    </script>
-
    <div class="gallerywrapper" id="gallerywrapper">
    <?php include "../includes/nav-gallery.php";?>
       <div class="container mainTitle">
@@ -28,6 +27,7 @@
             <a href="#junior" class="btn btn-default btn-lg" role="button">Junior</a>
             <a href="#video" class="btn btn-default btn-lg" role="button">Video</a>
          </div>
+         <div id="google_translate_element" class="google center"></div>
       </div>
       <div class="container">
             <h3 class="gallery_title">GRAND PRIZE</h3>
@@ -1898,6 +1898,13 @@
                 </div>
             </div>
         </div>
+        <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
       <?php include "../includes/footer-gallery.php";?>
 </body>
 
