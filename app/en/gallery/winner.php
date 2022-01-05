@@ -232,7 +232,7 @@
                                 <div class="photo-title">Family</div>
                                 <div class="photo-location">Sasan Gir, Gujarat, India</div>
                                 <div class="photographer-name">Tapan Sheth</div>
-                                <div class="photographer-location">RAjkot,India</div>
+                                <div class="photographer-location">RAjkot, India</div>
                                 <!-- <a href="-------" class="myButton2">Photographer's
                                     Website</a> -->
                             </div>
