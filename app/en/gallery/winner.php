@@ -43,7 +43,7 @@
                             </div>
                         </div>
                         <div class="details col-md-8">
-                            <h3 class="product-title">WINNER BIRDS</h3>
+                            <h3 class="product-title">GRAND PRIZE WINNER</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2021/rahul.jpg" class="pull-left gap-right "
                                     height="150" width="150">
