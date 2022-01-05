@@ -1320,8 +1320,8 @@
                                 <div class="photo-location">Kranji Marshes, Singapore</div>
                                 <div class="photographer-name">Tze Siong Tan</div>
                                 <div class="photographer-location">Singapore</div>
-                                <!-- <a href="-------"
-                                    class="myButton2">Photographer's Website</a> -->
+                                <a href="https://www.instagram.com/tktants/"
+                                    class="myButton2">Photographer's Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> The
                                 Olive-backed Sunbird is a common resident in Singapore. They often build their
