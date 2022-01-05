@@ -38,30 +38,40 @@
                         <div class="preview col-md-12">
                             <div class="preview-pic tab-content">
                                 <a data-fancybox="gallery"
-                                    href="../../../assets/images/gallery_2021/grand-prize.jpg"><img
-                                        data-src="../../../assets/images/gallery_2021/grand-prize.jpg" class="lazy"></a>
+                                    href="../../../assets/images/gallery_2021/bird-winner.jpg"><img
+                                        data-src="../../../assets/images/gallery_2021/bird-winner.jpg" class="lazy"></a>
                             </div>
                         </div>
                         <div class="details col-md-8">
+                            <h3 class="product-title">WINNER BIRDS</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/Tatsuya_Okuda-profile.jpg"
-                           class="pull-left gap-right " height="150" width="150"> -->
-                                <div class="photo-title">Catch Snake </div>
-                                <div class="photo-location"> Guangdong, China </div>
-                                <div class="photographer-name">Yanru Shen</div>
-                                <div class="photographer-location">China</div>
-                                <!-- <a href="not-avaliable" class="myButton2">Photographer's Website</a> -->
+                                <img src="../../../assets/images/gallery_2021/rahul.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
+                                <div class="photo-title">Cooling off</div>
+                                <div class="photo-location">Coochbehar, India</div>
+                                <div class="photographer-name">Rahul Singh</div>
+                                <div class="photographer-location">Jalpaiguri, India</div>
+                                <a href="https://www.instagram.com/rahulsinghclicks/?utm_medium=copy_link"
+                                    class="myButton2">Photographer's Website</a>
                             </div>
-                            <span class="text-justify product-description"><span class="story-span">Story:</span> In the
-                                autumn, we walked through a deep mountain forest. A few eagles hovered above our
-                                heads while we all squatted down believing that it was too late to take a shot. Then
-                                soon, we found a snake in the jungle as it climbed up a small hill. The moment when the
-                                eagle attacked the snake, we witnessed the life and death struggle of the eagle and
-                                snake, the process of the law of the jungle, I was happy to have recorded this wonderful
-                                scene."</span>
+                            <span class="text-justify product-description"><span class="story-span">Story:</span> In
+                                August 2020 I visited Coochbehar, where there were bushes of these Ornamental Banana
+                                (Musa
+                                ornata) to click the photos of Sunbird sucking nectar from it.
+                                Everything was going as usual but sudenly I was shocked that this crimson started taking
+                                a bath
+                                in the water stored in the banana flower petal from an early morning
+                                drizzle. I was literally stunned to see this unusual behaviour of the bird. I kept my
+                                camera's shutter button pressed as the bird took the bath. This was really a once in a
+                                lifetime moment. It is amazing how nature can surprise us. In this image the bird was
+                                frozen in action with it's head upside down while it was taking bath in the flower
+                                petal.</span>
                             <h5 class="sizes">
-                                <span class="camera-span">CAMERA: Nikon D5, 600mm, 1/1600, F/8, ISO 800.
-                                </span> </h5>
+                                <span class="camera-span">CAMERA: Nikon D7100, Nikon AFS 200-500 f5.6, 1/1600, F/5.6,
+                                    ISO
+                                    720.
+                                </span>
+                            </h5>
                             <div class="action">
                             </div>
                         </div>
@@ -80,29 +90,38 @@
                         <div class="preview col-md-12">
                             <div class="preview-pic tab-content">
                                 <a data-fancybox="gallery"
-                                    href="../../../assets/images/gallery_2021/wildlife-winner.jpg"><img
-                                        data-src="../../../assets/images/gallery_2021/wildlife-winner.jpg" class="lazy">
-                                </a>
+                                    href="../../../assets/images/gallery_2021/wildlife-5.jpg"><img
+                                        data-src="../../../assets/images/gallery_2021/wildlife-5.jpg" class="lazy"></a>
                             </div>
                         </div>
                         <div class="details col-md-8">
-                            <h3 class="product-title">WINNER WILDLIFE</h3>
+                            <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
-
-                                <div class="photo-title">Overlook</div>
-                                <div class="photo-location">Wolong Nature Reserve, Sichuan, China</div>
-                                <div class="photographer-name">Kang Xue</div>
-                                <div class="photographer-location">China</div>
-                                <!-- <a href="not-avaliable" class="myButton2">Photographer's Website</a> -->
+                                <img src="../../../assets/images/gallery_2021/lalith.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
+                                <div class="photo-title">Flying Kiss</div>
+                                <div class="photo-location">Kalimantan Rainforest, Indonesia</div>
+                                <div class="photographer-name">Lalith Ekanayake</div>
+                                <div class="photographer-location">Kotte, Sri Lanka</div>
+                                <a href="https://www.facebook.com/lalith.ekanayake" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
-                            <span class="text-justify product-description"><span class="story-span">Story:</span> What
-                                is
-                                it enjoying? Is it looking at the snow covered mountains? Or the gurgling water in the
-                                distance? It sticks out its tongue as if to say "I won't tell you"!
-                                We can't help but be curious and want to find the answer from its shining eyes.</span>
+                            <span class="text-justify product-description"><span class="story-span">Story:</span> A baby
+                                Borneo Orangutan being fed by its mom whilst hanging on a tree which mimics a “Flying
+                                Kiss”. I was on a small boat in Sekonyer River which was very unstable, like being on an
+                                undulating
+                                platform, hence I handheld the camera to get this difficult but unique shot. Borneo
+                                Orangutans belong to the only genus of great apes native to Asia and are a critically
+                                endangered species, with deforestation, palm oil plantations, and hunting posing a
+                                serious threat to its continued existence. Like the other great apes, orangutans are
+                                highly intelligent, displaying tool use and distinct cultural patterns in the wild.
+                                Orangutans share approximately 97% of their DNA with humans.
+                            </span>
                             <h5 class="sizes">
-                                <span class="camera-span">CAMERA: Nikon D5, Nikon AF-S NIKKOR 70-200mm, 1/250, F/5.6.
-                                </span> </h5>
+                                <span class="camera-span">CAMERA: Nikon D5, Nikon 70-200mm/f2.8, 1/4000
+                                    F/2.8, ISO 800.
+                                </span>
+                            </h5>
                             <div class="action">
                             </div>
                         </div>
@@ -124,8 +143,8 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/masuda.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Sunset</div>
                                 <div class="photo-location">Sumoto, Japan</div>
                                 <div class="photographer-name">Masuda Shinichi</div>
@@ -134,7 +153,7 @@
                                     class="myButton2">Photographer's Website</a> -->
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
-                                About 200 two-horned monkeys live on this mountain with a view of the sea. On a chilly
+                                About 200 Japanese macaques live on this mountain with a view of the sea. On a chilly
                                 autumn evening, this monkey was sitting on a rock at the top of the mountain, turning to
                                 the sun and trying to warm himself up a little. Over time, the sunset on the horizon,
                                 the sky began to turn orange, and the cold wind blew. After seeing the sunset, he
@@ -201,36 +220,34 @@
                         <div class="preview col-md-12">
                             <div class="preview-pic tab-content">
                                 <a data-fancybox="gallery"
-                                    href="../../../assets/images/gallery_2021/wildlife-5.jpg"><img
-                                        data-src="../../../assets/images/gallery_2021/wildlife-5.jpg" class="lazy"></a>
+                                    href="../../../assets/images/gallery_2021/wildlife-1.jpg"><img
+                                        data-src="../../../assets/images/gallery_2021/wildlife-1.jpg" class="lazy"></a>
                             </div>
                         </div>
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
-                                <div class="photo-title">Flying Kiss</div>
-                                <div class="photo-location">Pune, India</div>
-                                <div class="photographer-name">Lalith Ekanayake</div>
-                                <div class="photographer-location">Kotte, Sri Lanka</div>
-                                <!-- <a href="--------" class="myButton2">Photographer's
+                                <!-- <img src="../../../assets/images/gallery_2021/-------" class="pull-left gap-right "
+                                    height="150" width="150"> -->
+                                <div class="photo-title">Family</div>
+                                <div class="photo-location">Sasan Gir, Gujarat, India</div>
+                                <div class="photographer-name">Tapan Sheth</div>
+                                <div class="photographer-location">RAjkot,India</div>
+                                <!-- <a href="-------" class="myButton2">Photographer's
                                     Website</a> -->
                             </div>
-                            <span class="text-justify product-description"><span class="story-span">Story:</span> A baby
-                                Borneo Orangutan being fed by its mom whilst hanging on a tree which mimics a “Flying
-                                Kiss”. I was on a small boat in Sekonyer River which was very unstable, like being on an
-                                undulating
-                                platform, hence I handheld the camera to get this difficult but unique shot. Borneo
-                                Orangutans belong to the only genus of great apes native to Asia and are a critically
-                                endangered species, with deforestation, palm oil plantations, and hunting posing a
-                                serious threat to its continued existence. Like the other great apes, orangutans are
-                                highly intelligent, displaying tool use and distinct cultural patterns in the wild.
-                                Orangutans share approximately 97% of their DNA with humans.
+                            <span class="text-justify product-description"><span class="story-span">Story:</span> It's
+                                always an amazing feeling to see big cats in a green environment. This was one of the
+                                memorable moments to see a pride of Asiatic Lions including two lioness and their cubs
+                                playing together. It's amazing to see how a mother takes care of cubs from the same
+                                pride even though one of them is not her cub. All the cubs were playing and feeling safe
+                                with this lioness and I got a chance to capture and witness motherhood.
+                                Entried at 2021-07-20 22:01:11
+
                             </span>
                             <h5 class="sizes">
-                                <span class="camera-span">CAMERA: Nikon D5, Nikon 70-200mm/f2.8, 1/4000
-                                    F/2.8, ISO 800.
+                                <span class="camera-span">CAMERA: Canon EOS-1D X Mark II, EF500mm F/4L IS II USM, 1/160
+                                    F/6.3, ISO 500.
                                 </span>
                             </h5>
                             <div class="action">
@@ -254,8 +271,8 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-----"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/bhavik.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Mouse Taild Bats</div>
                                 <div class="photo-location">Tintoi, Gujarat. India</div>
                                 <div class="photographer-name">Bhavik Thaker</div>
@@ -301,14 +318,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/jayanta.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">One Horned Rhino With Myna</div>
                                 <div class="photo-location">Kaziranga National Park, India</div>
                                 <div class="photographer-name">Jayanta Guha</div>
                                 <div class="photographer-location">Kolkata, India</div>
-                                <!-- <a href="----" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://jayantaguhaphotography.com/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 One-Horned Rhinos are an endengered animal and at the same time it is pride of Assam,
@@ -350,14 +367,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">WINNER LANDSCAPE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/--------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/benyamin.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Ijen Crater</div>
                                 <div class="photo-location">Kawah Ijen, East Java, Indonesia</div>
                                 <div class="photographer-name">Benyamin Wari</div>
                                 <div class="photographer-location">Jakarta, Indonesia</div>
-                                <!-- <a href="-----" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://www.benyaminwari.com" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> Mount
                                 Ijen is a volcano located on the border of Banyuwangi Regency and Bondowoso Regency,
@@ -439,14 +456,15 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED LANDSCAPE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/pyae.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Sunrise over Bagan, Myanmar</div>
                                 <div class="photo-location">Bagan, Myanmar</div>
                                 <div class="photographer-name">Pyae Phyo Thet Paing</div>
                                 <div class="photographer-location">Myanmar</div>
-                                <!-- <a href="-----" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://www.instagram.com/pyae_phyo_thet_paing/"
+                                    class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 Sunrise over the ancient city, Bagan. As an iconic place in Myanmar, Bagan is
@@ -489,13 +507,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED LANDSCAPE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/----"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/biriukova.jpg"
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">winter cloud</div>
                                 <div class="photo-location">Ural Mountains. Russia</div>
                                 <div class="photographer-name">Tatiana Biriukova</div>
                                 <div class="photographer-location">Chelyabinsk, Russia</div>
-                                <!-- <a href="-------" class="myButton2">Photographer's Website</a> -->
+                                <a href="https://uralnature.photographer.ru/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> This
                                 photo was taken on an early frosty morning at the top of the Urenga ridge, South Ural.
@@ -530,14 +549,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED LANDSCAPE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-----"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/ALEXEY-PERELYGIN.jpg"
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Igniting the Milky Way</div>
                                 <div class="photo-location">Kamchatka Peninsula, Russia, </div>
                                 <div class="photographer-name">Alexey Perelygin</div>
                                 <div class="photographer-location">Petropavlovsk-Kamchatsky, Russia</div>
-                                <!-- <a href="------" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://www.instagram.com/alexey_perelygin/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> On the
                                 Kamchatka Peninsula, the Klyuchevskoy volcano erupts, one of the most active and highest
@@ -574,13 +593,13 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED LANDSCAPE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/Xiaoying_Shi_profile.jpg"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/kazuaki.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Beautiful water </div>
                                 <div class="photo-location">Fukushima, Japan</div>
                                 <div class="photographer-name">kazuaki koseki </div>
                                 <div class="photographer-location">Yamagata, Japan</div>
-                                <!-- <a href="----" class="myButton2">Photographer's Website</a> -->
+                                <a href="https://kazuakikoseki.com" class="myButton2">Photographer's Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> I
                                 visited this waterfall early in the morning and waited for the light to shine on it.
@@ -623,18 +642,18 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">WINNER OCEAN</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/andrey.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Nudibranch Coriphella nobilis mating</div>
                                 <div class="photo-location">Rudnaya Bay, Russia.</div>
                                 <div class="photographer-name">Andrey Shpatak</div>
                                 <div class="photographer-location">Dalnegorsk, Russia</div>
-                                <!-- <a href="------" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="shpatak.livejournal.com" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> This
                                 species of nudibranch Coriphella Nobilis is one of the largest (up to 5 cm) and
-                                brightest representatives in the northern part of the Sea of Japan. Its habitat also 
+                                brightest representatives in the northern part of the Sea of Japan. Its habitat also
                                 extends to the more northern seas - Okhotsk and Bering. And I am always glad when I
                                 manage to see them. I was lucky to film the process of their matting. It was
                                 very beautiful.
@@ -664,14 +683,15 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED OCEAN</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2019/profile/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/daisuke.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Tails</div>
                                 <div class="photo-location">Okinawa, Japan</div>
                                 <div class="photographer-name">DAISUKE KURASHIMA</div>
                                 <div class="photographer-location">Zushi, Japan</div>
-                                <!-- <a href="--------" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://www.instagram.com/daisukekurashimaphotography/"
+                                    class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> The
                                 sun was shining beautifully, and a mother and calf humpback whales were swimming
@@ -705,14 +725,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED OCEAN</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/galice.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Clownfish family</div>
                                 <div class="photo-location">Sogod Bay, Philippines </div>
                                 <div class="photographer-name">galice Hoarau</div>
                                 <div class="photographer-location">Fauske, Norway</div>
-                                <!-- <a href="-----" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://galice.no/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> This
                                 photo of a clownfish family was taken during a dive in Sogod Bay, Philippines. </span>
@@ -782,13 +802,13 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED OCEAN</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/ryohei-ito.jpg"
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Fishing</div>
-                                <div class="photo-location">Yawatano, Japan </div>
+                                <div class="photo-location">KAWANA, Japan </div>
                                 <div class="photographer-name">Ryohei Ito </div>
                                 <div class="photographer-location">Saitama, Japan</div>
-                                <!-- <a href="--------" class="myButton2">Photographer's Website</a> -->
+                                <a href="http://ryoheiito-photography.com/" class="myButton2">Photographer's Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> When a
                                 frogfish is hungry, it uses a fake bait called esca to lure its prey. It looks like a
@@ -821,14 +841,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED OCEAN</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-----"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/wai-hoe.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Wobbegong shark on a table coral</div>
                                 <div class="photo-location">Raja Ampat, Indonesia</div>
                                 <div class="photographer-name">Wai Hoe Mok</div>
                                 <div class="photographer-location">Singapore</div>
-                                <!-- <a href="---------" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://www.mokwaihoe.com/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 Wobbegong sharks, also known as carpet sharks are found mainly around Australia and
@@ -869,8 +889,8 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">WINNER SMALL WORLD</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-----"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/minghui.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Peep through the Window</div>
                                 <div class="photo-location">Wuhan, China </div>
                                 <div class="photographer-name">Yuan Minghui</div>
@@ -911,14 +931,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/yuasa.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Shining family </div>
                                 <div class="photo-location">Kobe, Japan</div>
                                 <div class="photographer-name">MITSUNORI YUASA</div>
                                 <div class="photographer-location">Amagasaki, Japan</div>
-                                <!-- <a href="--------" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://www.nori-yuasa.com/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> This
                                 small glowing mushroom, called Shii no Tomoshibitake in Japanese or heavenly light
@@ -956,8 +976,8 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/yuhui.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Guarding</div>
                                 <div class="photo-location">Guangdong, China</div>
                                 <div class="photographer-name">Yuhui Hu</div>
@@ -995,15 +1015,17 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/guek.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Spider</div>
                                 <div class="photo-location">Saiong, Perak, Malaysia</div>
                                 <div class="photographer-name">Guek Cheng Lim</div>
                                 <div class="photographer-location">GOPENG, Malaysia</div>
-                                <!-- <a href="------- class="myButton2">Photographer's Website</a> -->
+                                <a href="https://www.facebook.com/profile.php?id=100009369162953"
+                                    class="myButton2">Photographer's Website</a>
                             </div>
-                            <span class="text-justify product-description"><span class="story-span">Story:</span> I found
+                            <span class="text-justify product-description"><span class="story-span">Story:</span> I
+                                found
                                 this spider in the morning, feeding on its prey an even tinier insect than the already
                                 small spider. Droplets from the morning dew can be seen on the leaf it rests on giving
                                 character to the image. </span>
@@ -1074,8 +1096,8 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/K.jayara.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Hawk moth caterpillars in different instars</div>
                                 <div class="photo-location">Coimbatore, Tamil Nadu, India</div>
                                 <div class="photographer-name">K. Jayaram</div>
@@ -1114,38 +1136,38 @@
                     <div class="wrapper row">
                         <div class="preview col-md-12">
                             <div class="preview-pic tab-content">
-                                <a data-fancybox="gallery"
-                                    href="../../../assets/images/gallery_2021/bird-winner.jpg"><img
-                                        data-src="../../../assets/images/gallery_2021/bird-winner.jpg" class="lazy"></a>
+                                <a data-fancybox="gallery" href="../../../assets/images/gallery_2021/bird-5.jpg"><img
+                                        data-src="../../../assets/images/gallery_2021/bird-5.jpg" class="lazy"></a>
                             </div>
                         </div>
                         <div class="details col-md-8">
-                            <h3 class="product-title">WINNER BIRDS</h3>
+                            <h3 class="product-title">Winner BIRDS</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/----------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
-                                <div class="photo-title">Cooling off</div>
-                                <div class="photo-location">Coochbehar, India</div>
-                                <div class="photographer-name">Rahul Singh</div>
-                                <div class="photographer-location">Jalpaiguri, India</div>
-                                <!-- <a href="----------" class="myButton2">Photographer's Website</a> -->
+                                <img src="../../../assets/images/gallery_2021/sangram.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
+                                <div class="photo-title">Preening Darter</div>
+                                <div class="photo-location">Keoladeo National Park, India</div>
+                                <div class="photographer-name">Sangram govardhane</div>
+                                <div class="photographer-location">Adgaon, India</div>
+                                <a href="https://www.instagram.com/traveltales_by_sangram"
+                                    class="myButton2">Photographer's Website</a>
                             </div>
-                            <span class="text-justify product-description"><span class="story-span">Story:</span> In
-                                August 2020 I visited Coochbehar, where there were bushes of these Ornamental Banana
-                                (Musa
-                                ornata) to click the photos of Sunbird sucking nectar from it.
-                                Everything was going as usual but sudenly I was shocked that this crimson started taking
-                                a bath
-                                in the water stored in the banana flower petal from an early morning
-                                drizzle. I was literally stunned to see this unusual behaviour of the bird. I kept my
-                                camera's shutter button pressed as the bird took the bath. This was really a once in a
-                                lifetime moment. It is amazing how nature can surprise us. In this image the bird was
-                                frozen in action with it's head upside down while it was taking bath in the flower
-                                petal.</span>
+                            <span class="text-justify product-description"><span class="story-span">Story:</span> This
+                                picture was taken during my birding trip to the Keoladeo Ghana bird sanctuary in the
+                                state of Rajasthan, Northern India. We were observing and capturing these darters and
+                                cormorants busy fishing in the large Mansarovar lake at the center of the park. These
+                                birds have wettable plumage which helps them in their underwater fishing technique of
+                                ambushing and stabbing their prey fish with the help of their pointed beak and long
+                                snake-like neck. However, because of this wettable plumage they become temporarily
+                                flightless after their long fishing sessions and need to dry their wings in the sunlight
+                                and do proper preening of their feathers. This particular darter decided to take some
+                                rest from his hour-long fishing activity and chose a branch close to us for drying its
+                                feathers. I took full advantage of the perfect afternoon light and close proximity to
+                                the bird and managed to get a sharp behavioral portrait of the darter, drying his
+                                feathers and preening at the same time.
+                            </span>
                             <h5 class="sizes">
-                                <span class="camera-span">CAMERA: Nikon D7100, Nikon AFS 200-500 f5.6, 1/1600, F/5.6,
-                                    ISO
-                                    720.
+                                <span class="camera-span">CAMERA: Nikon D 500, Nikon 200 - 500, 1/1600, F/5.6, ISO 400.
                                 </span>
                             </h5>
                             <div class="action">
@@ -1168,12 +1190,12 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/fang.png" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Black-winged Kites</div>
                                 <div class="photo-location">Guangdong，China</div>
                                 <div class="photographer-name">Shaohua Fang</div>
-                                <div class="photographer-location">China</div>
+                                <div class="photographer-location">Jiangxi Province，China</div>
                                 <!-- <a href="-----" class="myButton2">Photographer's
                            Website</a> -->
                             </div>
@@ -1249,13 +1271,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/----"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/lalith.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Brood</div>
                                 <div class="photo-location">Mannar, Sri Lanka</div>
                                 <div class="photographer-name">Lalith Ekanayake</div>
                                 <div class="photographer-location">Kotte, Sri Lanka</div>
-                                <!-- <a href="" class="myButton2">Photographer's Website</a> -->
+                                <a href="https://www.facebook.com/lalith.ekanayake" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 Greater Crested Terns (Thalasseus bergii) are one of the migratory birds to Sri Lanka
@@ -1291,7 +1314,7 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/fuyang-profile.jpg"
+                                <!-- <img src="../../../assets/images/gallery_2021/----------"
                                     class="pull-left gap-right " height="150" width="150"> -->
                                 <div class="photo-title">A growing family</div>
                                 <div class="photo-location">Kranji Marshes, Singapore</div>
@@ -1328,36 +1351,33 @@
                     <div class="wrapper row">
                         <div class="preview col-md-12">
                             <div class="preview-pic tab-content">
-                                <a data-fancybox="gallery" href="../../../assets/images/gallery_2021/bird-5.jpg"><img
-                                        data-src="../../../assets/images/gallery_2021/bird-5.jpg" class="lazy"></a>
+                                <a data-fancybox="gallery" href="../../../assets/images/gallery_2021/bird-6.jpg"><img
+                                        data-src="../../../assets/images/gallery_2021/bird-6.jpg" class="lazy"></a>
                             </div>
                         </div>
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/li_-yongkang-profile.jpg"
-                                    class="pull-left gap-right " height="150" width="150"> -->
-                                <div class="photo-title">Preening Darter</div>
-                                <div class="photo-location">Keoladeo National Park, India</div>
-                                <div class="photographer-name">Sangram govardhane</div>
-                                <div class="photographer-location">Adgaon, India</div>
+                                <!-- <img src="../../../assets/images/gallery_2021/--------" class="pull-left gap-right "
+                                    height="150" width="150"> -->
+                                <div class="photo-title">One for the Road</div>
+                                <div class="photo-location">Ranganathittu, Karnataka, India</div>
+                                <div class="photographer-name">Zhayynn James</div>
+                                <div class="photographer-location">Nungambakkam, India</div>
+                                <!-- <a href="------"
+                                    class="myButton2">Photographer's Website</a> -->
                             </div>
-                            <span class="text-justify product-description"><span class="story-span">Story:</span> This
-                                picture was taken during my birding trip to the Keoladeo Ghana bird sanctuary in the
-                                state of Rajasthan, Northern India. We were observing and capturing these darters and
-                                cormorants busy fishing in the large Mansarovar lake at the center of the park. These
-                                birds have wettable plumage which helps them in their underwater fishing technique of
-                                ambushing and stabbing their prey fish with the help of their pointed beak and long
-                                snake-like neck. However, because of this wettable plumage they become temporarily
-                                flightless after their long fishing sessions and need to dry their wings in the sunlight
-                                and do proper preening of their feathers. This particular darter decided to take some
-                                rest from his hour-long fishing activity and chose a branch close to us for drying its
-                                feathers. I took full advantage of the perfect afternoon light and close proximity to
-                                the bird and managed to get a sharp behavioral portrait of the darter, drying his
-                                feathers and preening at the same time.
+                            <span class="text-justify product-description"><span class="story-span">Story:</span> The
+                                winter morning fog had just lifted when this spot-billed pelican came in low over the
+                                surface of the river to scoop water to carry back to its chicks in the nest. As it
+                                skimmed the surface with its lower bill, the water rushing into its stretched lower
+                                pouch, dragged its head back and under, momentarily causing it to look back upside-down and
+                                dribble its drink. I lay as low as possible in my boat to get down to eye level and
+                                made this image at that instant, before it righted its head and flew on, all in just a
+                                moment.
                             </span>
                             <h5 class="sizes">
-                                <span class="camera-span">CAMERA: Nikon D 500, Nikon 200 - 500, 1/1600, F/5.6, ISO 400.
+                                <span class="camera-span">CAMERA: Nikon D5, AF-S Nikko 500mm f/4G ED VR, 1/6400, F/4, ISO 1000.
                                 </span>
                             </h5>
                             <div class="action">
@@ -1386,13 +1406,13 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">WINNER JUNIOR</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/----------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/arshdeep_singh_profile.jpg"
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Tangled Together</div>
                                 <div class="photo-location">Kapurthala, India</div>
                                 <div class="photographer-name">Arshdeep Singh</div>
-                                <div class="photographer-location">Mandir, India</div>
-                                <!-- <a href="-------" class="myButton2">Photographer's Website</a> -->
+                                <div class="photographer-location">Jalandhar, India</div>
+                                <!-- <a href="https://www.instagram.com/arshdeep.wp" class="myButton2">Photographer's Website</a> -->
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> I love
                                 observing the behaviour of various species in nature. There are such varied and
@@ -1438,12 +1458,12 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED JUNIOR</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-----"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/zeyu.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">ANGRY BIRD</div>
                                 <div class="photo-location">Liaoning Province，China</div>
                                 <div class="photographer-name">Zeyu Zhai</div>
-                                <div class="photographer-location">China</div>
+                                <div class="photographer-location">Liaoning Province，China</div>
                                 <!--<a href="" class="myButton2">Photographer's
                            Website</a>-->
                             </div>
@@ -1598,8 +1618,8 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED JUNIOR</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/---------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/arshdeep_singh_profile.jpg"
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">I C U !</div>
                                 <div class="photo-location">Kapurthala, India</div>
                                 <div class="photographer-name">Arshdeep Singh</div>
@@ -1654,14 +1674,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">VIDEO WINNER</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/------" class="pull-left gap-right "
-                                    height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/ando.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Green Season in Eastern Hokkaido</div>
                                 <div class="photo-location">East Hokkaido, Japan</div>
                                 <div class="photographer-name">makoto ando</div>
                                 <div class="photographer-location">Tsurui, Japan</div>
-                                <!-- <a href="------"
-                                    class="myButton2">Photographer's Website</a> -->
+                                <a href="http://hickorywind.jp" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 Throughout the year, I have been photographing wildlife in the Tohoku Kaido, the
@@ -1697,13 +1717,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">Video Highly Honored</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/profile/------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/urmil.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Still Surviving - Indian Skimmer</div>
                                 <div class="photo-location">Jamnagar, INDIA</div>
                                 <div class="photographer-name">Urmil Jhaveri</div>
                                 <div class="photographer-location">Jamnagar, India</div>
-                                <!-- <a href="---------" class="myButton2">Photographer's Website</a> -->
+                                <a href="https://www.instagram.com/urmiljhaveri/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> This
                                 endangered bird species called " Indian Skimmer or Indian Scissors-bill ( Rynchops
@@ -1740,14 +1761,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">Video Highly Honored</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/kengo.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Herons courtship</div>
                                 <div class="photo-location">Ina, Japan</div>
                                 <div class="photographer-name">Kengo Kobayashi</div>
                                 <div class="photographer-location">Nagano, Japan</div>
-                                <!-- <a href="-------" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://www.instagram.com/damselflyeye/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> The
                                 breeding season for large herons is very attractive.
@@ -1789,7 +1810,8 @@
                                 <div class="photo-location">Rushikulya, Odisha, India</div>
                                 <div class="photographer-name">Saurabh Chakraborty</div>
                                 <div class="photographer-location">KOLKATA, India</div>
-                                <!-- <a href="--------" class="myButton2">Photographer's Website</a> -->
+                                <a href="https://www.instagram.com/saurabh.chakraborty.14/"
+                                    class="myButton2">Photographer's Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 Every year the barren beaches of Rushikhulya come alive when thousands & sometimes
@@ -1855,23 +1877,23 @@
                     <div class="wrapper row">
                         <div class="preview col-md-12">
                             <div class="preview-pic tab-content">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/IYUCUxihxKw"
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/aCEF5wXiSOg"
                                     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                <p><a href="https://www.youtube.com/embed/IYUCUxihxKw">Philippines Super Trip</a></p>
+                                <p><a href="https://www.youtube.com/embed/aCEF5wXiSOg">Philippines Super Trip</a></p>
                             </div>
                         </div>
                         <div class="details col-md-8">
                             <h3 class="product-title">Video Highly Honored</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-----"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/tim.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Philippines Super Trip</div>
                                 <div class="photo-location">Central Visayas, Philippines
                                 </div>
                                 <div class="photographer-name">Timothy Rock</div>
                                 <div class="photographer-location">Guam</div>
-                                <!-- <a href="-------" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="http://www.doubleblueimages.com" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 In 2019 a group of like-minded divers put together an itinerary to visit for 12 days the
@@ -1886,9 +1908,9 @@
                                 times, we wish our hosts the best and hope visitors can soon return to see these ocean
                                 wonders.</span>
                             <h5 class="sizes">
-                                <span class="camera-span">CAMERA:</span> Panasonic GH4 & GoPro, Panasonic 7-14mm, also
-                                8mm and 30mm macro,
-                                OrcaTorch 10,000 lights (2).
+                                <span class="camera-span">CAMERA:</span> Panasonic GH4, Gopro & Osmo Action Cams,
+                                Panasonic 7-14mm, also 8mm and 30mm macro, DJI Mavic Pro, Orcatorch 10,000 video lights
+                                (2).
                             </h5>
                             <div class="action">
                             </div>
