@@ -1364,7 +1364,7 @@
                                 <div class="photo-location">Ranganathittu, Karnataka, India</div>
                                 <div class="photographer-name">Zhayynn James</div>
                                 <div class="photographer-location">Nungambakkam, India</div>
-                                <a href="www.instagram.com/zhayynnjamesphotography"
+                                <a href="https://www.instagram.com/zhayynnjamesphotography/"
                                     class="myButton2">Photographer's Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> The
