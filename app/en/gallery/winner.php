@@ -1358,14 +1358,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/--------" class="pull-left gap-right "
-                                    height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/james.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">One for the Road</div>
                                 <div class="photo-location">Ranganathittu, Karnataka, India</div>
                                 <div class="photographer-name">Zhayynn James</div>
                                 <div class="photographer-location">Nungambakkam, India</div>
-                                <!-- <a href="------"
-                                    class="myButton2">Photographer's Website</a> -->
+                                <a href="www.instagram.com/zhayynnjamesphotography"
+                                    class="myButton2">Photographer's Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> The
                                 winter morning fog had just lifted when this spot-billed pelican came in low over the
