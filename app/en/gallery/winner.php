@@ -95,7 +95,7 @@
                             </div>
                         </div>
                         <div class="details col-md-8">
-                            <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
+                            <h3 class="product-title">WINNER WILDLIFE</h3>
                             <div class="clearfix">
                                 <img src="../../../assets/images/gallery_2021/lalith.jpg" class="pull-left gap-right "
                                     height="150" width="150">
