@@ -3,32 +3,33 @@
 
 <?php include "../includes/head.php";?>
 
+
 <body data-spy="scroll" data-target=".onpage-navigation" data-offset="150">
-    <!--<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=BKM8I&webforms_id=9131504"></script>-->
+   <!--<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=BKM8I&webforms_id=9131504"></script>-->
 
-    <script>
-    $(function() {
-        $('.lazy').Lazy();
-    });
-    </script>
-
-    <div class="gallerywrapper" id="gallerywrapper">
-        <?php include "../includes/nav-gallery.php";?>
-        <div class="container mainTitle">
-            <h3 class="gallery_header">winners gallery 2021</h3>
-        </div>
-        <div class="container">
-            <div class="text-center tabsContainerButton">
-                <a href="#wildlife" class="btn btn-default btn-lg" role="button">Wildlife</a>
-                <a href="#landscape" class="btn btn-default btn-lg" role="button">Landscape</a>
-                <a href="#ocean" class="btn btn-default btn-lg" role="button">Ocean</a>
-                <a href="#small world" class="btn btn-default btn-lg" role="button">Small World</a>
-                <a href="#birds" class="btn btn-default btn-lg" role="button">Birds</a>
-                <a href="#junior" class="btn btn-default btn-lg" role="button">Junior</a>
-                <a href="#video" class="btn btn-default btn-lg" role="button">Video</a>
-            </div>
-        </div>
-        <div class="container">
+   <script>
+      $(function () {
+         $('.lazy').Lazy();
+      });
+   </script>
+   <div class="gallerywrapper" id="gallerywrapper">
+   <?php include "../includes/nav-gallery.php";?>
+      <div class="container mainTitle">
+         <h3 class="gallery_header">winners gallery 2021</h3>
+      </div>
+      <div class="container">
+         <div class="text-center tabsContainerButton">
+            <a href="#wildlife" class="btn btn-default btn-lg" role="button">Wildlife</a>
+            <a href="#landscape" class="btn btn-default btn-lg" role="button">Landscape</a>
+            <a href="#ocean" class="btn btn-default btn-lg" role="button">Ocean</a>
+            <a href="#small world" class="btn btn-default btn-lg" role="button">Small World</a>
+            <a href="#birds" class="btn btn-default btn-lg" role="button">Birds</a>
+            <a href="#junior" class="btn btn-default btn-lg" role="button">Junior</a>
+            <a href="#video" class="btn btn-default btn-lg" role="button">Video</a>
+         </div>
+         <div id="google_translate_element" class="google center"></div>
+      </div>
+      <div class="container">
             <h3 class="gallery_title">GRAND PRIZE</h3>
 
             <!--Grand Prize-->
@@ -1919,9 +1920,14 @@
                 </div>
             </div>
         </div>
+        <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
 
-        <?php include "../includes/footer-gallery.php";?>
-
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+      <?php include "../includes/footer-gallery.php";?>
 </body>
 
 </html>
