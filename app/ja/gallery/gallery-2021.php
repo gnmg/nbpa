@@ -228,14 +228,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED WILDLIFE</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-------" class="pull-left gap-right "
-                                    height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/tapan.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
                                 <div class="photo-title">Family</div>
                                 <div class="photo-location">Sasan Gir, Gujarat, India</div>
                                 <div class="photographer-name">Tapan Sheth</div>
                                 <div class="photographer-location">RAjkot, India</div>
-                                <!-- <a href="-------" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="https://www.tapansheth.com/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> It's
                                 always an amazing feeling to see big cats in a green environment. This was one of the
@@ -243,8 +243,6 @@
                                 playing together. It's amazing to see how a mother takes care of cubs from the same
                                 pride even though one of them is not her cub. All the cubs were playing and feeling safe
                                 with this lioness and I got a chance to capture and witness motherhood.
-                                Entried at 2021-07-20 22:01:11
-
                             </span>
                             <h5 class="sizes">
                                 <span class="camera-span">CAMERA: Canon EOS-1D X Mark II, EF500mm F/4L IS II USM, 1/160
