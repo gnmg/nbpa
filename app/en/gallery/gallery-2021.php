@@ -275,8 +275,8 @@
                                 <div class="photo-location">Tintoi, Gujarat. India</div>
                                 <div class="photographer-name">Bhavik Thaker</div>
                                 <div class="photographer-location">Mumbai, India</div>
-                                <!-- <a href="-----" class="myButton2">Photographer's
-                                    Website</a> -->
+                                <a href="http://www.bhavikthakerphotography.com/" class="myButton2">Photographer's
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 During the Covid pendemic we had moved our base from the city to the country side as we
