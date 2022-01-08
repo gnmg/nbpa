@@ -104,8 +104,8 @@
                                 <div class="photo-location">Kalimantan Rainforest, Indonesia</div>
                                 <div class="photographer-name">Lalith Ekanayake</div>
                                 <div class="photographer-location">Kotte, Sri Lanka</div>
-                                <a href="https://www.facebook.com/lalith.ekanayake" class="myButton2">Photographer's
-                                    Website</a>
+                                <!-- <a href="--------" class="myButton2">Photographer's
+                                    Website</a> -->
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> A baby
                                 Borneo Orangutan being fed by its mom whilst hanging on a tree which mimics a “Flying
@@ -1276,8 +1276,8 @@
                                 <div class="photo-location">Mannar, Sri Lanka</div>
                                 <div class="photographer-name">Lalith Ekanayake</div>
                                 <div class="photographer-location">Kotte, Sri Lanka</div>
-                                <a href="https://www.facebook.com/lalith.ekanayake" class="myButton2">Photographer's
-                                    Website</a>
+                                <!-- <a href="-------" class="myButton2">Photographer's
+                                    Website</a> -->
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 Greater Crested Terns (Thalasseus bergii) are one of the migratory birds to Sri Lanka
