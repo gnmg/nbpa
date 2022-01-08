@@ -1803,8 +1803,8 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">Video Highly Honored</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/--------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/saurabh.jpg"
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Journey Of Olive Ridley Sea Turtles</div>
                                 <div class="photo-location">Rushikulya, Odisha, India</div>
                                 <div class="photographer-name">Saurabh Chakraborty</div>
