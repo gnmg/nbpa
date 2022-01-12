@@ -1313,8 +1313,8 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/----------"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/tan.jpg"
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">A growing family</div>
                                 <div class="photo-location">Kranji Marshes, Singapore</div>
                                 <div class="photographer-name">Tze Siong Tan</div>
