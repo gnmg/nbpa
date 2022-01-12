@@ -1228,15 +1228,15 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
-                                <!-- <img src="../../../assets/images/gallery_2021/-----"
-                                    class="pull-left gap-right " height="150" width="150"> -->
+                                <img src="../../../assets/images/gallery_2021/akira.jpg"
+                                    class="pull-left gap-right " height="150" width="150">
                                 <div class="photo-title">Magic Hour</div>
                                 <div class="photo-location">Hokkaido, Japan</div>
                                 <div class="photographer-name">Akira Sato</div>
                                 <div class="photographer-location">Kushiro, Japan</div>
-                                <!-- <a href="-------"
+                                <a href="https://www.instagram.com/lacciophoto/"
                                     class="myButton2">Photographer's
-                                    Website</a> -->
+                                    Website</a>
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span> A pair
                                 of Ezo owls sunggled together, watching the last few rays wash
@@ -1270,15 +1270,14 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED BIRDS</h3>
                             <div class="clearfix">
-                                <img src="../../../assets/images/gallery_2021/akira.jpg"
-                                    class="pull-left gap-right " height="150" width="150">
-                                <div class="photo-title">Magic Hour</div>
-                                <div class="photo-location">Hokkaido, Japan</div>
-                                <div class="photographer-name">Akira Sato</div>
-                                <div class="photographer-location">Kushiro, Japan</div>
-                                <a href="https://www.instagram.com/lacciophoto/"
-                                    class="myButton2">Photographer's
-                                    Website</a>
+                                <img src="../../../assets/images/gallery_2021/lalith.jpg" class="pull-left gap-right "
+                                    height="150" width="150">
+                                <div class="photo-title">Brood</div>
+                                <div class="photo-location">Mannar, Sri Lanka</div>
+                                <div class="photographer-name">Lalith Ekanayake</div>
+                                <div class="photographer-location">Kotte, Sri Lanka</div>
+                                <!-- <a href="--------" class="myButton2">Photographer's
+                                    Website</a> -->
                             </div>
                             <span class="text-justify product-description"><span class="story-span">Story:</span>
                                 Greater Crested Terns (Thalasseus bergii) are one of the migratory birds to Sri Lanka
