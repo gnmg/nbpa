@@ -1095,7 +1095,7 @@
                         <div class="details col-md-8">
                             <h3 class="product-title">HIGHLY HONORED SMALL WORLD</h3>
                             <div class="clearfix">
-                                <img src="../../../assets/images/gallery_2021/k.jayara.jpg" class="pull-left gap-right "
+                                <img src="../../../assets/images/gallery_2021/jayara.jpg" class="pull-left gap-right "
                                     height="150" width="150">
                                 <div class="photo-title">Hawk moth caterpillars in different instars</div>
                                 <div class="photo-location">Coimbatore, Tamil Nadu, India</div>
