@@ -104,9 +104,12 @@ function closeNav() {
 <script>
 var randomImage = {
     paths: [
-        "../../assets/images/hero-top.jpg",
-        "../../assets/images/chandra.jpg",
-        "../../assets/images/gabriel.jpg"
+        "../../assets/images/masuda.jpg",
+        "../../assets/images/minghui.jpg",
+        "../../assets/images/wari.jpg",
+        "../../assets/images/arshdeep.jpg",
+        "../../assets/images/sudith.jpg",
+        "../../assets/images/rahul.jpg"
     ],
 
     generate: function() {
