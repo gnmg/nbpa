@@ -36,7 +36,7 @@
     LeadDyno.recordVisit();
     LeadDyno.autoWatch();
     </script>
-
+<script type="text/javascript" src="https://static.leaddyno.com/js"></script> <script> LeadDyno.key = "7147ce51f7f4097909c9a3fb4051a06c6731e37b"; LeadDyno.recordVisit(); LeadDyno.autoWatch(); </script> 
   </head>
 
   <body>
