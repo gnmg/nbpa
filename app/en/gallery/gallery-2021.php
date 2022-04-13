@@ -369,7 +369,7 @@
                                     height="150" width="150">
                                 <div class="photo-title">Ijen Crater</div>
                                 <div class="photo-location">Kawah Ijen, East Java, Indonesia</div>
-                                <div class="photographer-name">Benyamin Wari</div>
+                                <div class="photographer-name">Bunyamin Wari</div>
                                 <div class="photographer-location">Jakarta, Indonesia</div>
                                 <a href="https://www.benyaminwari.com" class="myButton2">Photographer's
                                     Website</a>
