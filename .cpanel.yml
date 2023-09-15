@@ -1,5 +1,5 @@
 ---
 deployment:
       tasks:
-        - export DEPLOYPATH=/home/jstartah/naturesphotography.asia/  # Add /<app_folder> if require
+        - export DEPLOYPATH=/home/jstartah/naturesbestphotography.asia/  # Add /<app_folder> if require
         - /bin/cp -r * $DEPLOYPATH
