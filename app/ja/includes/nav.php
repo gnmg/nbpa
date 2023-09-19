@@ -17,7 +17,7 @@
           <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
           <a href="../ja/">HOME</a>
           <a href="../ja/contest-details.php">応募概要</a>
-          <a href="https://naturesbestphotography.asia/user/entry/entry?lang=ja">応募</a>
+          <!--<a href="https://naturesbestphotography.asia/user/entry/entry?lang=ja">応募</a>-->
           <a href="../ja/judges.php">審査員</a>
 
           <li class="dropdown">
@@ -52,7 +52,7 @@
           <ul class="nav navbar-nav">
             <li><a href="../ja/">HOME</a></li>
             <li><a href="../ja/contest-details.php">応募概要</a></li>
-            <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=ja">応募</a></li>
+            <!--<li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=ja">応募</a></li>-->
             <li><a href="../ja/judges.php">審査員</a></li>
             <li></li>
             <li>

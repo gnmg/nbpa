@@ -14,7 +14,7 @@
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
             <a href="../en/">HOME</a>
             <a href="../en/contest-details.php">CONTEST DETAILS</a>
-            <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
+            <!--<li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>-->
             <a href="../en/judges.php">JUDGES</a>
             <a href="../en/exhibitions.php">EXHIBITIONS</a>
 
@@ -48,7 +48,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="../en/">HOME</a></li>
                 <li><a href="../en/contest-details.php">CONTEST DETAILS</a></li>
-                <li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>
+                <!--<li><a href="https://naturesbestphotography.asia/user/entry/entry?lang=en">ENTER</a></li>-->
                 <li><a href="../en/judges.php">JUDGES</a></li>
                 <li><a href="../en/exhibitions.php">EXHIBITIONS</a></li>
                 <li class="dropdown">
